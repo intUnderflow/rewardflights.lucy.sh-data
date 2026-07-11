@@ -1,0 +1,53 @@
+{
+ "airlines": {
+  "BA": {
+   "cabins": {
+    "1": "Economy",
+    "2": "Premium Economy",
+    "4": "Business",
+    "8": "First"
+   },
+   "name": "British Airways",
+   "slug": "british-airways"
+  }
+ },
+ "days": 517,
+ "epoch": "2026-01-01",
+ "license": {
+  "attribution": "Contains data from github.com/intUnderflow/rewardflights, © its contributors, Open Database License (ODbL) v1.0",
+  "spdx": "ODbL-1.0",
+  "url": "https://opendatacommons.org/licenses/odbl/1-0/"
+ },
+ "places": {
+  "BNA": {
+   "country": "United States",
+   "name": "Nashville"
+  },
+  "LON": {
+   "country": "United Kingdom",
+   "name": "London",
+   "search": [
+    "Heathrow",
+    "LHR",
+    "Gatwick",
+    "LGW",
+    "London City",
+    "LCY",
+    "Stansted",
+    "STN",
+    "Luton",
+    "LTN"
+   ]
+  }
+ },
+ "routes": {
+  "BNA-LON": {
+   "a": {
+    "BA": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005757400557477537170077774167777055507500710573000040002010151131661110100400015640444420002402311114137151010000010153031113315317103313351033133777575755757711337537436777300173173777777577777773377777777777777777777737575777777375777757777777377775337777731377377777777517737373177373355337371731333333773377713137733171337"
+   }
+  }
+ },
+ "schema": 1,
+ "t": 1783810462,
+ "v": "600836f9d7cf963a77a49bfbe1169592742ac90c"
+}

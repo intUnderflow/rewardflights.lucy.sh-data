@@ -1,0 +1,53 @@
+{
+ "airlines": {
+  "BA": {
+   "cabins": {
+    "1": "Economy",
+    "2": "Premium Economy",
+    "4": "Business",
+    "8": "First"
+   },
+   "name": "British Airways",
+   "slug": "british-airways"
+  }
+ },
+ "days": 517,
+ "epoch": "2026-01-01",
+ "license": {
+  "attribution": "Contains data from github.com/intUnderflow/rewardflights, © its contributors, Open Database License (ODbL) v1.0",
+  "spdx": "ODbL-1.0",
+  "url": "https://opendatacommons.org/licenses/odbl/1-0/"
+ },
+ "places": {
+  "KGS": {
+   "country": "Greece",
+   "name": "Kos"
+  },
+  "LON": {
+   "country": "United Kingdom",
+   "name": "London",
+   "search": [
+    "Heathrow",
+    "LHR",
+    "Gatwick",
+    "LGW",
+    "London City",
+    "LCY",
+    "Stansted",
+    "STN",
+    "Luton",
+    "LTN"
+   ]
+  }
+ },
+ "routes": {
+  "KGS-LON": {
+   "a": {
+    "BA": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000555545555555555555505545500000000005000000500000004000005455000005101150551045055000005500150555005555000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000050050005001000100505545555515555"
+   }
+  }
+ },
+ "schema": 1,
+ "t": 1783810462,
+ "v": "600836f9d7cf963a77a49bfbe1169592742ac90c"
+}

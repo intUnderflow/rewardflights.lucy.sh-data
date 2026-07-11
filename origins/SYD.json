@@ -1,0 +1,53 @@
+{
+ "airlines": {
+  "BA": {
+   "cabins": {
+    "1": "Economy",
+    "2": "Premium Economy",
+    "4": "Business",
+    "8": "First"
+   },
+   "name": "British Airways",
+   "slug": "british-airways"
+  }
+ },
+ "days": 517,
+ "epoch": "2026-01-01",
+ "license": {
+  "attribution": "Contains data from github.com/intUnderflow/rewardflights, © its contributors, Open Database License (ODbL) v1.0",
+  "spdx": "ODbL-1.0",
+  "url": "https://opendatacommons.org/licenses/odbl/1-0/"
+ },
+ "places": {
+  "LON": {
+   "country": "United Kingdom",
+   "name": "London",
+   "search": [
+    "Heathrow",
+    "LHR",
+    "Gatwick",
+    "LGW",
+    "London City",
+    "LCY",
+    "Stansted",
+    "STN",
+    "Luton",
+    "LTN"
+   ]
+  },
+  "SYD": {
+   "country": "Australia",
+   "name": "Sydney"
+  }
+ },
+ "routes": {
+  "SYD-LON": {
+   "a": {
+    "BA": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003337000632300126360000060000000000000000000000000000000000011201131131111111113331311311100111131113327151133000375331377773141773111077300000010000000000000040000001100000000000000100000000222036233313113371111311133337111011200000001000101111110111111111110211111110101000000110111111111131111713113331731311313333311335331"
+   }
+  }
+ },
+ "schema": 1,
+ "t": 1783810462,
+ "v": "600836f9d7cf963a77a49bfbe1169592742ac90c"
+}
