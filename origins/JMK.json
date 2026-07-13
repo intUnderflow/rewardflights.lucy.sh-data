@@ -16,10 +16,18 @@
  "places": {
   "JMK": {
    "country": "Greece",
+   "g": [
+    37.435,
+    25.348
+   ],
    "name": "Mykonos"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

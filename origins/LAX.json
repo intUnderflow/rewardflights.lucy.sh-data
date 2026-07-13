@@ -16,10 +16,18 @@
  "places": {
   "LAX": {
    "country": "United States",
+   "g": [
+    33.943,
+    -118.408
+   ],
    "name": "Los Angeles"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

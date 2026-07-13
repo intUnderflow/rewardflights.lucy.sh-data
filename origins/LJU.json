@@ -16,10 +16,18 @@
  "places": {
   "LJU": {
    "country": "Slovenia",
+   "g": [
+    46.224,
+    14.458
+   ],
    "name": "Ljubljana"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

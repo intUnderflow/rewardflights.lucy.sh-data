@@ -16,10 +16,18 @@
  "places": {
   "CHQ": {
    "country": "Greece",
+   "g": [
+    35.531,
+    24.151
+   ],
    "name": "Chania"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

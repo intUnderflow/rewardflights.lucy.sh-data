@@ -16,10 +16,18 @@
  "places": {
   "BDS": {
    "country": "Italy",
+   "g": [
+    40.658,
+    17.947
+   ],
    "name": "Brindisi"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

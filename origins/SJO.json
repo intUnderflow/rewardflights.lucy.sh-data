@@ -16,6 +16,10 @@
  "places": {
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -32,6 +36,10 @@
   },
   "SJO": {
    "country": "Costa Rica",
+   "g": [
+    9.994,
+    -84.209
+   ],
    "name": "San José"
   }
  },

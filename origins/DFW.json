@@ -16,10 +16,18 @@
  "places": {
   "DFW": {
    "country": "United States",
+   "g": [
+    32.897,
+    -97.038
+   ],
    "name": "Dallas–Fort Worth"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

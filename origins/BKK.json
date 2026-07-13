@@ -16,10 +16,18 @@
  "places": {
   "BKK": {
    "country": "Thailand",
+   "g": [
+    13.681,
+    100.747
+   ],
    "name": "Bangkok"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

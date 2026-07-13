@@ -16,6 +16,10 @@
  "places": {
   "CHI": {
    "country": "United States",
+   "g": [
+    41.878,
+    -87.63
+   ],
    "name": "Chicago",
    "search": [
     "O'Hare",
@@ -26,6 +30,10 @@
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

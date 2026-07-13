@@ -16,10 +16,18 @@
  "places": {
   "BOS": {
    "country": "United States",
+   "g": [
+    42.362,
+    -71.008
+   ],
    "name": "Boston"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

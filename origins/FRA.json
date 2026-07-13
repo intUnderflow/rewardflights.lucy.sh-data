@@ -16,10 +16,18 @@
  "places": {
   "FRA": {
    "country": "Germany",
+   "g": [
+    50.027,
+    8.558
+   ],
    "name": "Frankfurt"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

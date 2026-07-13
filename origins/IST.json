@@ -16,6 +16,10 @@
  "places": {
   "IST": {
    "country": "Türkiye",
+   "g": [
+    41.275,
+    28.732
+   ],
    "name": "Istanbul",
    "search": [
     "Sabiha Gokcen",
@@ -24,6 +28,10 @@
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

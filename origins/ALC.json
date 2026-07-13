@@ -16,10 +16,18 @@
  "places": {
   "ALC": {
    "country": "Spain",
+   "g": [
+    38.282,
+    -0.558
+   ],
    "name": "Alicante"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

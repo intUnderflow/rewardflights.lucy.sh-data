@@ -16,10 +16,18 @@
  "places": {
   "GND": {
    "country": "Grenada",
+   "g": [
+    12.004,
+    -61.785
+   ],
    "name": "Grenada"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

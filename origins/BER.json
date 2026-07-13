@@ -16,6 +16,10 @@
  "places": {
   "BER": {
    "country": "Germany",
+   "g": [
+    52.362,
+    13.502
+   ],
    "name": "Berlin",
    "search": [
     "Brandenburg"
@@ -23,6 +27,10 @@
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

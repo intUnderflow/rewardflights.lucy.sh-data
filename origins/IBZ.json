@@ -16,10 +16,18 @@
  "places": {
   "IBZ": {
    "country": "Spain",
+   "g": [
+    38.873,
+    1.373
+   ],
    "name": "Ibiza"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

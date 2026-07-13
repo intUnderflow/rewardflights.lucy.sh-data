@@ -16,10 +16,18 @@
  "places": {
   "BLQ": {
    "country": "Italy",
+   "g": [
+    44.535,
+    11.289
+   ],
    "name": "Bologna"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

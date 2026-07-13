@@ -16,10 +16,18 @@
  "places": {
   "AYT": {
    "country": "Türkiye",
+   "g": [
+    36.899,
+    30.801
+   ],
    "name": "Antalya"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

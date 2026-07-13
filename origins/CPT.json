@@ -16,10 +16,18 @@
  "places": {
   "CPT": {
    "country": "South Africa",
+   "g": [
+    -33.974,
+    18.604
+   ],
    "name": "Cape Town"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

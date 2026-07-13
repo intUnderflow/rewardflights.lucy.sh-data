@@ -16,10 +16,18 @@
  "places": {
   "DUS": {
    "country": "Germany",
+   "g": [
+    51.29,
+    6.767
+   ],
    "name": "Düsseldorf"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

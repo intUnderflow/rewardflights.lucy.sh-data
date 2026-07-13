@@ -16,10 +16,18 @@
  "places": {
   "INV": {
    "country": "United Kingdom",
+   "g": [
+    57.542,
+    -4.048
+   ],
    "name": "Inverness"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

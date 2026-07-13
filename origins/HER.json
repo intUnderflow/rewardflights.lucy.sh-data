@@ -16,10 +16,18 @@
  "places": {
   "HER": {
    "country": "Greece",
+   "g": [
+    35.34,
+    25.18
+   ],
    "name": "Heraklion"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

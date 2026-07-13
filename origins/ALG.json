@@ -16,10 +16,18 @@
  "places": {
   "ALG": {
    "country": "Algeria",
+   "g": [
+    36.694,
+    3.215
+   ],
    "name": "Algiers"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

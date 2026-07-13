@@ -16,10 +16,18 @@
  "places": {
   "DLM": {
    "country": "Türkiye",
+   "g": [
+    36.713,
+    28.793
+   ],
    "name": "Dalaman"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

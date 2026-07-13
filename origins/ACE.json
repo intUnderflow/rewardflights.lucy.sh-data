@@ -16,10 +16,18 @@
  "places": {
   "ACE": {
    "country": "Spain",
+   "g": [
+    28.945,
+    -13.605
+   ],
    "name": "Lanzarote"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

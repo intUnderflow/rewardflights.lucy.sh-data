@@ -16,10 +16,18 @@
  "places": {
   "BRI": {
    "country": "Italy",
+   "g": [
+    41.139,
+    16.761
+   ],
    "name": "Bari"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

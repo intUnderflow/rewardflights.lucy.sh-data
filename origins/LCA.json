@@ -16,10 +16,18 @@
  "places": {
   "LCA": {
    "country": "Cyprus",
+   "g": [
+    34.875,
+    33.625
+   ],
    "name": "Larnaca"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

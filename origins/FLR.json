@@ -16,10 +16,18 @@
  "places": {
   "FLR": {
    "country": "Italy",
+   "g": [
+    43.809,
+    11.203
+   ],
    "name": "Florence"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,6 +16,10 @@
  "places": {
   "HOU": {
    "country": "United States",
+   "g": [
+    29.76,
+    -95.37
+   ],
    "name": "Houston",
    "search": [
     "Intercontinental",
@@ -25,6 +29,10 @@
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

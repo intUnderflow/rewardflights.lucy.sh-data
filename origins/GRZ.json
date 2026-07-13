@@ -16,10 +16,18 @@
  "places": {
   "GRZ": {
    "country": "Austria",
+   "g": [
+    46.991,
+    15.44
+   ],
    "name": "Graz"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

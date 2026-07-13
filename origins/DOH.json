@@ -16,10 +16,18 @@
  "places": {
   "DOH": {
    "country": "Qatar",
+   "g": [
+    25.273,
+    51.608
+   ],
    "name": "Doha"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

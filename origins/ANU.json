@@ -16,10 +16,18 @@
  "places": {
   "ANU": {
    "country": "Antigua and Barbuda",
+   "g": [
+    17.137,
+    -61.793
+   ],
    "name": "Antigua"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -36,6 +44,10 @@
   },
   "SKB": {
    "country": "Saint Kitts and Nevis",
+   "g": [
+    17.311,
+    -62.719
+   ],
    "name": "St Kitts"
   }
  },

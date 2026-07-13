@@ -16,10 +16,18 @@
  "places": {
   "DUB": {
    "country": "Ireland",
+   "g": [
+    53.429,
+    -6.262
+   ],
    "name": "Dublin"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

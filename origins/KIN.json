@@ -16,10 +16,18 @@
  "places": {
   "KIN": {
    "country": "Jamaica",
+   "g": [
+    17.936,
+    -76.787
+   ],
    "name": "Kingston"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "FAO": {
    "country": "Portugal",
+   "g": [
+    37.016,
+    -7.971
+   ],
    "name": "Faro"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

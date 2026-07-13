@@ -16,10 +16,18 @@
  "places": {
   "KRK": {
    "country": "Poland",
+   "g": [
+    50.078,
+    19.785
+   ],
    "name": "Kraków"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

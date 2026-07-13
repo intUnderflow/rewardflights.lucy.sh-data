@@ -16,10 +16,18 @@
  "places": {
   "BFS": {
    "country": "United Kingdom",
+   "g": [
+    54.658,
+    -6.216
+   ],
    "name": "Belfast"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

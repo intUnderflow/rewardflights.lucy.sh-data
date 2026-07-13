@@ -16,10 +16,18 @@
  "places": {
   "CMB": {
    "country": "Sri Lanka",
+   "g": [
+    7.181,
+    79.884
+   ],
    "name": "Colombo"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

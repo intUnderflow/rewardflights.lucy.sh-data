@@ -16,10 +16,18 @@
  "places": {
   "BOD": {
    "country": "France",
+   "g": [
+    44.829,
+    -0.715
+   ],
    "name": "Bordeaux"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,6 +16,10 @@
  "places": {
   "FNC": {
    "country": "Portugal",
+   "g": [
+    32.698,
+    -16.775
+   ],
    "name": "Funchal (Madeira)",
    "search": [
     "Madeira"
@@ -23,6 +27,10 @@
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

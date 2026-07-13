@@ -16,10 +16,18 @@
  "places": {
   "GLA": {
    "country": "United Kingdom",
+   "g": [
+    55.872,
+    -4.433
+   ],
    "name": "Glasgow"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

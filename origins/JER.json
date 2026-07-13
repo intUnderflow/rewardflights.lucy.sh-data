@@ -16,10 +16,18 @@
  "places": {
   "JER": {
    "country": "United Kingdom",
+   "g": [
+    49.208,
+    -2.196
+   ],
    "name": "Jersey"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "DEL": {
    "country": "India",
+   "g": [
+    28.556,
+    77.095
+   ],
    "name": "Delhi"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

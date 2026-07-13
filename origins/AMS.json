@@ -16,10 +16,18 @@
  "places": {
   "AMS": {
    "country": "Netherlands",
+   "g": [
+    52.309,
+    4.764
+   ],
    "name": "Amsterdam"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

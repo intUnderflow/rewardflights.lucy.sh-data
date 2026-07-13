@@ -16,6 +16,10 @@
  "places": {
   "BUE": {
    "country": "Argentina",
+   "g": [
+    -34.604,
+    -58.382
+   ],
    "name": "Buenos Aires",
    "search": [
     "Ezeiza",
@@ -26,6 +30,10 @@
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

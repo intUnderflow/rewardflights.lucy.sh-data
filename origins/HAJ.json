@@ -16,10 +16,18 @@
  "places": {
   "HAJ": {
    "country": "Germany",
+   "g": [
+    52.461,
+    9.685
+   ],
    "name": "Hanover"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "GVA": {
    "country": "Switzerland",
+   "g": [
+    46.238,
+    6.109
+   ],
    "name": "Geneva"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

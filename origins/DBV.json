@@ -16,10 +16,18 @@
  "places": {
   "DBV": {
    "country": "Croatia",
+   "g": [
+    42.562,
+    18.266
+   ],
    "name": "Dubrovnik"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "DEN": {
    "country": "United States",
+   "g": [
+    39.86,
+    -104.674
+   ],
    "name": "Denver"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

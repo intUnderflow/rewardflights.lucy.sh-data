@@ -16,6 +16,10 @@
  "places": {
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -32,6 +36,10 @@
   },
   "SEA": {
    "country": "United States",
+   "g": [
+    47.448,
+    -122.31
+   ],
    "name": "Seattle"
   }
  },

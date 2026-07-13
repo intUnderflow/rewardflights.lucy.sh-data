@@ -16,10 +16,18 @@
  "places": {
   "CVG": {
    "country": "United States",
+   "g": [
+    39.049,
+    -84.668
+   ],
    "name": "Cincinnati"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,6 +16,10 @@
  "places": {
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -32,6 +36,10 @@
   },
   "TIV": {
    "country": "Montenegro",
+   "g": [
+    42.405,
+    18.723
+   ],
    "name": "Tivat"
   }
  },

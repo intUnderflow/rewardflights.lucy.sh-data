@@ -16,10 +16,18 @@
  "places": {
   "CFU": {
    "country": "Greece",
+   "g": [
+    39.601,
+    19.912
+   ],
    "name": "Corfu"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "AGP": {
    "country": "Spain",
+   "g": [
+    36.675,
+    -4.499
+   ],
    "name": "Málaga"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

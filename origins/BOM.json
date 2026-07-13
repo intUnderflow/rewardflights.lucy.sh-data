@@ -16,10 +16,18 @@
  "places": {
   "BOM": {
    "country": "India",
+   "g": [
+    19.089,
+    72.868
+   ],
    "name": "Mumbai"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "GOT": {
    "country": "Sweden",
+   "g": [
+    57.663,
+    12.28
+   ],
    "name": "Gothenburg"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

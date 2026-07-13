@@ -16,10 +16,18 @@
  "places": {
   "EDI": {
    "country": "United Kingdom",
+   "g": [
+    55.95,
+    -3.372
+   ],
    "name": "Edinburgh"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

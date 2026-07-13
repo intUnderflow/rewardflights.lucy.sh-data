@@ -16,10 +16,18 @@
  "places": {
   "GEO": {
    "country": "Guyana",
+   "g": [
+    6.499,
+    -58.254
+   ],
    "name": "Georgetown"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

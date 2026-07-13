@@ -16,10 +16,18 @@
  "places": {
   "HYD": {
    "country": "India",
+   "g": [
+    17.231,
+    78.43
+   ],
    "name": "Hyderabad"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

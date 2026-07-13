@@ -16,10 +16,18 @@
  "places": {
   "EAS": {
    "country": "Spain",
+   "g": [
+    43.356,
+    -1.791
+   ],
    "name": "San Sebastián"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

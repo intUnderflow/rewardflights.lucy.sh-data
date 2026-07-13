@@ -16,10 +16,18 @@
  "places": {
   "ABZ": {
    "country": "United Kingdom",
+   "g": [
+    57.202,
+    -2.198
+   ],
    "name": "Aberdeen"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

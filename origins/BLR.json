@@ -16,10 +16,18 @@
  "places": {
   "BLR": {
    "country": "India",
+   "g": [
+    13.198,
+    77.706
+   ],
    "name": "Bengaluru"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

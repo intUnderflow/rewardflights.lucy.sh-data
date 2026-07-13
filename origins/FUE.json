@@ -16,10 +16,18 @@
  "places": {
   "FUE": {
    "country": "Spain",
+   "g": [
+    28.453,
+    -13.864
+   ],
    "name": "Fuerteventura"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "BUD": {
    "country": "Hungary",
+   "g": [
+    47.43,
+    19.262
+   ],
    "name": "Budapest"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

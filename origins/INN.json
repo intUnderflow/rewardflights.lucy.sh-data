@@ -16,10 +16,18 @@
  "places": {
   "INN": {
    "country": "Austria",
+   "g": [
+    47.26,
+    11.344
+   ],
    "name": "Innsbruck"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

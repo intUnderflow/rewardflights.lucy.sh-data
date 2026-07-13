@@ -16,6 +16,10 @@
  "places": {
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -32,6 +36,10 @@
   },
   "SSH": {
    "country": "Egypt",
+   "g": [
+    27.977,
+    34.395
+   ],
    "name": "Sharm El Sheikh"
   }
  },

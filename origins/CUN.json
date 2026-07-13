@@ -16,10 +16,18 @@
  "places": {
   "CUN": {
    "country": "Mexico",
+   "g": [
+    21.041,
+    -86.873
+   ],
    "name": "Cancún"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

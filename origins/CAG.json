@@ -16,10 +16,18 @@
  "places": {
   "CAG": {
    "country": "Italy",
+   "g": [
+    39.251,
+    9.054
+   ],
    "name": "Cagliari"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

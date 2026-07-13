@@ -16,10 +16,18 @@
  "places": {
   "CMF": {
    "country": "France",
+   "g": [
+    45.638,
+    5.88
+   ],
    "name": "Chambéry"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

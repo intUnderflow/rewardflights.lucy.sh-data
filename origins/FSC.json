@@ -16,10 +16,18 @@
  "places": {
   "FSC": {
    "country": "France",
+   "g": [
+    41.502,
+    9.097
+   ],
    "name": "Figari (Corsica)"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

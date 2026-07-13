@@ -16,10 +16,18 @@
  "places": {
   "GCM": {
    "country": "Cayman Islands",
+   "g": [
+    19.293,
+    -81.358
+   ],
    "name": "Grand Cayman"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

@@ -16,10 +16,18 @@
  "places": {
   "BGI": {
    "country": "Barbados",
+   "g": [
+    13.075,
+    -59.491
+   ],
    "name": "Barbados"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

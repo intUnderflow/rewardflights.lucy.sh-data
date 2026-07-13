@@ -16,10 +16,18 @@
  "places": {
   "BCN": {
    "country": "Spain",
+   "g": [
+    41.297,
+    2.078
+   ],
    "name": "Barcelona"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

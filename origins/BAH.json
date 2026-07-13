@@ -16,10 +16,18 @@
  "places": {
   "BAH": {
    "country": "Bahrain",
+   "g": [
+    26.267,
+    50.638
+   ],
    "name": "Bahrain"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

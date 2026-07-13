@@ -16,10 +16,18 @@
  "places": {
   "CTA": {
    "country": "Italy",
+   "g": [
+    37.467,
+    15.066
+   ],
    "name": "Catania"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

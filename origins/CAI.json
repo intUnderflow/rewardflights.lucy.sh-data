@@ -16,10 +16,18 @@
  "places": {
   "CAI": {
    "country": "Egypt",
+   "g": [
+    30.112,
+    31.397
+   ],
    "name": "Cairo"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

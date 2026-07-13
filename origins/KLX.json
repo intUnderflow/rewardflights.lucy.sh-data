@@ -16,10 +16,18 @@
  "places": {
   "KLX": {
    "country": "Greece",
+   "g": [
+    37.068,
+    22.025
+   ],
    "name": "Kalamata"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

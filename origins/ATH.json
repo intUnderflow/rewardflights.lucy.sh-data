@@ -16,10 +16,18 @@
  "places": {
   "ATH": {
    "country": "Greece",
+   "g": [
+    37.936,
+    23.945
+   ],
    "name": "Athens"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

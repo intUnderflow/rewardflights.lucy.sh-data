@@ -16,10 +16,18 @@
  "places": {
   "BNA": {
    "country": "United States",
+   "g": [
+    36.124,
+    -86.678
+   ],
    "name": "Nashville"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

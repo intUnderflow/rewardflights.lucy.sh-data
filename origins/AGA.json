@@ -16,10 +16,18 @@
  "places": {
   "AGA": {
    "country": "Morocco",
+   "g": [
+    30.322,
+    -9.412
+   ],
    "name": "Agadir"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",

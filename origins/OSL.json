@@ -16,6 +16,10 @@
  "places": {
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -32,6 +36,10 @@
   },
   "OSL": {
    "country": "Norway",
+   "g": [
+    60.194,
+    11.1
+   ],
    "name": "Oslo",
    "search": [
     "Gardermoen"

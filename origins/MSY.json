@@ -16,6 +16,10 @@
  "places": {
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
@@ -32,6 +36,10 @@
   },
   "MSY": {
    "country": "United States",
+   "g": [
+    29.993,
+    -90.265
+   ],
    "name": "New Orleans"
   }
  },

@@ -16,10 +16,18 @@
  "places": {
   "ACC": {
    "country": "Ghana",
+   "g": [
+    5.605,
+    -0.167
+   ],
    "name": "Accra"
   },
   "LON": {
    "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
    "name": "London",
    "search": [
     "Heathrow",
