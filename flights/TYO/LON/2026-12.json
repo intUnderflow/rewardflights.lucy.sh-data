@@ -1,0 +1,29 @@
+{
+ "days": {
+  "13": {
+   "BA": [
+    {
+     "arr": "09:10",
+     "car": [
+      "AY"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "AY0074",
+      "AY1331"
+     ],
+     "peak": null,
+     "rfs": false,
+     "seats": {},
+     "via": [
+      "HEL"
+     ]
+    }
+   ]
+  }
+ },
+ "route": "TYO-LON",
+ "schema": 1,
+ "t": 1784034310,
+ "v": "be029cca7c4cf5e90c8a61e25fd063c38f863910"
+}
