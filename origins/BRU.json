@@ -1,0 +1,53 @@
+{
+ "airlines": {
+  "BA": {
+   "cabins": {
+    "1": "Economy",
+    "2": "Premium Economy",
+    "4": "Business",
+    "8": "First"
+   },
+   "name": "British Airways",
+   "slug": "british-airways"
+  }
+ },
+ "days": 528,
+ "epoch": "2026-01-01",
+ "places": {
+  "BRU": {
+   "name": "BRU"
+  },
+  "LON": {
+   "country": "United Kingdom",
+   "g": [
+    51.507,
+    -0.128
+   ],
+   "name": "London",
+   "search": [
+    "Heathrow",
+    "LHR",
+    "Gatwick",
+    "LGW",
+    "London City",
+    "LCY",
+    "Stansted",
+    "STN",
+    "Luton",
+    "LTN"
+   ]
+  }
+ },
+ "routes": {
+  "BRU-LON": {
+   "a": {
+    "BA": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005504445554440555540055504454555005055500545555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555"
+   }
+  }
+ },
+ "schema": 1,
+ "source": {
+  "note": "Derived from github.com/intUnderflow/rewardflights. Availability facts provided as-is, with no warranty and no guarantee of accuracy or bookability.",
+  "repo": "https://github.com/intUnderflow/rewardflights"
+ }
+}

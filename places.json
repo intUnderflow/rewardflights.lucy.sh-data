@@ -56,6 +56,9 @@
    ],
    "name": "Algiers"
   },
+  "AMM": {
+   "name": "AMM"
+  },
   "AMS": {
    "country": "Netherlands",
    "g": [
@@ -119,6 +122,9 @@
     2.078
    ],
    "name": "Barcelona"
+  },
+  "BDA": {
+   "name": "BDA"
   },
   "BDS": {
    "country": "Italy",
@@ -227,6 +233,9 @@
    ],
    "name": "Bari"
   },
+  "BRU": {
+   "name": "BRU"
+  },
   "BUD": {
    "country": "Hungary",
    "g": [
@@ -248,6 +257,9 @@
     "Aeroparque",
     "AEP"
    ]
+  },
+  "BUH": {
+   "name": "BUH"
   },
   "BWI": {
    "country": "United States",
@@ -775,6 +787,9 @@
     "LTN"
    ]
   },
+  "LOS": {
+   "name": "LOS"
+  },
   "LPA": {
    "country": "Spain",
    "g": [
@@ -1158,6 +1173,9 @@
    ],
    "name": "Rhodes"
   },
+  "RIO": {
+   "name": "RIO"
+  },
   "ROM": {
    "country": "Italy",
    "g": [
@@ -1196,6 +1214,9 @@
    ],
    "name": "San Diego"
   },
+  "SAO": {
+   "name": "SAO"
+  },
   "SEA": {
    "country": "United States",
    "g": [
@@ -1211,6 +1232,9 @@
     -122.375
    ],
    "name": "San Francisco"
+  },
+  "SHA": {
+   "name": "SHA"
   },
   "SIN": {
    "country": "Singapore",
@@ -1443,6 +1467,9 @@
     "Reagan",
     "DCA"
    ]
+  },
+  "WAW": {
+   "name": "WAW"
   },
   "YMQ": {
    "country": "Canada",
