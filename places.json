@@ -1,5 +1,8 @@
 {
  "places": {
+  "ABV": {
+   "name": "ABV"
+  },
   "ABZ": {
    "country": "United Kingdom",
    "g": [
@@ -759,6 +762,9 @@
    ],
    "name": "Larnaca"
   },
+  "LIS": {
+   "name": "LIS"
+  },
   "LJU": {
    "country": "Slovenia",
    "g": [
@@ -1081,6 +1087,9 @@
    ],
    "name": "Pittsburgh"
   },
+  "PLS": {
+   "name": "PLS"
+  },
   "PMI": {
    "country": "Spain",
    "g": [
@@ -1217,6 +1226,9 @@
   "SAO": {
    "name": "SAO"
   },
+  "SCL": {
+   "name": "SCL"
+  },
   "SEA": {
    "country": "United States",
    "g": [
@@ -1345,6 +1357,9 @@
     -60.831
    ],
    "name": "Tobago"
+  },
+  "TBS": {
+   "name": "TBS"
   },
   "TCI": {
    "country": "Spain",
