@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BDA": {
-   "name": "BDA"
+   "country": "Bermuda",
+   "g": [
+    32.364,
+    -64.679
+   ],
+   "name": "Bermuda"
   },
   "LON": {
    "country": "United Kingdom",

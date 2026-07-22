@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "JNB": {
-   "name": "JNB"
+   "country": "South Africa",
+   "g": [
+    -26.139,
+    28.246
+   ],
+   "name": "Johannesburg"
   },
   "LON": {
    "country": "United Kingdom",

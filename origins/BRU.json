@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BRU": {
-   "name": "BRU"
+   "country": "Belgium",
+   "g": [
+    50.901,
+    4.484
+   ],
+   "name": "Brussels"
   },
   "LON": {
    "country": "United Kingdom",

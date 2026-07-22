@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "AUH": {
-   "name": "AUH"
+   "country": "United Arab Emirates",
+   "g": [
+    24.443,
+    54.651
+   ],
+   "name": "Abu Dhabi"
   },
   "LON": {
    "country": "United Kingdom",

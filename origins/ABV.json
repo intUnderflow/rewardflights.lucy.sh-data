@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "ABV": {
-   "name": "ABV"
+   "country": "Nigeria",
+   "g": [
+    9.007,
+    7.263
+   ],
+   "name": "Abuja"
   },
   "LON": {
    "country": "United Kingdom",

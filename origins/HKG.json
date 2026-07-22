@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "HKG": {
-   "name": "HKG"
+   "country": "Hong Kong",
+   "g": [
+    22.308,
+    113.918
+   ],
+   "name": "Hong Kong"
   },
   "LON": {
    "country": "United Kingdom",

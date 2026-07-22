@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "LIS": {
-   "name": "LIS"
+   "country": "Portugal",
+   "g": [
+    38.774,
+    -9.134
+   ],
+   "name": "Lisbon"
   },
   "LON": {
    "country": "United Kingdom",

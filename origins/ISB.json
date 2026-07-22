@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "ISB": {
-   "name": "ISB"
+   "country": "Pakistan",
+   "g": [
+    33.56,
+    72.851
+   ],
+   "name": "Islamabad"
   },
   "LON": {
    "country": "United Kingdom",

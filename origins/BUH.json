@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BUH": {
-   "name": "BUH"
+   "country": "Romania",
+   "g": [
+    44.572,
+    26.102
+   ],
+   "name": "Bucharest"
   },
   "LON": {
    "country": "United Kingdom",

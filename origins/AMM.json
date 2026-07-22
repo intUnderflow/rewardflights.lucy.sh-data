@@ -15,7 +15,12 @@
  "epoch": "2026-01-01",
  "places": {
   "AMM": {
-   "name": "AMM"
+   "country": "Jordan",
+   "g": [
+    31.723,
+    35.993
+   ],
+   "name": "Amman"
   },
   "LON": {
    "country": "United Kingdom",

@@ -1,7 +1,12 @@
 {
  "places": {
   "ABV": {
-   "name": "ABV"
+   "country": "Nigeria",
+   "g": [
+    9.007,
+    7.263
+   ],
+   "name": "Abuja"
   },
   "ABZ": {
    "country": "United Kingdom",
@@ -60,7 +65,12 @@
    "name": "Algiers"
   },
   "AMM": {
-   "name": "AMM"
+   "country": "Jordan",
+   "g": [
+    31.723,
+    35.993
+   ],
+   "name": "Amman"
   },
   "AMS": {
    "country": "Netherlands",
@@ -95,7 +105,12 @@
    "name": "Atlanta"
   },
   "AUH": {
-   "name": "AUH"
+   "country": "United Arab Emirates",
+   "g": [
+    24.443,
+    54.651
+   ],
+   "name": "Abu Dhabi"
   },
   "AUS": {
    "country": "United States",
@@ -130,7 +145,12 @@
    "name": "Barcelona"
   },
   "BDA": {
-   "name": "BDA"
+   "country": "Bermuda",
+   "g": [
+    32.364,
+    -64.679
+   ],
+   "name": "Bermuda"
   },
   "BDS": {
    "country": "Italy",
@@ -240,7 +260,12 @@
    "name": "Bari"
   },
   "BRU": {
-   "name": "BRU"
+   "country": "Belgium",
+   "g": [
+    50.901,
+    4.484
+   ],
+   "name": "Brussels"
   },
   "BUD": {
    "country": "Hungary",
@@ -265,7 +290,12 @@
    ]
   },
   "BUH": {
-   "name": "BUH"
+   "country": "Romania",
+   "g": [
+    44.572,
+    26.102
+   ],
+   "name": "Bucharest"
   },
   "BWI": {
    "country": "United States",
@@ -621,7 +651,12 @@
    "name": "Heraklion"
   },
   "HKG": {
-   "name": "HKG"
+   "country": "Hong Kong",
+   "g": [
+    22.308,
+    113.918
+   ],
+   "name": "Hong Kong"
   },
   "HOU": {
    "country": "United States",
@@ -669,7 +704,12 @@
    "name": "Inverness"
   },
   "ISB": {
-   "name": "ISB"
+   "country": "Pakistan",
+   "g": [
+    33.56,
+    72.851
+   ],
+   "name": "Islamabad"
   },
   "IST": {
    "country": "Türkiye",
@@ -708,7 +748,12 @@
    "name": "Mykonos"
   },
   "JNB": {
-   "name": "JNB"
+   "country": "South Africa",
+   "g": [
+    -26.139,
+    28.246
+   ],
+   "name": "Johannesburg"
   },
   "KGS": {
    "country": "Greece",
@@ -775,7 +820,12 @@
    "name": "Larnaca"
   },
   "LIS": {
-   "name": "LIS"
+   "country": "Portugal",
+   "g": [
+    38.774,
+    -9.134
+   ],
+   "name": "Lisbon"
   },
   "LJU": {
    "country": "Slovenia",
@@ -806,7 +856,12 @@
    ]
   },
   "LOS": {
-   "name": "LOS"
+   "country": "Nigeria",
+   "g": [
+    6.577,
+    3.321
+   ],
+   "name": "Lagos"
   },
   "LPA": {
    "country": "Spain",
@@ -1100,7 +1155,12 @@
    "name": "Pittsburgh"
   },
   "PLS": {
-   "name": "PLS"
+   "country": "Turks and Caicos Islands",
+   "g": [
+    21.774,
+    -72.266
+   ],
+   "name": "Providenciales"
   },
   "PMI": {
    "country": "Spain",
@@ -1195,7 +1255,12 @@
    "name": "Rhodes"
   },
   "RIO": {
-   "name": "RIO"
+   "country": "Brazil",
+   "g": [
+    -22.81,
+    -43.251
+   ],
+   "name": "Rio de Janeiro"
   },
   "ROM": {
    "country": "Italy",
@@ -1236,10 +1301,20 @@
    "name": "San Diego"
   },
   "SAO": {
-   "name": "SAO"
+   "country": "Brazil",
+   "g": [
+    -23.436,
+    -46.473
+   ],
+   "name": "São Paulo"
   },
   "SCL": {
-   "name": "SCL"
+   "country": "Chile",
+   "g": [
+    -33.393,
+    -70.786
+   ],
+   "name": "Santiago"
   },
   "SEA": {
    "country": "United States",
@@ -1258,7 +1333,12 @@
    "name": "San Francisco"
   },
   "SHA": {
-   "name": "SHA"
+   "country": "China",
+   "g": [
+    31.144,
+    121.808
+   ],
+   "name": "Shanghai"
   },
   "SIN": {
    "country": "Singapore",
@@ -1301,7 +1381,12 @@
    "name": "St Lucia"
   },
   "SOF": {
-   "name": "SOF"
+   "country": "Bulgaria",
+   "g": [
+    42.695,
+    23.406
+   ],
+   "name": "Sofia"
   },
   "SPU": {
    "country": "Croatia",
@@ -1374,7 +1459,12 @@
    "name": "Tobago"
   },
   "TBS": {
-   "name": "TBS"
+   "country": "Georgia",
+   "g": [
+    41.669,
+    44.955
+   ],
+   "name": "Tbilisi"
   },
   "TCI": {
    "country": "Spain",
@@ -1423,7 +1513,12 @@
    "name": "Toulouse"
   },
   "TLV": {
-   "name": "TLV"
+   "country": "Israel",
+   "g": [
+    32.011,
+    34.887
+   ],
+   "name": "Tel Aviv"
   },
   "TOS": {
    "country": "Norway",
@@ -1480,7 +1575,12 @@
    "name": "Vienna"
   },
   "VLC": {
-   "name": "VLC"
+   "country": "Spain",
+   "g": [
+    39.489,
+    -0.482
+   ],
+   "name": "Valencia"
   },
   "VRN": {
    "country": "Italy",
@@ -1505,7 +1605,12 @@
    ]
   },
   "WAW": {
-   "name": "WAW"
+   "country": "Poland",
+   "g": [
+    52.166,
+    20.967
+   ],
+   "name": "Warsaw"
   },
   "YMQ": {
    "country": "Canada",

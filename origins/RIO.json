@@ -35,7 +35,12 @@
    ]
   },
   "RIO": {
-   "name": "RIO"
+   "country": "Brazil",
+   "g": [
+    -22.81,
+    -43.251
+   ],
+   "name": "Rio de Janeiro"
   }
  },
  "routes": {
