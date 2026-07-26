@@ -787,7 +787,7 @@
      "rfs": false,
      "seats": {
       "C": 2,
-      "M": 11
+      "M": 9
      },
      "via": []
     },
@@ -832,7 +832,7 @@
      "rfs": false,
      "seats": {
       "C": 2,
-      "M": 12
+      "M": 11
      },
      "via": []
     },
@@ -875,7 +875,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 2
+      "C": 1
      },
      "via": []
     }
@@ -884,6 +884,6 @@
  },
  "route": "DUB-BOS",
  "schema": 1,
- "t": 1785086717,
- "v": "b7e5a78bf1e610e87d7b0c9dfb13876d79a97112"
+ "t": 1785086771,
+ "v": "56e2e1decee269b95ef0d47c3dd7d3e2b5533355"
 }
