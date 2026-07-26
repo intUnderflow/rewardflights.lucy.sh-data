@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "08:45",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:45",
+     "fn": [
+      "EI086"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 26
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "CLE-DUB",
+ "schema": 1,
+ "t": 1785107621,
+ "v": "c5f52c02a78a53be76894bfdf8cbcf931c1e2e8d"
+}
