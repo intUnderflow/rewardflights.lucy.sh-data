@@ -2,10 +2,10 @@
  "bundle": "availability.json",
  "changes": "changes/recent.json",
  "counts": {
-  "airlines": 1,
-  "places": 194,
-  "routeDates": 82987,
-  "routes": 398
+  "airlines": 2,
+  "places": 197,
+  "routeDates": 84605,
+  "routes": 425
  },
  "epoch": "2026-01-01",
  "mode": "bundle",

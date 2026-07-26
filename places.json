@@ -919,6 +919,14 @@
    ],
    "name": "Manchester"
   },
+  "MCO": {
+   "country": "United States",
+   "g": [
+    28.429,
+    -81.309
+   ],
+   "name": "Orlando"
+  },
   "MEL": {
    "country": "Australia",
    "g": [
@@ -1072,6 +1080,14 @@
     -8.681
    ],
    "name": "Porto"
+  },
+  "ORK": {
+   "country": "Ireland",
+   "g": [
+    51.841,
+    -8.491
+   ],
+   "name": "Cork"
   },
   "ORL": {
    "country": "United States",
@@ -1379,6 +1395,14 @@
     -60.993
    ],
    "name": "St Lucia"
+  },
+  "SNN": {
+   "country": "Ireland",
+   "g": [
+    52.702,
+    -8.925
+   ],
+   "name": "Shannon"
   },
   "SOF": {
    "country": "Bulgaria",

@@ -1,0 +1,31 @@
+{
+ "days": {
+  "28": {
+   "EI": [
+    {
+     "arr": "15:50",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI127"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 3
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-YTO",
+ "schema": 1,
+ "t": 1785075784,
+ "v": "1dfae7922721d489eb80c2fd86a620bfde360cc5"
+}

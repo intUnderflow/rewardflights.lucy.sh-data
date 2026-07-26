@@ -1,0 +1,31 @@
+{
+ "days": {
+  "29": {
+   "EI": [
+    {
+     "arr": "19:15",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:45",
+     "fn": [
+      "EI125"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-CHI",
+ "schema": 1,
+ "t": 1785075784,
+ "v": "1dfae7922721d489eb80c2fd86a620bfde360cc5"
+}

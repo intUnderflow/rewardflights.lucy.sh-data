@@ -1,0 +1,77 @@
+{
+ "days": {
+  "25": {
+   "EI": [
+    {
+     "arr": "08:25",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:05",
+     "fn": [
+      "EI140"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 30
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "08:25",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:05",
+     "fn": [
+      "EI140"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 36
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "08:25",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:05",
+     "fn": [
+      "EI140"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 26
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "MIA-DUB",
+ "schema": 1,
+ "t": 1785075784,
+ "v": "1dfae7922721d489eb80c2fd86a620bfde360cc5"
+}
