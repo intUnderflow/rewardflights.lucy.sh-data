@@ -1,30 +1,30 @@
 {
  "days": {
-  "29": {
+  "01": {
    "EI": [
     {
-     "arr": "18:05",
+     "arr": "10:45",
      "avios": {
-      "M": 4500
+      "M": 4000
      },
      "car": [
-      "E1"
+      "EA"
      ],
-     "dep": "16:35",
+     "dep": "09:20",
      "fn": [
-      "EI3693"
+      "EI3243"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 1
      },
      "via": []
     }
    ]
   }
  },
- "route": "EXT-BHD",
+ "route": "ABZ-DUB",
  "schema": 1,
  "t": 1785105238,
  "v": "8de0fb4422ebb516c718c93a10928533ea692fa5"
