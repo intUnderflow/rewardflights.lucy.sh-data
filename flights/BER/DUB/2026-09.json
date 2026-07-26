@@ -731,7 +731,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 24
      },
      "via": []
     },
@@ -1090,7 +1090,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 5
      },
      "via": []
     }
@@ -1187,6 +1187,6 @@
  },
  "route": "BER-DUB",
  "schema": 1,
- "t": 1785106379,
- "v": "292f7fe16333bf2ef8504dcf559b936f83698cbe"
+ "t": 1785106460,
+ "v": "1964e943756c688ed3eacc31a8bc13b4fb98331f"
 }

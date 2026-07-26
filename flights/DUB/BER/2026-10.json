@@ -246,7 +246,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 41
+      "M": 40
      },
      "via": []
     }
@@ -288,7 +288,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 38
      },
      "via": []
     }
@@ -479,7 +479,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 49
+      "M": 46
      },
      "via": []
     }
@@ -857,7 +857,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 38
+      "M": 37
      },
      "via": []
     }
@@ -988,10 +988,52 @@
      "via": []
     }
    ]
+  },
+  "25": {
+   "EI": [
+    {
+     "arr": "09:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:20",
+     "fn": [
+      "EI332"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "18:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:35",
+     "fn": [
+      "EI336"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-BER",
  "schema": 1,
- "t": 1785106379,
- "v": "292f7fe16333bf2ef8504dcf559b936f83698cbe"
+ "t": 1785106460,
+ "v": "1964e943756c688ed3eacc31a8bc13b4fb98331f"
 }
