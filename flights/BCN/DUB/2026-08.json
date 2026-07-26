@@ -1,0 +1,302 @@
+{
+ "days": {
+  "25": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 5
+     },
+     "via": []
+    }
+   ]
+  },
+  "31": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI563"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    },
+    {
+     "arr": "00:55",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:10",
+     "fn": [
+      "EI565"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BCN-DUB",
+ "schema": 1,
+ "t": 1785085750,
+ "v": "cf95b4b9b08edce5b67383884f57a3f9f270676e"
+}
