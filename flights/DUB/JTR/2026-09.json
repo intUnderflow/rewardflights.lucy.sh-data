@@ -1,0 +1,54 @@
+{
+ "days": {
+  "26": {
+   "EI": [
+    {
+     "arr": "20:50",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:20",
+     "fn": [
+      "EI446"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "20:45",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:15",
+     "fn": [
+      "EI446"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-JTR",
+ "schema": 1,
+ "t": 1785090340,
+ "v": "a30aace201947cb8f367fc82b26827d4dad6f57c"
+}

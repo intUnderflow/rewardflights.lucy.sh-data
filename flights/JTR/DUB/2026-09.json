@@ -1,0 +1,31 @@
+{
+ "days": {
+  "26": {
+   "EI": [
+    {
+     "arr": "00:25",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:40",
+     "fn": [
+      "EI447"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "JTR-DUB",
+ "schema": 1,
+ "t": 1785090340,
+ "v": "a30aace201947cb8f367fc82b26827d4dad6f57c"
+}
