@@ -1,0 +1,302 @@
+{
+ "days": {
+  "25": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    }
+   ]
+  },
+  "31": {
+   "EI": [
+    {
+     "arr": "12:05",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:40",
+     "fn": [
+      "EI333"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "23:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:45",
+     "fn": [
+      "EI337"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BER-DUB",
+ "schema": 1,
+ "t": 1785086013,
+ "v": "67f5ccde1aed86277ff222a5dc81c707b6a7142a"
+}
