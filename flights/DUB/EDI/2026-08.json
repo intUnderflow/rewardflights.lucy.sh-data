@@ -135,7 +135,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 1
      },
      "via": []
     },
@@ -154,7 +154,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 11
      },
      "via": []
     }
@@ -257,7 +257,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -280,26 +280,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
-     },
-     "via": []
-    },
-    {
-     "arr": "08:30",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "07:10",
-     "fn": [
-      "EI3552"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
+      "M": 8
      },
      "via": []
     }
@@ -341,7 +322,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 13
      },
      "via": []
     }
@@ -383,7 +364,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 14
      },
      "via": []
     }
@@ -425,7 +406,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 6
      },
      "via": []
     },
@@ -707,7 +688,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 6
      },
      "via": []
     }
@@ -787,7 +768,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 8
      },
      "via": []
     }
@@ -1046,7 +1027,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 14
      },
      "via": []
     }
@@ -1145,7 +1126,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 21
      },
      "via": []
     },
@@ -1230,25 +1211,6 @@
      "via": []
     },
     {
-     "arr": "19:05",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "17:50",
-     "fn": [
-      "EI3556"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
-     },
-     "via": []
-    },
-    {
      "arr": "19:50",
      "avios": {
       "M": 4500
@@ -1306,25 +1268,6 @@
      "rfs": false,
      "seats": {
       "M": 7
-     },
-     "via": []
-    },
-    {
-     "arr": "19:50",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "18:30",
-     "fn": [
-      "EI3258"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
      },
      "via": []
     }
@@ -1427,7 +1370,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 13
      },
      "via": []
     },
@@ -1530,7 +1473,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 9
      },
      "via": []
     },
@@ -1691,25 +1634,6 @@
      "via": []
     },
     {
-     "arr": "12:55",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "11:40",
-     "fn": [
-      "EI3254"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 22
-     },
-     "via": []
-    },
-    {
      "arr": "15:00",
      "avios": {
       "M": 4500
@@ -1804,7 +1728,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 20
      },
      "via": []
     },
@@ -1823,7 +1747,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 17
      },
      "via": []
     },
@@ -1899,7 +1823,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 20
      },
      "via": []
     }
@@ -1998,7 +1922,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 14
      },
      "via": []
     },
@@ -2371,7 +2295,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 14
      },
      "via": []
     },
@@ -2409,7 +2333,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 21
      },
      "via": []
     }
@@ -2418,6 +2342,6 @@
  },
  "route": "DUB-EDI",
  "schema": 1,
- "t": 1785108104,
- "v": "d7495b3490f2d8a9cc6ab9dd72ea62143d40639c"
+ "t": 1785108211,
+ "v": "815af8e50ee4582135bef5027e6ae4d08e956415"
 }
