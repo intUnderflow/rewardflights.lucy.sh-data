@@ -1,30 +1,30 @@
 {
  "days": {
-  "30": {
+  "01": {
    "EI": [
     {
-     "arr": "09:30",
+     "arr": "22:50",
      "avios": {
-      "M": 7500
+      "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "06:15",
+     "dep": "21:05",
      "fn": [
-      "EI550"
+      "EI565"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 2
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-LYS",
+ "route": "BCN-DUB",
  "schema": 1,
  "t": 1785105802,
  "v": "8478bc21e0e4a3e4e97a3965fc320fdcf9ff4271"
