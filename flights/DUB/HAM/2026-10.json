@@ -155,7 +155,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 19
      },
      "via": []
     }
@@ -270,7 +270,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     }
@@ -505,10 +505,33 @@
      "via": []
     }
    ]
+  },
+  "25": {
+   "EI": [
+    {
+     "arr": "20:20",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "17:25",
+     "fn": [
+      "EI394"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-HAM",
  "schema": 1,
- "t": 1785109268,
- "v": "f7d24f26cc7fd988d2a9fe87fdb78ec46a098f85"
+ "t": 1785109323,
+ "v": "b0d84cf363e86d0ae5cb04a044c7de525580a3ef"
 }
