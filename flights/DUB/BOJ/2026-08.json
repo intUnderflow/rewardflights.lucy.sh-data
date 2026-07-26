@@ -1,0 +1,54 @@
+{
+ "days": {
+  "22": {
+   "EI": [
+    {
+     "arr": "22:30",
+     "avios": {
+      "M": 10000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:30",
+     "fn": [
+      "EI376"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "22:30",
+     "avios": {
+      "M": 10000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:30",
+     "fn": [
+      "EI376"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-BOJ",
+ "schema": 1,
+ "t": 1785086558,
+ "v": "a9def772183266bc5fcbfab95adb3b0331e6dc2e"
+}
