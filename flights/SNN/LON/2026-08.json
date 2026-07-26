@@ -86,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     }
@@ -220,7 +220,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 37
      },
      "via": []
     }
@@ -672,6 +672,6 @@
  },
  "route": "SNN-LON",
  "schema": 1,
- "t": 1785076231,
- "v": "e4884ec19cf533acf07cc4502e2eea2bea4b1338"
+ "t": 1785076260,
+ "v": "c04cd450b8d798aa12178383c41736dc59f0deca"
 }
