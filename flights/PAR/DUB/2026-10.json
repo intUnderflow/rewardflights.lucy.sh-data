@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 47
+      "M": 46
      },
      "via": []
     },
@@ -173,7 +173,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 6
      },
      "via": []
     },
@@ -493,7 +493,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 40
+      "M": 39
      },
      "via": []
     },
@@ -611,7 +611,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 37
+      "M": 35
      },
      "via": []
     },
@@ -870,7 +870,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 20
      },
      "via": []
     },
@@ -889,7 +889,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 7
      },
      "via": []
     },
@@ -969,7 +969,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     },
@@ -1049,7 +1049,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 34
      },
      "via": []
     },
@@ -1308,7 +1308,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 46
+      "M": 44
      },
      "via": []
     },
@@ -1407,7 +1407,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 31
      },
      "via": []
     },
@@ -1445,7 +1445,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 27
      },
      "via": []
     },
@@ -1963,7 +1963,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 55
+      "M": 53
      },
      "via": []
     },
@@ -2321,7 +2321,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 5
      },
      "via": []
     },
@@ -2650,6 +2650,6 @@
  },
  "route": "PAR-DUB",
  "schema": 1,
- "t": 1785107652,
- "v": "186b395654cdb88b20cebd7430f87d61df3b6df7"
+ "t": 1785107680,
+ "v": "942e618a395f053d29047dd927ac15c9de3f6442"
 }
