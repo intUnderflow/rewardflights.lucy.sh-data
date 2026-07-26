@@ -3,35 +3,35 @@
   "01": {
    "EI": [
     {
-     "arr": "09:20",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "08:15",
-     "fn": [
-      "EI263"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "13:40",
+     "arr": "09:35",
      "avios": {
       "M": 4000
      },
      "car": [
       "EA"
      ],
-     "dep": "12:20",
+     "dep": "08:20",
      "fn": [
-      "EI3265"
+      "EI3221"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "13:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "12:00",
+     "fn": [
+      "EI3223"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -50,7 +50,7 @@
      ],
      "dep": "13:20",
      "fn": [
-      "EI3267"
+      "EI3225"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -60,35 +60,35 @@
      "via": []
     },
     {
-     "arr": "16:45",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "15:40",
-     "fn": [
-      "EI269"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "19:50",
+     "arr": "17:15",
      "avios": {
       "M": 4000
      },
      "car": [
       "EA"
      ],
-     "dep": "18:35",
+     "dep": "15:55",
      "fn": [
-      "EI3275"
+      "EI3227"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "22:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "21:25",
+     "fn": [
+      "EI3229"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -100,7 +100,7 @@
    ]
   }
  },
- "route": "BHX-DUB",
+ "route": "GLA-DUB",
  "schema": 1,
  "t": 1785110195,
  "v": "fda20e2c5bfba68b3771ba6e64dec36b8f9d5393"
