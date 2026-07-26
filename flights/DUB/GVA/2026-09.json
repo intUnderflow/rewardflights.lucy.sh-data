@@ -63,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 24
      },
      "via": []
     }
@@ -128,7 +128,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 21
      },
      "via": []
     },
@@ -212,7 +212,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 38
      },
      "via": []
     },
@@ -254,7 +254,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 34
      },
      "via": []
     }
@@ -277,7 +277,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 28
      },
      "via": []
     }
@@ -323,7 +323,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 33
      },
      "via": []
     },
@@ -407,7 +407,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 28
      },
      "via": []
     },
@@ -560,7 +560,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 33
      },
      "via": []
     },
@@ -644,7 +644,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 53
+      "M": 54
      },
      "via": []
     },
@@ -974,6 +974,6 @@
  },
  "route": "DUB-GVA",
  "schema": 1,
- "t": 1785109355,
- "v": "6ee375a398284906311d1d53bcd440b5d18ea90d"
+ "t": 1785109435,
+ "v": "db242f1efc79ff408f029c4b9681d25b781293eb"
 }

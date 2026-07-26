@@ -1,30 +1,30 @@
 {
  "days": {
-  "21": {
+  "01": {
    "EI": [
     {
-     "arr": "12:00",
+     "arr": "15:20",
      "avios": {
-      "M": 10000
+      "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "07:35",
+     "dep": "14:00",
      "fn": [
-      "EI476"
+      "EI685"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 1
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-DBV",
+ "route": "GVA-DUB",
  "schema": 1,
  "t": 1785109435,
  "v": "db242f1efc79ff408f029c4b9681d25b781293eb"
