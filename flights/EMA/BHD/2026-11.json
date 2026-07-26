@@ -1,30 +1,30 @@
 {
  "days": {
-  "17": {
+  "01": {
    "EI": [
     {
-     "arr": "23:10",
+     "arr": "09:55",
      "avios": {
-      "M": 8500
+      "M": 4000
      },
      "car": [
-      "EI"
+      "E1"
      ],
-     "dep": "17:25",
+     "dep": "08:40",
      "fn": [
-      "EI444"
+      "EI3681"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 14
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-CFU",
+ "route": "EMA-BHD",
  "schema": 1,
  "t": 1785104725,
  "v": "e0875984169b7e8770973f6d1bfaf33a21ab31cb"
