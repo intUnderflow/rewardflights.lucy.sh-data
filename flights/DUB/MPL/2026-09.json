@@ -1,0 +1,31 @@
+{
+ "days": {
+  "12": {
+   "EI": [
+    {
+     "arr": "15:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "12:05",
+     "fn": [
+      "EI540"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-MPL",
+ "schema": 1,
+ "t": 1785091434,
+ "v": "2381c730e09b7b130065f3f6cf939cc608aca5bb"
+}
