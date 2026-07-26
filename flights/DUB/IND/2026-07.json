@@ -1,0 +1,31 @@
+{
+ "days": {
+  "31": {
+   "EI": [
+    {
+     "arr": "18:20",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:50",
+     "fn": [
+      "EI083"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-IND",
+ "schema": 1,
+ "t": 1785109628,
+ "v": "58432f0000f341a78a44482e6bd1beab2bdea86a"
+}
