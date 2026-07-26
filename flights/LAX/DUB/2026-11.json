@@ -1,30 +1,30 @@
 {
  "days": {
-  "28": {
+  "01": {
    "EI": [
     {
-     "arr": "15:50",
+     "arr": "14:30",
      "avios": {
-      "C": 60000
+      "M": 16250
      },
      "car": [
       "EI"
      ],
-     "dep": "13:20",
+     "dep": "20:15",
      "fn": [
-      "EI127"
+      "EI068"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "C": 3
+      "M": 5
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-YTO",
+ "route": "LAX-DUB",
  "schema": 1,
  "t": 1785110167,
  "v": "4dac4b24b19b085ff137784d075fa7fb5f934db6"
