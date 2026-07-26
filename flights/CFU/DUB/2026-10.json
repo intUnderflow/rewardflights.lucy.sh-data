@@ -1,0 +1,77 @@
+{
+ "days": {
+  "10": {
+   "EI": [
+    {
+     "arr": "02:00",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:59",
+     "fn": [
+      "EI445"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "17": {
+   "EI": [
+    {
+     "arr": "02:00",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:59",
+     "fn": [
+      "EI445"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "24": {
+   "EI": [
+    {
+     "arr": "01:00",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:59",
+     "fn": [
+      "EI445"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "CFU-DUB",
+ "schema": 1,
+ "t": 1785087477,
+ "v": "046def8bf2e5e832b367f3ce0d3a6371578db8b9"
+}
