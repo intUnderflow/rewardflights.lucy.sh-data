@@ -519,7 +519,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 2
      },
      "via": []
     },
@@ -1272,7 +1272,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     },
@@ -7020,6 +7020,6 @@
  },
  "route": "LON-DUB",
  "schema": 1,
- "t": 1785076537,
- "v": "acf9dd4ae53bce88b2ad9a7f81530634572601f3"
+ "t": 1785076566,
+ "v": "4d2cfb257aef074d8e5be21977a44802f7949486"
 }

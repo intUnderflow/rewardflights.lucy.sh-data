@@ -1291,7 +1291,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     },
@@ -7039,6 +7039,6 @@
  },
  "route": "DUB-LON",
  "schema": 1,
- "t": 1785076537,
- "v": "acf9dd4ae53bce88b2ad9a7f81530634572601f3"
+ "t": 1785076566,
+ "v": "4d2cfb257aef074d8e5be21977a44802f7949486"
 }
