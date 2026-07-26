@@ -1,92 +1,92 @@
 {
  "days": {
-  "02": {
+  "06": {
    "EI": [
     {
-     "arr": "17:10",
+     "arr": "12:10",
      "avios": {
-      "M": 16250
+      "M": 10000
      },
      "car": [
       "EI"
      ],
-     "dep": "15:25",
+     "dep": "05:55",
      "fn": [
-      "EI053"
+      "EI440"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 4
      },
      "via": []
     }
    ]
   },
-  "03": {
+  "09": {
    "EI": [
     {
-     "arr": "17:10",
+     "arr": "12:10",
      "avios": {
-      "M": 16250
+      "M": 10000
      },
      "car": [
       "EI"
      ],
-     "dep": "15:25",
+     "dep": "06:00",
      "fn": [
-      "EI053"
+      "EI440"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 4
      },
      "via": []
     }
    ]
   },
-  "10": {
+  "18": {
    "EI": [
     {
-     "arr": "17:10",
+     "arr": "12:10",
      "avios": {
-      "M": 16250
+      "M": 10000
      },
      "car": [
       "EI"
      ],
-     "dep": "15:25",
+     "dep": "05:55",
      "fn": [
-      "EI053"
+      "EI440"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 4
      },
      "via": []
     }
    ]
   },
-  "24": {
+  "20": {
    "EI": [
     {
-     "arr": "17:10",
+     "arr": "12:10",
      "avios": {
-      "M": 16250
+      "M": 10000
      },
      "car": [
       "EI"
      ],
-     "dep": "15:25",
+     "dep": "05:55",
      "fn": [
-      "EI053"
+      "EI440"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 4
      },
      "via": []
     }
@@ -95,51 +95,28 @@
   "27": {
    "EI": [
     {
-     "arr": "17:10",
+     "arr": "12:10",
      "avios": {
-      "M": 16250
+      "M": 10000
      },
      "car": [
       "EI"
      ],
-     "dep": "15:25",
+     "dep": "05:55",
      "fn": [
-      "EI053"
+      "EI440"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 1
-     },
-     "via": []
-    }
-   ]
-  },
-  "28": {
-   "EI": [
-    {
-     "arr": "17:10",
-     "avios": {
-      "M": 16250
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "15:25",
-     "fn": [
-      "EI053"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 22
+      "M": 4
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-SEA",
+ "route": "DUB-ATH",
  "schema": 1,
  "t": 1785085562,
  "v": "767e6b6e70e2377bf378ce0918b328d6070a4a16"
