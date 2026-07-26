@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "23:05",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:05",
+     "fn": [
+      "EI497"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "FAO-DUB",
+ "schema": 1,
+ "t": 1785088866,
+ "v": "296f200d6b5099a4c2ac059b23b2c84a19be831c"
+}
