@@ -3,47 +3,47 @@
   "01": {
    "EI": [
     {
-     "arr": "11:40",
+     "arr": "04:55",
      "avios": {
-      "M": 6500
+      "M": 13000
      },
      "car": [
       "EI"
      ],
-     "dep": "10:15",
+     "dep": "17:05",
      "fn": [
-      "EI333"
+      "EI116"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 24
      },
      "via": []
     },
     {
-     "arr": "20:55",
+     "arr": "08:50",
      "avios": {
-      "M": 6500
+      "M": 13000
      },
      "car": [
       "EI"
      ],
-     "dep": "19:30",
+     "dep": "21:00",
      "fn": [
-      "EI337"
+      "EI118"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 25
      },
      "via": []
     }
    ]
   }
  },
- "route": "BER-DUB",
+ "route": "WAS-DUB",
  "schema": 1,
  "t": 1785109816,
  "v": "c169227911334f411ba643fbaf26ec35761b43dd"

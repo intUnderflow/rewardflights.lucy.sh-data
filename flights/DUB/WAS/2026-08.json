@@ -59,7 +59,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 1
+      "C": 2
      },
      "via": []
     }
@@ -403,7 +403,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 26
      },
      "via": []
     }
@@ -510,7 +510,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 14
      },
      "via": []
     }
@@ -561,6 +561,6 @@
  },
  "route": "DUB-WAS",
  "schema": 1,
- "t": 1785109711,
- "v": "e7c6b7280f5f4f66a51deacc2c28c0b3298ff93f"
+ "t": 1785109816,
+ "v": "c169227911334f411ba643fbaf26ec35761b43dd"
 }
