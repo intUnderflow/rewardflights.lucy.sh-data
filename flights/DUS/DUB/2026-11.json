@@ -3,66 +3,47 @@
   "01": {
    "EI": [
     {
-     "arr": "10:35",
+     "arr": "11:25",
      "avios": {
       "M": 4000
      },
      "car": [
-      "E1"
+      "EI"
      ],
-     "dep": "08:55",
+     "dep": "10:30",
      "fn": [
-      "EI3601"
+      "EI693"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 8
      },
      "via": []
     },
     {
-     "arr": "14:10",
+     "arr": "21:25",
      "avios": {
       "M": 4000
      },
      "car": [
-      "E1"
+      "EI"
      ],
-     "dep": "12:35",
+     "dep": "20:30",
      "fn": [
-      "EI3605"
+      "EI699"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
-     "arr": "21:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "19:40",
-     "fn": [
-      "EI3607"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
+      "M": 6
      },
      "via": []
     }
    ]
   }
  },
- "route": "SOU-BHD",
+ "route": "DUS-DUB",
  "schema": 1,
  "t": 1785108489,
  "v": "56de7f1c4ef7c5c5907054031d64178c7761f55d"

@@ -82,7 +82,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     }
@@ -296,7 +296,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 32
      },
      "via": []
     }
@@ -361,7 +361,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 15
      },
      "via": []
     }
@@ -705,7 +705,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 43
+      "M": 33
      },
      "via": []
     }
@@ -1016,6 +1016,6 @@
  },
  "route": "DUS-DUB",
  "schema": 1,
- "t": 1785108460,
- "v": "95345e8106da34a8c2e78666b12dcbf1a75101c3"
+ "t": 1785108489,
+ "v": "56de7f1c4ef7c5c5907054031d64178c7761f55d"
 }
