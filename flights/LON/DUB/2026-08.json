@@ -40,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 4
      },
      "via": []
     }
@@ -63,7 +63,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 2
      },
      "via": []
     },
@@ -83,25 +83,6 @@
      "rfs": false,
      "seats": {
       "M": 5
-     },
-     "via": []
-    },
-    {
-     "arr": "22:30",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "21:10",
-     "fn": [
-      "EI183"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
      },
      "via": []
     }
@@ -129,25 +110,6 @@
      "via": []
     },
     {
-     "arr": "18:20",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:50",
-     "fn": [
-      "EI169"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    },
-    {
      "arr": "22:30",
      "avios": {
       "M": 4500
@@ -162,7 +124,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 5
      },
      "via": []
     }
@@ -185,7 +147,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     },
@@ -204,7 +166,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     }
@@ -360,7 +322,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 16
      },
      "via": []
     },
@@ -379,7 +341,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 10
      },
      "via": []
     },
@@ -862,7 +824,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -961,7 +923,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 8
      },
      "via": []
     },
@@ -1529,6 +1491,6 @@
  },
  "route": "LON-DUB",
  "schema": 1,
- "t": 1785173069,
- "v": "20a94af653d17ab32a0889641b16a866d5deaf4d"
+ "t": 1785173111,
+ "v": "a76b7d67b378ff6ca36046eda713518dd28a331e"
 }
