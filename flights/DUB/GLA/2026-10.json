@@ -1464,7 +1464,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 1
      },
      "via": []
     }
@@ -2165,7 +2165,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 16
      },
      "via": []
     },
@@ -2203,7 +2203,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 16
      },
      "via": []
     },
@@ -2222,7 +2222,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 4
      },
      "via": []
     },
@@ -2241,7 +2241,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 13
      },
      "via": []
     }
@@ -2250,6 +2250,6 @@
  },
  "route": "DUB-GLA",
  "schema": 1,
- "t": 1785123808,
- "v": "d091cadaf9cc90a8d429c9e1ee247b8bfef3c45b"
+ "t": 1785123837,
+ "v": "68e7c6115f149737c39b0ff0caabd8dc48e7d7f4"
 }
