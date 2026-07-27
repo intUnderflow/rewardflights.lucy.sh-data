@@ -3,47 +3,66 @@
   "01": {
    "EI": [
     {
-     "arr": "08:50",
+     "arr": "11:00",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "08:00",
+     "dep": "10:15",
      "fn": [
-      "EI3401"
+      "EI631"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 5
      },
      "via": []
     },
     {
-     "arr": "15:30",
+     "arr": "16:50",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "14:30",
+     "dep": "16:10",
      "fn": [
-      "EI3403"
+      "EI635"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "21:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:50",
+     "fn": [
+      "EI639"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
      },
      "via": []
     }
    ]
   }
  },
- "route": "CFN-DUB",
+ "route": "BRU-DUB",
  "schema": 1,
  "t": 1785121377,
  "v": "9498a7f374469aa003b4ec736cf31addfad15e21"

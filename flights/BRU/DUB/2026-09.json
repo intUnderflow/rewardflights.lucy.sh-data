@@ -934,7 +934,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 23
      },
      "via": []
     }
@@ -1041,7 +1041,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 24
      },
      "via": []
     }
@@ -1092,6 +1092,6 @@
  },
  "route": "BRU-DUB",
  "schema": 1,
- "t": 1785121348,
- "v": "61fba2597fd46405df61202cf2b9d67b7810f6f0"
+ "t": 1785121377,
+ "v": "9498a7f374469aa003b4ec736cf31addfad15e21"
 }
