@@ -1,5 +1,28 @@
 {
  "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "14:05",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "12:50",
+     "fn": [
+      "EI3931"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
   "02": {
    "EI": [
     {
@@ -40,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 12
      },
      "via": []
     }
@@ -532,6 +555,6 @@
  },
  "route": "NQY-DUB",
  "schema": 1,
- "t": 1785175536,
- "v": "97587b84e6b79ee79ce9a49ab9232d83c03abc69"
+ "t": 1785175567,
+ "v": "6ed0528b0faaab16a9c064b99accedee15e10e52"
 }
