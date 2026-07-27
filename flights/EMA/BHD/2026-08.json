@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 8
      },
      "via": []
     }
@@ -41,6 +41,29 @@
      "rfs": false,
      "seats": {
       "M": 11
+     },
+     "via": []
+    }
+   ]
+  },
+  "18": {
+   "EI": [
+    {
+     "arr": "09:50",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "08:40",
+     "fn": [
+      "EI3681"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
      },
      "via": []
     }
@@ -109,7 +132,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 10
      },
      "via": []
     }
@@ -233,6 +256,6 @@
  },
  "route": "EMA-BHD",
  "schema": 1,
- "t": 1785119154,
- "v": "2e4dab5ec84db61dbc8f5c68461437cbf90daa38"
+ "t": 1785119184,
+ "v": "7e8f5246622f0ecb3ac30735eed4d0a0df45a3c1"
 }
