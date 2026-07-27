@@ -1,0 +1,31 @@
+{
+ "days": {
+  "26": {
+   "EI": [
+    {
+     "arr": "18:25",
+     "avios": {
+      "M": 10000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:15",
+     "fn": [
+      "EI874"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "ORK-TFS",
+ "schema": 1,
+ "t": 1785115919,
+ "v": "f1de73ec4f1865f195d1050dd3fd04c6aa77c251"
+}
