@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:50",
+     "fn": [
+      "EI883"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "AGP-ORK",
+ "schema": 1,
+ "t": 1785115005,
+ "v": "9144208eb3e0af4a54c022bb869248f9acf70e35"
+}
