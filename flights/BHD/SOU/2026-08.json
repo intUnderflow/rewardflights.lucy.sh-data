@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 12
      },
      "via": []
     }
@@ -40,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     }
@@ -86,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 10
      },
      "via": []
     }
@@ -109,7 +109,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 18
      },
      "via": []
     }
@@ -285,7 +285,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 9
      },
      "via": []
     }
@@ -308,7 +308,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 20
      },
      "via": []
     }
@@ -480,30 +480,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
-     },
-     "via": []
-    }
-   ]
-  },
-  "28": {
-   "EI": [
-    {
-     "arr": "08:25",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "06:40",
-     "fn": [
-      "EI3600"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 10
+      "M": 7
      },
      "via": []
     }
@@ -526,7 +503,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 12
      },
      "via": []
     }
@@ -581,6 +558,6 @@
  },
  "route": "BHD-SOU",
  "schema": 1,
- "t": 1785193530,
- "v": "9b3f8146244d49baa3a8477b59a9b0865a888c96"
+ "t": 1785193564,
+ "v": "6b0694204cf115c27a8f1b0bd2affcb6127a0a53"
 }
