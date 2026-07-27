@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "13:30",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:30",
+     "fn": [
+      "EI661"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "VIE-DUB",
+ "schema": 1,
+ "t": 1785114482,
+ "v": "8e2e591131a064e4c9ebacaaf689896e5aed8fca"
+}
