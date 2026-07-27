@@ -235,7 +235,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 48
+      "M": 49
      },
      "via": []
     }
@@ -568,7 +568,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 53
+      "M": 51
      },
      "via": []
     },
@@ -902,6 +902,6 @@
  },
  "route": "DUB-MAD",
  "schema": 1,
- "t": 1785125168,
- "v": "227601beaf70490e85fed8319fb9565d3c69287f"
+ "t": 1785125224,
+ "v": "c027cdce1645dc30608c37bee0390cc2bd5db9b2"
 }
