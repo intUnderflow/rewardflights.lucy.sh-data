@@ -1,30 +1,30 @@
 {
  "days": {
-  "29": {
+  "01": {
    "EI": [
     {
-     "arr": "19:15",
+     "arr": "17:20",
      "avios": {
-      "C": 60000
+      "M": 4000
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "16:45",
+     "dep": "15:50",
      "fn": [
-      "EI125"
+      "EI3373"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "C": 2
+      "M": 1
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-CHI",
+ "route": "INV-DUB",
  "schema": 1,
  "t": 1785110844,
  "v": "bd427e6627fc76d01b8d1e107888d63bfd5fe78c"
