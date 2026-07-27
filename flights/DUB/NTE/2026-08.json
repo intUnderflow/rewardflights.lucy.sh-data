@@ -1,0 +1,54 @@
+{
+ "days": {
+  "29": {
+   "EI": [
+    {
+     "arr": "15:00",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "12:15",
+     "fn": [
+      "EI538"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "31": {
+   "EI": [
+    {
+     "arr": "16:15",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:30",
+     "fn": [
+      "EI538"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-NTE",
+ "schema": 1,
+ "t": 1785126497,
+ "v": "72a9d5ffd6d5392053abadd9f66358052ecacb00"
+}
