@@ -60,10 +60,71 @@
      "via": []
     }
    ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "13:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "12:25",
+     "fn": [
+      "EI3281"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "16:10",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "14:55",
+     "fn": [
+      "EI3285"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "21:45",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "20:25",
+     "fn": [
+      "EI3287"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "BRS-DUB",
  "schema": 1,
- "t": 1785196597,
- "v": "d34a523fcfcbc4a3282141f45fa70aac25b8ae34"
+ "t": 1785196660,
+ "v": "0dd00e6a692f8702f49f72fa4f95594e9de7115c"
 }
