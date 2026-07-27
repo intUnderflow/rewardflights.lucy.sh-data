@@ -457,7 +457,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 45
+      "M": 43
      },
      "via": []
     }
@@ -481,48 +481,6 @@
      "rfs": false,
      "seats": {
       "M": 41
-     },
-     "via": []
-    }
-   ]
-  },
-  "18": {
-   "EI": [
-    {
-     "arr": "12:30",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "11:00",
-     "fn": [
-      "EI343"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 48
-     },
-     "via": []
-    },
-    {
-     "arr": "22:05",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:50",
-     "fn": [
-      "EI349"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 34
      },
      "via": []
     }
@@ -906,6 +864,6 @@
  },
  "route": "ZRH-DUB",
  "schema": 1,
- "t": 1785148803,
- "v": "1dab2d91e8147cf830701a1d627c5cbfdcd33cae"
+ "t": 1785148848,
+ "v": "802feef4388c33bbeeac45af20bccbfa4071b1f6"
 }

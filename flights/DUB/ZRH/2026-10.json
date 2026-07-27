@@ -105,7 +105,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 25
      },
      "via": []
     },
@@ -193,7 +193,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 52
+      "M": 51
      },
      "via": []
     }
@@ -216,7 +216,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 38
+      "M": 42
      },
      "via": []
     }
@@ -282,48 +282,6 @@
      "rfs": false,
      "seats": {
       "M": 2
-     },
-     "via": []
-    }
-   ]
-  },
-  "11": {
-   "EI": [
-    {
-     "arr": "10:20",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "06:50",
-     "fn": [
-      "EI342"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 36
-     },
-     "via": []
-    },
-    {
-     "arr": "20:10",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "17:00",
-     "fn": [
-      "EI348"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
      },
      "via": []
     }
@@ -503,7 +461,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 28
+      "M": 29
      },
      "via": []
     },
@@ -568,7 +526,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 50
+      "M": 48
      },
      "via": []
     }
@@ -614,7 +572,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 48
+      "M": 47
      },
      "via": []
     }
@@ -688,6 +646,6 @@
  },
  "route": "DUB-ZRH",
  "schema": 1,
- "t": 1785148803,
- "v": "1dab2d91e8147cf830701a1d627c5cbfdcd33cae"
+ "t": 1785148848,
+ "v": "802feef4388c33bbeeac45af20bccbfa4071b1f6"
 }
