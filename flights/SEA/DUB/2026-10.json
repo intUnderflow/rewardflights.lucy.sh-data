@@ -40,7 +40,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 25
      },
      "via": []
     }
@@ -316,7 +316,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 33
      },
      "via": []
     }
@@ -555,6 +555,6 @@
  },
  "route": "SEA-DUB",
  "schema": 1,
- "t": 1785128484,
- "v": "1672c8735d342af3aa737ff5f5aaedcc54a95214"
+ "t": 1785128541,
+ "v": "1194e332d02df69fb90774ec6c6af1232cc3ae76"
 }
