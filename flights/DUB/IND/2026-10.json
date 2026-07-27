@@ -178,7 +178,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 13
      },
      "via": []
     }
@@ -206,10 +206,33 @@
      "via": []
     }
    ]
+  },
+  "22": {
+   "EI": [
+    {
+     "arr": "18:20",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:50",
+     "fn": [
+      "EI083"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-IND",
  "schema": 1,
- "t": 1785123436,
- "v": "13912b2a15f2206be0d01bfd795a43c4fddc99bf"
+ "t": 1785123617,
+ "v": "7daca4aa6d3df67fb806d6a18ec3865464b7a5ed"
 }
