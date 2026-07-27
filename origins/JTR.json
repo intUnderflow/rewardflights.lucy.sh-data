@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "JTR": {
-   "name": "JTR"
+   "country": "Greece",
+   "g": [
+    36.399,
+    25.479
+   ],
+   "name": "Santorini"
   }
  },
  "routes": {

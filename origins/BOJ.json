@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BOJ": {
-   "name": "BOJ"
+   "country": "Bulgaria",
+   "g": [
+    42.57,
+    27.515
+   ],
+   "name": "Burgas"
   },
   "DUB": {
    "country": "Ireland",

@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BHD": {
-   "name": "BHD"
+   "country": "United Kingdom",
+   "g": [
+    54.618,
+    -5.872
+   ],
+   "name": "Belfast City"
   },
   "DUB": {
    "country": "Ireland",
@@ -35,7 +40,12 @@
    "name": "Dublin"
   },
   "EXT": {
-   "name": "EXT"
+   "country": "United Kingdom",
+   "g": [
+    50.734,
+    -3.414
+   ],
+   "name": "Exeter"
   }
  },
  "routes": {

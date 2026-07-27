@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "OVD": {
-   "name": "OVD"
+   "country": "Spain",
+   "g": [
+    43.564,
+    -6.035
+   ],
+   "name": "Asturias"
   }
  },
  "routes": {

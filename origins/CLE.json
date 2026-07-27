@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "CLE": {
-   "name": "CLE"
+   "country": "United States",
+   "g": [
+    41.412,
+    -81.85
+   ],
+   "name": "Cleveland"
   },
   "DUB": {
    "country": "Ireland",

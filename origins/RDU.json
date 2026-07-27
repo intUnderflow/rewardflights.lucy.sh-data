@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "RDU": {
-   "name": "RDU"
+   "country": "United States",
+   "g": [
+    35.878,
+    -78.788
+   ],
+   "name": "Raleigh–Durham"
   }
  },
  "routes": {

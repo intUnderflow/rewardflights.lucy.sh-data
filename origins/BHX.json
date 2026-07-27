@@ -24,10 +24,20 @@
  "epoch": "2026-01-01",
  "places": {
   "BHD": {
-   "name": "BHD"
+   "country": "United Kingdom",
+   "g": [
+    54.618,
+    -5.872
+   ],
+   "name": "Belfast City"
   },
   "BHX": {
-   "name": "BHX"
+   "country": "United Kingdom",
+   "g": [
+    52.454,
+    -1.748
+   ],
+   "name": "Birmingham"
   },
   "DUB": {
    "country": "Ireland",

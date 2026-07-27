@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BRS": {
-   "name": "BRS"
+   "country": "United Kingdom",
+   "g": [
+    51.383,
+    -2.719
+   ],
+   "name": "Bristol"
   },
   "DUB": {
    "country": "Ireland",

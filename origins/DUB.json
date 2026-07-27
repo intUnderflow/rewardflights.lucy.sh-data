@@ -72,7 +72,12 @@
    "name": "Barcelona"
   },
   "BDL": {
-   "name": "BDL"
+   "country": "United States",
+   "g": [
+    41.939,
+    -72.683
+   ],
+   "name": "Hartford"
   },
   "BER": {
    "country": "Germany",
@@ -86,10 +91,20 @@
    ]
   },
   "BHX": {
-   "name": "BHX"
+   "country": "United Kingdom",
+   "g": [
+    52.454,
+    -1.748
+   ],
+   "name": "Birmingham"
   },
   "BIO": {
-   "name": "BIO"
+   "country": "Spain",
+   "g": [
+    43.301,
+    -2.911
+   ],
+   "name": "Bilbao"
   },
   "BNA": {
    "country": "United States",
@@ -108,7 +123,12 @@
    "name": "Bordeaux"
   },
   "BOJ": {
-   "name": "BOJ"
+   "country": "Bulgaria",
+   "g": [
+    42.57,
+    27.515
+   ],
+   "name": "Burgas"
   },
   "BOS": {
    "country": "United States",
@@ -119,7 +139,12 @@
    "name": "Boston"
   },
   "BRS": {
-   "name": "BRS"
+   "country": "United Kingdom",
+   "g": [
+    51.383,
+    -2.719
+   ],
+   "name": "Bristol"
   },
   "BRU": {
    "country": "Belgium",
@@ -138,7 +163,12 @@
    "name": "Budapest"
   },
   "CFN": {
-   "name": "CFN"
+   "country": "Ireland",
+   "g": [
+    55.044,
+    -8.341
+   ],
+   "name": "Donegal"
   },
   "CFU": {
    "country": "Greece",
@@ -163,7 +193,12 @@
    ]
   },
   "CLE": {
-   "name": "CLE"
+   "country": "United States",
+   "g": [
+    41.412,
+    -81.85
+   ],
+   "name": "Cleveland"
   },
   "CUN": {
    "country": "Mexico",
@@ -214,7 +249,12 @@
    "name": "Edinburgh"
   },
   "EXT": {
-   "name": "EXT"
+   "country": "United Kingdom",
+   "g": [
+    50.734,
+    -3.414
+   ],
+   "name": "Exeter"
   },
   "FAO": {
    "country": "Portugal",
@@ -257,7 +297,12 @@
    "name": "Hamburg"
   },
   "IND": {
-   "name": "IND"
+   "country": "United States",
+   "g": [
+    39.717,
+    -86.294
+   ],
+   "name": "Indianapolis"
   },
   "INV": {
    "country": "United Kingdom",
@@ -268,7 +313,12 @@
    "name": "Inverness"
   },
   "IOM": {
-   "name": "IOM"
+   "country": "United Kingdom",
+   "g": [
+    54.083,
+    -4.624
+   ],
+   "name": "Isle of Man"
   },
   "JER": {
    "country": "United Kingdom",
@@ -279,7 +329,12 @@
    "name": "Jersey"
   },
   "JTR": {
-   "name": "JTR"
+   "country": "Greece",
+   "g": [
+    36.399,
+    25.479
+   ],
+   "name": "Santorini"
   },
   "LAX": {
    "country": "United States",
@@ -290,7 +345,12 @@
    "name": "Los Angeles"
   },
   "LBA": {
-   "name": "LBA"
+   "country": "United Kingdom",
+   "g": [
+    53.866,
+    -1.661
+   ],
+   "name": "Leeds"
   },
   "LIS": {
    "country": "Portugal",
@@ -329,7 +389,12 @@
    "name": "Gran Canaria"
   },
   "LPL": {
-   "name": "LPL"
+   "country": "United Kingdom",
+   "g": [
+    53.334,
+    -2.85
+   ],
+   "name": "Liverpool"
   },
   "LYS": {
    "country": "France",
@@ -396,7 +461,12 @@
    "name": "Marseille"
   },
   "MSP": {
-   "name": "MSP"
+   "country": "United States",
+   "g": [
+    44.882,
+    -93.222
+   ],
+   "name": "Minneapolis"
   },
   "NCE": {
    "country": "France",
@@ -415,7 +485,12 @@
    "name": "Newcastle"
   },
   "NQY": {
-   "name": "NQY"
+   "country": "United Kingdom",
+   "g": [
+    50.441,
+    -5.001
+   ],
+   "name": "Newquay"
   },
   "NYC": {
    "country": "United States",
@@ -444,7 +519,12 @@
    ]
   },
   "OVD": {
-   "name": "OVD"
+   "country": "Spain",
+   "g": [
+    43.564,
+    -6.035
+   ],
+   "name": "Asturias"
   },
   "PAR": {
    "country": "France",
@@ -461,7 +541,12 @@
    ]
   },
   "PGF": {
-   "name": "PGF"
+   "country": "France",
+   "g": [
+    42.74,
+    2.871
+   ],
+   "name": "Perpignan"
   },
   "PMI": {
    "country": "Spain",
@@ -480,7 +565,12 @@
    "name": "Prague"
   },
   "RDU": {
-   "name": "RDU"
+   "country": "United States",
+   "g": [
+    35.878,
+    -78.788
+   ],
+   "name": "Raleigh–Durham"
   },
   "ROM": {
    "country": "Italy",
@@ -513,7 +603,12 @@
    "name": "San Francisco"
   },
   "SOU": {
-   "name": "SOU"
+   "country": "United Kingdom",
+   "g": [
+    50.95,
+    -1.357
+   ],
+   "name": "Southampton"
   },
   "SVQ": {
    "country": "Spain",

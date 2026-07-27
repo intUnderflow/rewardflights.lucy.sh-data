@@ -24,10 +24,20 @@
  "epoch": "2026-01-01",
  "places": {
   "BHD": {
-   "name": "BHD"
+   "country": "United Kingdom",
+   "g": [
+    54.618,
+    -5.872
+   ],
+   "name": "Belfast City"
   },
   "CWL": {
-   "name": "CWL"
+   "country": "United Kingdom",
+   "g": [
+    51.397,
+    -3.343
+   ],
+   "name": "Cardiff"
   }
  },
  "routes": {

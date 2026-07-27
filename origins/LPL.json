@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "LPL": {
-   "name": "LPL"
+   "country": "United Kingdom",
+   "g": [
+    53.334,
+    -2.85
+   ],
+   "name": "Liverpool"
   }
  },
  "routes": {

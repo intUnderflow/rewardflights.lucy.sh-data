@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "CFN": {
-   "name": "CFN"
+   "country": "Ireland",
+   "g": [
+    55.044,
+    -8.341
+   ],
+   "name": "Donegal"
   },
   "DUB": {
    "country": "Ireland",

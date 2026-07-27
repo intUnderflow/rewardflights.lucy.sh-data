@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "MSP": {
-   "name": "MSP"
+   "country": "United States",
+   "g": [
+    44.882,
+    -93.222
+   ],
+   "name": "Minneapolis"
   }
  },
  "routes": {

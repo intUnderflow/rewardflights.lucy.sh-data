@@ -24,10 +24,20 @@
  "epoch": "2026-01-01",
  "places": {
   "BHD": {
-   "name": "BHD"
+   "country": "United Kingdom",
+   "g": [
+    54.618,
+    -5.872
+   ],
+   "name": "Belfast City"
   },
   "EMA": {
-   "name": "EMA"
+   "country": "United Kingdom",
+   "g": [
+    52.831,
+    -1.328
+   ],
+   "name": "East Midlands"
   }
  },
  "routes": {

@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "NQY": {
-   "name": "NQY"
+   "country": "United Kingdom",
+   "g": [
+    50.441,
+    -5.001
+   ],
+   "name": "Newquay"
   }
  },
  "routes": {

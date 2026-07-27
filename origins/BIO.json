@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BIO": {
-   "name": "BIO"
+   "country": "Spain",
+   "g": [
+    43.301,
+    -2.911
+   ],
+   "name": "Bilbao"
   },
   "DUB": {
    "country": "Ireland",

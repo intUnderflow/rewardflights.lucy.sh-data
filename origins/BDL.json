@@ -24,7 +24,12 @@
  "epoch": "2026-01-01",
  "places": {
   "BDL": {
-   "name": "BDL"
+   "country": "United States",
+   "g": [
+    41.939,
+    -72.683
+   ],
+   "name": "Hartford"
   },
   "DUB": {
    "country": "Ireland",
