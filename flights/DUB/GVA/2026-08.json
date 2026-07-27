@@ -1,28 +1,5 @@
 {
  "days": {
-  "25": {
-   "EI": [
-    {
-     "arr": "09:30",
-     "avios": {
-      "M": 7500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "06:15",
-     "fn": [
-      "EI680"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    }
-   ]
-  },
   "26": {
    "EI": [
     {
@@ -63,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 5
      },
      "via": []
     }
@@ -240,6 +217,6 @@
  },
  "route": "DUB-GVA",
  "schema": 1,
- "t": 1785169944,
- "v": "b82fe3fd00bdf407c81b7d5e5c34b4ad2adf0ad0"
+ "t": 1785170092,
+ "v": "e1e52d5aa2aa07bd8b8bf565f58a7900385893b3"
 }
