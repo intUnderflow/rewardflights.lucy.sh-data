@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "13:20",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:40",
+     "fn": [
+      "EI643"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "PRG-DUB",
+ "schema": 1,
+ "t": 1785113209,
+ "v": "aae796fcdc64bff3d25ed93ce6d47c217a73aed3"
+}
