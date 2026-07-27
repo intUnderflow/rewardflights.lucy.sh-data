@@ -3,16 +3,16 @@
   "01": {
    "EI": [
     {
-     "arr": "13:45",
+     "arr": "22:25",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "12:25",
+     "dep": "20:40",
      "fn": [
-      "EI3331"
+      "EI549"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -24,7 +24,7 @@
    ]
   }
  },
- "route": "EXT-DUB",
+ "route": "NCE-DUB",
  "schema": 1,
  "t": 1785112171,
  "v": "03f6d8251f7891c35d4056f7ed72bd8f3a1b66c2"
