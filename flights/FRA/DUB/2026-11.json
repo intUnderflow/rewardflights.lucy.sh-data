@@ -3,66 +3,47 @@
   "01": {
    "EI": [
     {
-     "arr": "11:00",
+     "arr": "12:00",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "09:20",
+     "dep": "10:45",
      "fn": [
-      "EI3301"
+      "EI651"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 8
      },
      "via": []
     },
     {
-     "arr": "18:55",
+     "arr": "21:10",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "EA"
-     ],
-     "dep": "17:05",
-     "fn": [
-      "EI3305"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
-     },
-     "via": []
-    },
-    {
-     "arr": "21:35",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
+      "EI"
      ],
      "dep": "20:00",
      "fn": [
-      "EI3309"
+      "EI657"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 8
      },
      "via": []
     }
    ]
   }
  },
- "route": "SOU-DUB",
+ "route": "FRA-DUB",
  "schema": 1,
  "t": 1785122977,
  "v": "e2066331f78854ccdd1fe5514238f0600b3e9e6b"
