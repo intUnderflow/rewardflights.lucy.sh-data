@@ -1,28 +1,5 @@
 {
  "days": {
-  "01": {
-   "EI": [
-    {
-     "arr": "13:20",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "12:00",
-     "fn": [
-      "EI3621"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
-    }
-   ]
-  },
   "02": {
    "EI": [
     {
@@ -86,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 11
      },
      "via": []
     }
@@ -132,7 +109,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 3
      },
      "via": []
     }
@@ -155,7 +132,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 6
      },
      "via": []
     }
@@ -247,7 +224,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 13
      },
      "via": []
     }
@@ -299,29 +276,6 @@
     }
    ]
   },
-  "18": {
-   "EI": [
-    {
-     "arr": "13:20",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "12:00",
-     "fn": [
-      "EI3621"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
-    }
-   ]
-  },
   "19": {
    "EI": [
     {
@@ -339,7 +293,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 21
      },
      "via": []
     }
@@ -362,7 +316,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 6
      },
      "via": []
     }
@@ -454,7 +408,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 6
      },
      "via": []
     }
@@ -578,6 +532,6 @@
  },
  "route": "CWL-BHD",
  "schema": 1,
- "t": 1785191052,
- "v": "bcacffc620ee23a492207f25233fe033ad7885eb"
+ "t": 1785191157,
+ "v": "1e2f0fb0c3f833af62a81cf7895556c1c9f2ebce"
 }
