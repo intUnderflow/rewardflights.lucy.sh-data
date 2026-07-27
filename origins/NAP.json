@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "NAP": {
-   "name": "NAP"
+   "country": "Italy",
+   "g": [
+    40.886,
+    14.291
+   ],
+   "name": "Naples"
   }
  },
  "routes": {

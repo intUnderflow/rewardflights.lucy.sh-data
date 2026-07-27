@@ -32,7 +32,12 @@
    "name": "Dublin"
   },
   "SCQ": {
-   "name": "SCQ"
+   "country": "Spain",
+   "g": [
+    42.896,
+    -8.415
+   ],
+   "name": "Santiago de Compostela"
   }
  },
  "routes": {
