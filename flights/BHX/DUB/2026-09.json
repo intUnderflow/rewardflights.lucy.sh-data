@@ -36,7 +36,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 9
      },
      "via": []
     },
@@ -116,7 +116,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 16
      },
      "via": []
     },
@@ -177,7 +177,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 17
      },
      "via": []
     },
@@ -760,7 +760,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 7
      },
      "via": []
     },
@@ -879,25 +879,6 @@
      "rfs": false,
      "seats": {
       "M": 16
-     },
-     "via": []
-    },
-    {
-     "arr": "20:50",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "19:35",
-     "fn": [
-      "EI3279"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
      },
      "via": []
     }
@@ -1225,7 +1206,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     },
@@ -1516,25 +1497,6 @@
      "via": []
     },
     {
-     "arr": "13:45",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "12:20",
-     "fn": [
-      "EI3265"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
      "arr": "17:50",
      "avios": {
       "M": 4000
@@ -1568,7 +1530,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -1846,7 +1808,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 15
      },
      "via": []
     }
@@ -1869,7 +1831,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 8
      },
      "via": []
     },
@@ -2175,6 +2137,6 @@
  },
  "route": "BHX-DUB",
  "schema": 1,
- "t": 1785165402,
- "v": "caaef4bb8735d1cbf11dbce5ad6ce066170de7bb"
+ "t": 1785165433,
+ "v": "df494f18e98028011b9f3d0af169eb3e6042c58d"
 }
