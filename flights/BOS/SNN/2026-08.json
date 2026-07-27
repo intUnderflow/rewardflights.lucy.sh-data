@@ -1,0 +1,31 @@
+{
+ "days": {
+  "30": {
+   "EI": [
+    {
+     "arr": "05:25",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:30",
+     "fn": [
+      "EI134"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 3
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BOS-SNN",
+ "schema": 1,
+ "t": 1785129701,
+ "v": "38744f624f6dab4c8346a4b8b9d2aea9dbed705d"
+}

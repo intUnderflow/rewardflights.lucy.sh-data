@@ -1,0 +1,54 @@
+{
+ "days": {
+  "26": {
+   "EI": [
+    {
+     "arr": "10:00",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:05",
+     "fn": [
+      "EI876"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "11:40",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:45",
+     "fn": [
+      "EI876"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "ORK-ACE",
+ "schema": 1,
+ "t": 1785129701,
+ "v": "38744f624f6dab4c8346a4b8b9d2aea9dbed705d"
+}
