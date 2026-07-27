@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "19:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:00",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "PRG-ORK",
+ "schema": 1,
+ "t": 1785115400,
+ "v": "545a8ca81301ea9ab68e53ee89d246fa1c2f9231"
+}
