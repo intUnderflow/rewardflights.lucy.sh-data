@@ -1,87 +1,7 @@
 {
  "days": {
-  "22": {
-   "EI": [
-    {
-     "arr": "21:45",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:30",
-     "fn": [
-      "EI724"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    }
-   ]
-  },
   "25": {
    "EI": [
-    {
-     "arr": "08:40",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "07:10",
-     "fn": [
-      "EI710"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "12:55",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "11:25",
-     "fn": [
-      "EI714"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "17:35",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:10",
-     "fn": [
-      "EI722"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
-     },
-     "via": []
-    },
     {
      "arr": "21:45",
      "avios": {
@@ -177,7 +97,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 11
      },
      "via": []
     }
@@ -257,7 +177,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 8
      },
      "via": []
     }
@@ -341,7 +261,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 4
      },
      "via": []
     }
@@ -415,6 +335,6 @@
  },
  "route": "ORK-LON",
  "schema": 1,
- "t": 1785115461,
- "v": "9f9160e18ca15fc5b8ab7d3fbcf1ba2533f75d5f"
+ "t": 1785115550,
+ "v": "73d4d614db943ab07d1bc78a4e6e4edc7a2e4d9a"
 }

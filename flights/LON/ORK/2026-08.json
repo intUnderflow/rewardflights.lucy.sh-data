@@ -17,30 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
-     },
-     "via": []
-    }
-   ]
-  },
-  "24": {
-   "EI": [
-    {
-     "arr": "23:50",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "22:25",
-     "fn": [
-      "EI725"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
+      "M": 4
      },
      "via": []
     }
@@ -48,63 +25,6 @@
   },
   "25": {
    "EI": [
-    {
-     "arr": "10:45",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "09:20",
-     "fn": [
-      "EI711"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "15:10",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:45",
-     "fn": [
-      "EI715"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
-     },
-     "via": []
-    },
-    {
-     "arr": "19:50",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:25",
-     "fn": [
-      "EI723"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    },
     {
      "arr": "23:50",
      "avios": {
@@ -364,7 +284,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 14
      },
      "via": []
     }
@@ -533,6 +453,6 @@
  },
  "route": "LON-ORK",
  "schema": 1,
- "t": 1785115461,
- "v": "9f9160e18ca15fc5b8ab7d3fbcf1ba2533f75d5f"
+ "t": 1785115550,
+ "v": "73d4d614db943ab07d1bc78a4e6e4edc7a2e4d9a"
 }
