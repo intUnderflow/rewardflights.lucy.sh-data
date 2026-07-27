@@ -196,7 +196,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 18
      },
      "via": []
     },
@@ -981,7 +981,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 17
      },
      "via": []
     },
@@ -1000,7 +1000,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 6
      },
      "via": []
     }
@@ -1305,7 +1305,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 17
      },
      "via": []
     },
@@ -1386,6 +1386,25 @@
      "rfs": false,
      "seats": {
       "M": 13
+     },
+     "via": []
+    },
+    {
+     "arr": "17:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "16:25",
+     "fn": [
+      "EI3677"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
      },
      "via": []
     },
@@ -1766,7 +1785,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 5
      },
      "via": []
     },
@@ -1827,7 +1846,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 12
      },
      "via": []
     },
@@ -2194,6 +2213,6 @@
  },
  "route": "LBA-BHD",
  "schema": 1,
- "t": 1785119694,
- "v": "52f0d67b44f7236c8b9f19093be0ad32bd469c1d"
+ "t": 1785119724,
+ "v": "d26d061c1da73aeb31f8c588d8da6abf72e9e672"
 }

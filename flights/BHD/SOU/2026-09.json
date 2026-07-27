@@ -246,7 +246,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 11
      },
      "via": []
     }
@@ -1016,44 +1016,6 @@
       "M": 17
      },
      "via": []
-    },
-    {
-     "arr": "12:05",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "10:25",
-     "fn": [
-      "EI3604"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
-     "arr": "19:00",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "17:25",
-     "fn": [
-      "EI3606"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
     }
    ]
   },
@@ -1074,7 +1036,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 7
      },
      "via": []
     },
@@ -1112,7 +1074,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 7
      },
      "via": []
     }
@@ -1196,7 +1158,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 13
      },
      "via": []
     },
@@ -1426,6 +1388,6 @@
  },
  "route": "BHD-SOU",
  "schema": 1,
- "t": 1785119694,
- "v": "52f0d67b44f7236c8b9f19093be0ad32bd469c1d"
+ "t": 1785119724,
+ "v": "d26d061c1da73aeb31f8c588d8da6abf72e9e672"
 }

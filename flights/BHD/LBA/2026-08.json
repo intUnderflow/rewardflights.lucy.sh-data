@@ -1,28 +1,5 @@
 {
  "days": {
-  "02": {
-   "EI": [
-    {
-     "arr": "08:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "06:50",
-     "fn": [
-      "EI3670"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 14
-     },
-     "via": []
-    }
-   ]
-  },
   "04": {
    "EI": [
     {
@@ -59,7 +36,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 1
      },
      "via": []
     }
@@ -151,7 +128,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 12
      },
      "via": []
     }
@@ -220,7 +197,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 10
      },
      "via": []
     },
@@ -239,7 +216,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 10
      },
      "via": []
     },
@@ -472,7 +449,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 13
      },
      "via": []
     }
@@ -916,25 +893,6 @@
      "via": []
     },
     {
-     "arr": "16:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:50",
-     "fn": [
-      "EI3676"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 10
-     },
-     "via": []
-    },
-    {
      "arr": "19:20",
      "avios": {
       "M": 4500
@@ -1027,6 +985,6 @@
  },
  "route": "BHD-LBA",
  "schema": 1,
- "t": 1785119694,
- "v": "52f0d67b44f7236c8b9f19093be0ad32bd469c1d"
+ "t": 1785119724,
+ "v": "d26d061c1da73aeb31f8c588d8da6abf72e9e672"
 }
