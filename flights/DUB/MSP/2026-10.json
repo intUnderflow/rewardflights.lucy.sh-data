@@ -408,7 +408,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 25
      },
      "via": []
     }
@@ -555,6 +555,6 @@
  },
  "route": "DUB-MSP",
  "schema": 1,
- "t": 1785142019,
- "v": "45b2975ac6a97f2bb27b6d905e24c8200d51602f"
+ "t": 1785142110,
+ "v": "9de046e4ec56504bde8d8153cff796c8c4814e97"
 }
