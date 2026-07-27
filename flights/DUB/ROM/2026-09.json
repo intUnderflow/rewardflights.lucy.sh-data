@@ -105,7 +105,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 35
      },
      "via": []
     }
@@ -151,7 +151,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 19
      },
      "via": []
     }
@@ -327,7 +327,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 22
      },
      "via": []
     }
@@ -519,6 +519,6 @@
  },
  "route": "DUB-ROM",
  "schema": 1,
- "t": 1785122726,
- "v": "c752da4e31a28cea9521f6dfa1271bfa6f5091ec"
+ "t": 1785122784,
+ "v": "f1259c897dbebd745db41c62615dc016d52396b1"
 }
