@@ -1,20 +1,20 @@
 {
  "days": {
-  "25": {
+  "01": {
    "EI": [
     {
-     "arr": "23:10",
+     "arr": "16:05",
      "avios": {
-      "M": 10000
+      "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "17:25",
+     "dep": "14:50",
      "fn": [
-      "EI444"
+      "EI553"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
       "M": 4
@@ -24,7 +24,7 @@
    ]
   }
  },
- "route": "DUB-CFU",
+ "route": "LYS-DUB",
  "schema": 1,
  "t": 1785111112,
  "v": "9f5b89be82e29ff41c1acd0ae7f96bae29448b35"

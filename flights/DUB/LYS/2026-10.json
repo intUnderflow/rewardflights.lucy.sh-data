@@ -528,10 +528,33 @@
      "via": []
     }
    ]
+  },
+  "25": {
+   "EI": [
+    {
+     "arr": "14:10",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:00",
+     "fn": [
+      "EI552"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-LYS",
  "schema": 1,
- "t": 1785111080,
- "v": "beca7ec24c7bcf183b81f53877d553b3bc31cfe8"
+ "t": 1785111112,
+ "v": "9f5b89be82e29ff41c1acd0ae7f96bae29448b35"
 }
