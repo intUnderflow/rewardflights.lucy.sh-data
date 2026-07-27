@@ -485,7 +485,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 4
      },
      "via": []
     }
@@ -1079,7 +1079,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 15
      },
      "via": []
     },
@@ -1985,7 +1985,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 6
      },
      "via": []
     }
@@ -2070,6 +2070,25 @@
      "rfs": false,
      "seats": {
       "M": 15
+     },
+     "via": []
+    },
+    {
+     "arr": "13:10",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "11:55",
+     "fn": [
+      "EI3643"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
      },
      "via": []
     },
@@ -2575,7 +2594,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 10
      },
      "via": []
     }
@@ -2636,7 +2655,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 8
      },
      "via": []
     },
@@ -2830,7 +2849,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 4
      },
      "via": []
     },
@@ -2990,7 +3009,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 8
      },
      "via": []
     },
@@ -3486,6 +3505,6 @@
  },
  "route": "BHX-BHD",
  "schema": 1,
- "t": 1785133575,
- "v": "99096ae41e0f02fc1e8ed2b7465325a140e0536d"
+ "t": 1785133661,
+ "v": "2c77e88a1868d46945d534a4b6f746e4c1fdf60a"
 }
