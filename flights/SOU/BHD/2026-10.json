@@ -116,7 +116,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 1
      },
      "via": []
     }
@@ -139,7 +139,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     },
@@ -1115,7 +1115,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 5
      },
      "via": []
     },
@@ -1818,6 +1818,6 @@
  },
  "route": "SOU-BHD",
  "schema": 1,
- "t": 1785134825,
- "v": "ffbfa87a7d4fef24578cf0d1748a5e6be5bb3147"
+ "t": 1785134855,
+ "v": "1523cc2290528def767fb54b086d855780571451"
 }
