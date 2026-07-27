@@ -20,25 +20,6 @@
       "M": 4
      },
      "via": []
-    },
-    {
-     "arr": "17:10",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "15:25",
-     "fn": [
-      "EI545"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
     }
    ]
   },
@@ -439,6 +420,6 @@
  },
  "route": "NCE-DUB",
  "schema": 1,
- "t": 1785176389,
- "v": "26b7404efb0ed8c29e29fc5d8cfdf98d899ee94f"
+ "t": 1785176427,
+ "v": "fbf9a71bf35771efbce158b0dae9115790d0e018"
 }
