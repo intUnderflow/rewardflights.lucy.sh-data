@@ -3,25 +3,6 @@
   "02": {
    "EI": [
     {
-     "arr": "14:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "12:55",
-     "fn": [
-      "EI3402"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
-     },
-     "via": []
-    },
-    {
      "arr": "20:00",
      "avios": {
       "M": 4500
@@ -36,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 17
      },
      "via": []
     }
@@ -101,7 +82,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     }
@@ -143,7 +124,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 15
      },
      "via": []
     }
@@ -166,7 +147,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 8
      },
      "via": []
     },
@@ -185,7 +166,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     }
@@ -208,7 +189,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 18
      },
      "via": []
     }
@@ -250,7 +231,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 22
      },
      "via": []
     }
@@ -315,7 +296,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     },
@@ -510,7 +491,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 12
      },
      "via": []
     },
@@ -594,7 +575,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     },
@@ -739,7 +720,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 28
+      "M": 22
      },
      "via": []
     }
@@ -972,7 +953,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 25
      },
      "via": []
     },
@@ -1037,7 +1018,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 18
      },
      "via": []
     },
@@ -1079,7 +1060,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 33
      },
      "via": []
     },
@@ -1149,6 +1130,6 @@
  },
  "route": "DUB-CFN",
  "schema": 1,
- "t": 1785167973,
- "v": "44286d88a048a05424f4f1d7ce2aa10f511085dc"
+ "t": 1785168036,
+ "v": "8e3a8842715ff455bb1f1bb70408a58f56094e30"
 }
