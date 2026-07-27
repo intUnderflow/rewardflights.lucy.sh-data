@@ -1,28 +1,5 @@
 {
  "days": {
-  "01": {
-   "EI": [
-    {
-     "arr": "09:20",
-     "avios": {
-      "M": 16250
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "19:59",
-     "fn": [
-      "EI120"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 26
-     },
-     "via": []
-    }
-   ]
-  },
   "02": {
    "EI": [
     {
@@ -63,7 +40,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 30
      },
      "via": []
     }
@@ -509,6 +486,6 @@
  },
  "route": "MCO-DUB",
  "schema": 1,
- "t": 1785125280,
- "v": "3f07ba14bc434b777df19584db10e15851a81290"
+ "t": 1785125313,
+ "v": "938f1c78bf898cb74aae1b6a7ea5feda7e4d8636"
 }
