@@ -1,0 +1,54 @@
+{
+ "days": {
+  "28": {
+   "EI": [
+    {
+     "arr": "18:55",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:10",
+     "fn": [
+      "EI115"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "18:55",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:10",
+     "fn": [
+      "EI115"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-PHL",
+ "schema": 1,
+ "t": 1785127060,
+ "v": "3b219b2df7bcb1bbfa4b1091a1de26ba09f45228"
+}
