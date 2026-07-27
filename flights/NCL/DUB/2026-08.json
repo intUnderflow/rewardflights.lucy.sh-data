@@ -109,7 +109,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 18
      },
      "via": []
     }
@@ -155,7 +155,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 21
      },
      "via": []
     },
@@ -197,7 +197,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 17
      },
      "via": []
     }
@@ -285,7 +285,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 19
      },
      "via": []
     }
@@ -294,6 +294,6 @@
  },
  "route": "NCL-DUB",
  "schema": 1,
- "t": 1785142587,
- "v": "84a642f7365a717686bc4ac16f67818ff76f2d53"
+ "t": 1785142617,
+ "v": "3818a59233347e5e31c9aadca69a4a7c48aef9bb"
 }
