@@ -82,26 +82,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "16:10",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "14:55",
-     "fn": [
-      "EI3285"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
+      "M": 23
      },
      "via": []
     },
@@ -120,7 +101,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 10
      },
      "via": []
     }
@@ -235,7 +216,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 7
      },
      "via": []
     },
@@ -254,7 +235,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 9
      },
      "via": []
     },
@@ -273,7 +254,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 14
      },
      "via": []
     }
@@ -296,7 +277,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 18
      },
      "via": []
     },
@@ -315,7 +296,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 30
      },
      "via": []
     }
@@ -376,7 +357,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 18
      },
      "via": []
     }
@@ -399,7 +380,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 14
      },
      "via": []
     }
@@ -445,7 +426,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 14
      },
      "via": []
     }
@@ -590,7 +571,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 25
      },
      "via": []
     },
@@ -618,25 +599,6 @@
   "20": {
    "EI": [
     {
-     "arr": "09:40",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "08:25",
-     "fn": [
-      "EI3281"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
-    },
-    {
      "arr": "16:10",
      "avios": {
       "M": 4500
@@ -651,7 +613,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     },
@@ -670,7 +632,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 35
      },
      "via": []
     }
@@ -693,7 +655,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     },
@@ -777,7 +739,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 22
      },
      "via": []
     }
@@ -861,7 +823,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 15
      },
      "via": []
     },
@@ -899,7 +861,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 36
      },
      "via": []
     }
@@ -1002,7 +964,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 18
      },
      "via": []
     },
@@ -1022,6 +984,29 @@
      "rfs": false,
      "seats": {
       "M": 22
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "21:45",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "20:25",
+     "fn": [
+      "EI3289"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
      },
      "via": []
     }
@@ -1128,7 +1113,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 15
      },
      "via": []
     },
@@ -1147,7 +1132,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 25
      },
      "via": []
     },
@@ -1175,6 +1160,6 @@
  },
  "route": "BRS-DUB",
  "schema": 1,
- "t": 1785166474,
- "v": "ef945052491a8185dadf16e45864c0da06c8233c"
+ "t": 1785166506,
+ "v": "87d7830fb282e84632d84bca30d641d33d79f4a8"
 }
