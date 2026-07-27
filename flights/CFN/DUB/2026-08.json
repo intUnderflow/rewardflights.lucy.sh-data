@@ -82,7 +82,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 15
      },
      "via": []
     },
@@ -147,7 +147,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 3
      },
      "via": []
     }
@@ -1004,6 +1004,6 @@
  },
  "route": "CFN-DUB",
  "schema": 1,
- "t": 1785121760,
- "v": "cd7d68c86139ff9c04f9d1a329571b7891c434c1"
+ "t": 1785121872,
+ "v": "64c40e3fdf284e6bda5a92b6685aa43a2469ab9f"
 }
