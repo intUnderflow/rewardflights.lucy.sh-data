@@ -154,7 +154,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 13
      },
      "via": []
     },
@@ -318,7 +318,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 20
      },
      "via": []
     }
@@ -733,7 +733,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     },
@@ -1034,7 +1034,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     },
@@ -1316,7 +1316,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 24
      },
      "via": []
     },
@@ -1830,7 +1830,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 14
      },
      "via": []
     }
@@ -1976,44 +1976,6 @@
      "via": []
     },
     {
-     "arr": "12:55",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "11:40",
-     "fn": [
-      "EI3254"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
-     "arr": "15:00",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "13:45",
-     "fn": [
-      "EI3256"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
      "arr": "19:05",
      "avios": {
       "M": 4000
@@ -2070,7 +2032,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 28
      },
      "via": []
     },
@@ -2089,7 +2051,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 28
      },
      "via": []
     },
@@ -2108,7 +2070,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 25
      },
      "via": []
     },
@@ -2878,6 +2840,6 @@
  },
  "route": "DUB-EDI",
  "schema": 1,
- "t": 1785122349,
- "v": "2d27433b8281a1317bc359b5e13c214e3a4457fb"
+ "t": 1785122432,
+ "v": "0b8ea78f2565c72cb9d98b6ea849e51939a7a5a5"
 }
