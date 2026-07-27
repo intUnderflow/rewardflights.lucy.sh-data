@@ -3,16 +3,16 @@
   "01": {
    "EI": [
     {
-     "arr": "22:50",
+     "arr": "17:05",
      "avios": {
       "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "21:05",
+     "dep": "15:55",
      "fn": [
-      "EI565"
+      "EI749"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -24,7 +24,7 @@
    ]
   }
  },
- "route": "BCN-DUB",
+ "route": "BIO-DUB",
  "schema": 1,
  "t": 1785120713,
  "v": "4cd43477357855af2a01ee6b326417b62f78dafd"

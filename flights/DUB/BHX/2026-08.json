@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 42
      },
      "via": []
     }
@@ -59,7 +59,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 10
      },
      "via": []
     }
@@ -82,7 +82,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 32
+      "M": 31
      },
      "via": []
     }
@@ -108,6 +108,25 @@
       "M": 25
      },
      "via": []
+    },
+    {
+     "arr": "18:10",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:50",
+     "fn": [
+      "EI3274"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
     }
    ]
   },
@@ -131,6 +150,25 @@
       "M": 22
      },
      "via": []
+    },
+    {
+     "arr": "19:05",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:50",
+     "fn": [
+      "EI3278"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
     }
    ]
   },
@@ -152,25 +190,6 @@
      "rfs": false,
      "seats": {
       "M": 25
-     },
-     "via": []
-    },
-    {
-     "arr": "19:05",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "17:50",
-     "fn": [
-      "EI3278"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
      },
      "via": []
     },
@@ -212,7 +231,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 37
+      "M": 38
      },
      "via": []
     }
@@ -220,6 +239,25 @@
   },
   "10": {
    "EI": [
+    {
+     "arr": "19:05",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:50",
+     "fn": [
+      "EI3278"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 5
+     },
+     "via": []
+    },
     {
      "arr": "19:55",
      "avios": {
@@ -235,7 +273,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 19
      },
      "via": []
     }
@@ -361,7 +399,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 27
      },
      "via": []
     }
@@ -670,7 +708,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 44
+      "M": 45
      },
      "via": []
     }
@@ -792,7 +830,26 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 36
+     },
+     "via": []
+    },
+    {
+     "arr": "16:05",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "14:45",
+     "fn": [
+      "EI3272"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 18
      },
      "via": []
     }
@@ -838,7 +895,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 32
      },
      "via": []
     },
@@ -996,6 +1053,6 @@
  },
  "route": "DUB-BHX",
  "schema": 1,
- "t": 1785120625,
- "v": "3f3262833c89af9f8ff8746ca4af7feaa2ea31a1"
+ "t": 1785120713,
+ "v": "4cd43477357855af2a01ee6b326417b62f78dafd"
 }
