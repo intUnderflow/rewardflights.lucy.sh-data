@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 23
      },
      "via": []
     }
@@ -362,7 +362,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 30
      },
      "via": []
     }
@@ -440,6 +440,6 @@
  },
  "route": "YTO-DUB",
  "schema": 1,
- "t": 1785114213,
- "v": "1057040395a289243e415a428eeac70bab75e75d"
+ "t": 1785114245,
+ "v": "810f654c47effbb9e91ffdf102b4584e3842e942"
 }
