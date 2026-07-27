@@ -55,7 +55,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 16
      },
      "via": []
     },
@@ -112,6 +112,25 @@
      "dep": "06:50",
      "fn": [
       "EI3220"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 10
+     },
+     "via": []
+    },
+    {
+     "arr": "11:30",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "10:20",
+     "fn": [
+      "EI3222"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -413,7 +432,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 19
      },
      "via": []
     },
@@ -1072,7 +1091,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 10
      },
      "via": []
     },
@@ -1632,7 +1651,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 21
      },
      "via": []
     },
@@ -1792,7 +1811,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     },
@@ -1948,7 +1967,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 6
      },
      "via": []
     }
@@ -2070,7 +2089,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 22
      },
      "via": []
     },
@@ -2089,7 +2108,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 12
      },
      "via": []
     },
@@ -2108,7 +2127,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 19
      },
      "via": []
     },
@@ -2367,7 +2386,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     },
@@ -2447,7 +2466,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 13
      },
      "via": []
     },
@@ -2574,6 +2593,6 @@
  },
  "route": "DUB-GLA",
  "schema": 1,
- "t": 1785139950,
- "v": "8df3a943378ab229892ca3175098c8f0c5253576"
+ "t": 1785139981,
+ "v": "4e97b7d9a09ce30922772e54a9d50fa8de4220d4"
 }

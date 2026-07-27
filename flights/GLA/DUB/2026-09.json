@@ -154,7 +154,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 25
      },
      "via": []
     },
@@ -234,7 +234,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 17
      },
      "via": []
     },
@@ -687,7 +687,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 32
+      "M": 30
      },
      "via": []
     },
@@ -748,7 +748,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 37
+      "M": 35
      },
      "via": []
     },
@@ -965,7 +965,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     },
@@ -1148,7 +1148,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 8
      },
      "via": []
     },
@@ -1449,7 +1449,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 15
      },
      "via": []
     },
@@ -1537,6 +1537,25 @@
   },
   "19": {
    "EI": [
+    {
+     "arr": "09:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "08:35",
+     "fn": [
+      "EI3221"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 11
+     },
+     "via": []
+    },
     {
      "arr": "14:35",
      "avios": {
@@ -1891,7 +1910,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 16
      },
      "via": []
     },
@@ -2051,7 +2070,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 8
      },
      "via": []
     },
@@ -2498,6 +2517,6 @@
  },
  "route": "GLA-DUB",
  "schema": 1,
- "t": 1785139950,
- "v": "8df3a943378ab229892ca3175098c8f0c5253576"
+ "t": 1785139981,
+ "v": "4e97b7d9a09ce30922772e54a9d50fa8de4220d4"
 }
