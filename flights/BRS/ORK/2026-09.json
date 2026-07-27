@@ -82,7 +82,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 12
      },
      "via": []
     }
@@ -360,6 +360,29 @@
     }
    ]
   },
+  "24": {
+   "EI": [
+    {
+     "arr": "18:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:30",
+     "fn": [
+      "EI3843"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  },
   "25": {
    "EI": [
     {
@@ -396,7 +419,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 10
      },
      "via": []
     }
@@ -484,7 +507,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     }
@@ -539,6 +562,6 @@
  },
  "route": "BRS-ORK",
  "schema": 1,
- "t": 1785128686,
- "v": "7c7ad97a78fef392dda01bf83eb442424a0a09cc"
+ "t": 1785128716,
+ "v": "197d5467a2fc2a60b0fa464cfba5beac02078d96"
 }

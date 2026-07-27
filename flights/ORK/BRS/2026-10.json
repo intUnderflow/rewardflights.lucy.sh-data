@@ -59,7 +59,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     }
@@ -128,7 +128,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 2
      },
      "via": []
     },
@@ -147,7 +147,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     }
@@ -239,7 +239,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 4
      },
      "via": []
     },
@@ -441,25 +441,6 @@
       "M": 1
      },
      "via": []
-    },
-    {
-     "arr": "19:50",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "18:30",
-     "fn": [
-      "EI3842"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
     }
    ]
   },
@@ -526,7 +507,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     },
@@ -545,7 +526,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     }
@@ -614,7 +595,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     }
@@ -679,7 +660,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 9
      },
      "via": []
     }
@@ -711,6 +692,6 @@
  },
  "route": "ORK-BRS",
  "schema": 1,
- "t": 1785128686,
- "v": "7c7ad97a78fef392dda01bf83eb442424a0a09cc"
+ "t": 1785128716,
+ "v": "197d5467a2fc2a60b0fa464cfba5beac02078d96"
 }
