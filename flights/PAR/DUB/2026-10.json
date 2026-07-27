@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 46
+      "M": 47
      },
      "via": []
     },
@@ -173,7 +173,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 30
      },
      "via": []
     },
@@ -474,7 +474,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 46
+      "M": 45
      },
      "via": []
     },
@@ -611,7 +611,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 31
      },
      "via": []
     },
@@ -672,7 +672,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 49
+      "M": 47
      },
      "via": []
     },
@@ -809,7 +809,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     },
@@ -969,7 +969,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 19
      },
      "via": []
     },
@@ -1049,7 +1049,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 36
      },
      "via": []
     },
@@ -1148,7 +1148,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 54
+      "M": 51
      },
      "via": []
     },
@@ -1407,7 +1407,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 30
      },
      "via": []
     },
@@ -1445,7 +1445,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 25
      },
      "via": []
     },
@@ -1784,7 +1784,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 31
      },
      "via": []
     },
@@ -1803,7 +1803,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 35
      },
      "via": []
     },
@@ -2062,7 +2062,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 3
      },
      "via": []
     },
@@ -2650,6 +2650,6 @@
  },
  "route": "PAR-DUB",
  "schema": 1,
- "t": 1785167070,
- "v": "a9d987fb8f54dd7539156368b75978b672253030"
+ "t": 1785167102,
+ "v": "d821de74b4ee428471279ee277f446ac07cdbabd"
 }
