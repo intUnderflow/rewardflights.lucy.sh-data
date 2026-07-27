@@ -164,7 +164,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 5,
+      "C": 1,
       "M": 13
      },
      "via": []
@@ -473,7 +473,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 3,
+      "C": 1,
       "M": 14
      },
      "via": []
@@ -483,6 +483,6 @@
  },
  "route": "PHL-DUB",
  "schema": 1,
- "t": 1785176626,
- "v": "c478d90628bf5fb30d905392d35fdda146380cc6"
+ "t": 1785176698,
+ "v": "3552582cd8be282cf0121f39ad6ceb164edb72e5"
 }
