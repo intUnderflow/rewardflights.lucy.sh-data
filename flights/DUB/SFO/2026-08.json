@@ -86,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 23
      },
      "via": []
     }
@@ -132,7 +132,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 20
      },
      "via": []
     }
@@ -155,7 +155,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 27
      },
      "via": []
     }
@@ -178,7 +178,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 28
      },
      "via": []
     }
@@ -325,6 +325,6 @@
  },
  "route": "DUB-SFO",
  "schema": 1,
- "t": 1785113833,
- "v": "9667f417dde2e5c1e602e409e093410dd3448370"
+ "t": 1785113868,
+ "v": "2224109a9dfb91ebb641057313942db353569fde"
 }
