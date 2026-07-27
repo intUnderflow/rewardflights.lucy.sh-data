@@ -1640,7 +1640,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 20
      },
      "via": []
     },
@@ -1720,7 +1720,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 9
      },
      "via": []
     },
@@ -2200,7 +2200,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 18
      },
      "via": []
     },
@@ -2327,6 +2327,6 @@
  },
  "route": "AMS-DUB",
  "schema": 1,
- "t": 1785135355,
- "v": "6f39c310af3fed766373e87d4cb635fa2e902c6b"
+ "t": 1785135440,
+ "v": "cb68b318efabd14df80111f9582c75eafdf12f76"
 }
