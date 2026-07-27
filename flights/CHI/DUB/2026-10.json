@@ -120,7 +120,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 32
      },
      "via": []
     }
@@ -353,7 +353,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 31
      },
      "via": []
     },
@@ -456,7 +456,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 30
      },
      "via": []
     }
@@ -540,7 +540,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 34
      },
      "via": []
     }
@@ -624,7 +624,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 33
      },
      "via": []
     }
@@ -815,7 +815,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 33
      },
      "via": []
     },
@@ -960,7 +960,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 31
      },
      "via": []
     }
@@ -1128,7 +1128,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 30
      },
      "via": []
     }
@@ -1221,6 +1221,6 @@
  },
  "route": "CHI-DUB",
  "schema": 1,
- "t": 1785127317,
- "v": "9b3e931499b5403bc5130da130ab4d5c4915fb3a"
+ "t": 1785127347,
+ "v": "433742bcc02e334d820ec5af9174360c3794d191"
 }

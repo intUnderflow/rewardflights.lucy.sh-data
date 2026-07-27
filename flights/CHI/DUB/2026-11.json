@@ -1,53 +1,49 @@
 {
  "days": {
-  "04": {
+  "01": {
    "EI": [
     {
-     "arr": "19:10",
+     "arr": "05:15",
      "avios": {
       "M": 13000
      },
      "car": [
       "EI"
      ],
-     "dep": "16:10",
+     "dep": "15:55",
      "fn": [
-      "EI087"
+      "EI122"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 5
      },
      "via": []
-    }
-   ]
-  },
-  "26": {
-   "EI": [
+    },
     {
-     "arr": "18:40",
+     "arr": "09:30",
      "avios": {
       "M": 13000
      },
      "car": [
       "EI"
      ],
-     "dep": "15:40",
+     "dep": "20:10",
      "fn": [
-      "EI087"
+      "EI124"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 2
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-CLE",
+ "route": "CHI-DUB",
  "schema": 1,
  "t": 1785127347,
  "v": "433742bcc02e334d820ec5af9174360c3794d191"
