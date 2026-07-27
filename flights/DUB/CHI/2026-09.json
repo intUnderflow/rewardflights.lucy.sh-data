@@ -78,7 +78,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     }
@@ -252,6 +252,29 @@
     }
    ]
   },
+  "07": {
+   "EI": [
+    {
+     "arr": "14:00",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "11:35",
+     "fn": [
+      "EI123"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 26
+     },
+     "via": []
+    }
+   ]
+  },
   "08": {
    "EI": [
     {
@@ -269,7 +292,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     },
@@ -288,7 +311,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 22
      },
      "via": []
     }
@@ -353,7 +376,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 28
      },
      "via": []
     }
@@ -483,7 +506,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 28
      },
      "via": []
     }
@@ -491,25 +514,6 @@
   },
   "24": {
    "EI": [
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 13000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "11:35",
-     "fn": [
-      "EI123"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
     {
      "arr": "19:15",
      "avios": {
@@ -548,7 +552,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 26
      },
      "via": []
     },
@@ -568,29 +572,6 @@
      "rfs": false,
      "seats": {
       "M": 1
-     },
-     "via": []
-    }
-   ]
-  },
-  "26": {
-   "EI": [
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 13000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "11:35",
-     "fn": [
-      "EI123"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 24
      },
      "via": []
     }
@@ -636,7 +617,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     },
@@ -664,6 +645,6 @@
  },
  "route": "DUB-CHI",
  "schema": 1,
- "t": 1785127232,
- "v": "35b9bbe79978f9ab2b40a7dfd9b9a61abaeb71cf"
+ "t": 1785127317,
+ "v": "9b3e931499b5403bc5130da130ab4d5c4915fb3a"
 }
