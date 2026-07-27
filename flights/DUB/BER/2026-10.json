@@ -204,7 +204,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 48
+      "M": 47
      },
      "via": []
     }
@@ -227,7 +227,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 54
+      "M": 53
      },
      "via": []
     },
@@ -479,7 +479,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 46
+      "M": 45
      },
      "via": []
     }
@@ -544,7 +544,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 48
+      "M": 47
      },
      "via": []
     },
@@ -563,7 +563,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 43
+      "M": 40
      },
      "via": []
     }
@@ -670,7 +670,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 13
      },
      "via": []
     },
@@ -754,7 +754,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 57
+      "M": 56
      },
      "via": []
     },
@@ -880,7 +880,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 41
+      "M": 40
      },
      "via": []
     },
@@ -899,7 +899,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 14
      },
      "via": []
     }
@@ -1030,10 +1030,52 @@
      "via": []
     }
    ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "09:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:20",
+     "fn": [
+      "EI332"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "18:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:35",
+     "fn": [
+      "EI336"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-BER",
  "schema": 1,
- "t": 1785195874,
- "v": "96a74d0d9ce93e4db44d3ba8c568f6b074b63200"
+ "t": 1785195929,
+ "v": "11e2b8637f75aa80793b81aafd608f3e65e446a1"
 }
