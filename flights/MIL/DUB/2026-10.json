@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 42
+      "M": 3
      },
      "via": []
     }
@@ -224,7 +224,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 41
+      "M": 39
      },
      "via": []
     }
@@ -716,6 +716,6 @@
  },
  "route": "MIL-DUB",
  "schema": 1,
- "t": 1785110362,
- "v": "16746f22c5efc41d8344ce0602f113fd21bd3ff4"
+ "t": 1785110390,
+ "v": "a0c8eda05921fd8207547cb14396a34a897c222b"
 }

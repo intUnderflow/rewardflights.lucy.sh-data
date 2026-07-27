@@ -3,28 +3,28 @@
   "01": {
    "EI": [
     {
-     "arr": "08:45",
+     "arr": "13:25",
      "avios": {
-      "M": 13000
+      "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "20:45",
+     "dep": "11:45",
      "fn": [
-      "EI086"
+      "EI433"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 3
      },
      "via": []
     }
    ]
   }
  },
- "route": "CLE-DUB",
+ "route": "MIL-DUB",
  "schema": 1,
  "t": 1785110390,
  "v": "a0c8eda05921fd8207547cb14396a34a897c222b"
