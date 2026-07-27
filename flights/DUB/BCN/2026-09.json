@@ -36,7 +36,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 11
      },
      "via": []
     }
@@ -422,7 +422,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 9
      },
      "via": []
     }
@@ -464,7 +464,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 33
      },
      "via": []
     }
@@ -1103,6 +1103,6 @@
  },
  "route": "DUB-BCN",
  "schema": 1,
- "t": 1785120030,
- "v": "fc30c7d56c62e55ba7837bf63f49e51fd95e1e4c"
+ "t": 1785120195,
+ "v": "a07b2f9128bfbbb654673aaef395ea6aa5eb954f"
 }

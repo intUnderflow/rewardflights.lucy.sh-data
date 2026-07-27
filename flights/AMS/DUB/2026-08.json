@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 16
      },
      "via": []
     }
@@ -63,7 +63,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 23
      },
      "via": []
     }
@@ -109,7 +109,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 23
      },
      "via": []
     }
@@ -132,7 +132,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 14
      },
      "via": []
     }
@@ -179,44 +179,6 @@
      "rfs": false,
      "seats": {
       "M": 5
-     },
-     "via": []
-    },
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI605"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    },
-    {
-     "arr": "17:40",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "17:00",
-     "fn": [
-      "EI609"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
      },
      "via": []
     },
@@ -315,7 +277,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 25
      },
      "via": []
     }
@@ -395,7 +357,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     }
@@ -475,7 +437,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 33
      },
      "via": []
     }
@@ -498,7 +460,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 21
      },
      "via": []
     },
@@ -597,7 +559,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 4
      },
      "via": []
     },
@@ -639,7 +601,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 21
      },
      "via": []
     },
@@ -705,6 +667,6 @@
  },
  "route": "AMS-DUB",
  "schema": 1,
- "t": 1785120030,
- "v": "fc30c7d56c62e55ba7837bf63f49e51fd95e1e4c"
+ "t": 1785120195,
+ "v": "a07b2f9128bfbbb654673aaef395ea6aa5eb954f"
 }
