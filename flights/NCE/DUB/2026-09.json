@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 4
      },
      "via": []
     },
@@ -319,7 +319,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 4
      },
      "via": []
     }
@@ -439,6 +439,6 @@
  },
  "route": "NCE-DUB",
  "schema": 1,
- "t": 1785124653,
- "v": "068df53141b5248be9b5cf8e88c003606410cd68"
+ "t": 1785124762,
+ "v": "5a18324fb99d36ebe6912865f7bce343227839a7"
 }
