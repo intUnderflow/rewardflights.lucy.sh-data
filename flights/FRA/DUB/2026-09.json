@@ -598,7 +598,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 8
      },
      "via": []
     }
@@ -663,7 +663,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     }
@@ -728,7 +728,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 45
+      "M": 46
      },
      "via": []
     }
@@ -988,7 +988,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 24
      },
      "via": []
     },
@@ -1016,6 +1016,6 @@
  },
  "route": "FRA-DUB",
  "schema": 1,
- "t": 1785138406,
- "v": "e0502742ab429106bc794a7a2810632e75b8302a"
+ "t": 1785138572,
+ "v": "20956631caaafb43562240bac5bb090466eb07bb"
 }
