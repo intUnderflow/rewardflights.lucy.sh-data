@@ -1,0 +1,31 @@
+{
+ "days": {
+  "31": {
+   "EI": [
+    {
+     "arr": "10:00",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "08:35",
+     "fn": [
+      "EI3841"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 26
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BRS-ORK",
+ "schema": 1,
+ "t": 1785115369,
+ "v": "5da0362debba1cf1b704a96bfbc668703b33f9dd"
+}
