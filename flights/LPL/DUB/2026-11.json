@@ -41,10 +41,52 @@
      "via": []
     }
    ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "14:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "13:10",
+     "fn": [
+      "EI3193"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "22:10",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "21:05",
+     "fn": [
+      "EI3197"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "LPL-DUB",
  "schema": 1,
- "t": 1785205363,
- "v": "a3f1dde744fb221a5db007ce3319f1cf4e328186"
+ "t": 1785205389,
+ "v": "d2b0bc841a51db53b9581fe65be19d870b51f8f8"
 }

@@ -105,7 +105,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 28
+      "M": 26
      },
      "via": []
     }
@@ -151,7 +151,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 14
      },
      "via": []
     }
@@ -304,7 +304,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 28
      },
      "via": []
     }
@@ -438,7 +438,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 1
      },
      "via": []
     },
@@ -457,7 +457,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 21
      },
      "via": []
     }
@@ -634,6 +634,6 @@
  },
  "route": "LPL-DUB",
  "schema": 1,
- "t": 1785205363,
- "v": "a3f1dde744fb221a5db007ce3319f1cf4e328186"
+ "t": 1785205389,
+ "v": "d2b0bc841a51db53b9581fe65be19d870b51f8f8"
 }
