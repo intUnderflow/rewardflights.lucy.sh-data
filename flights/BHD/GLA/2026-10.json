@@ -785,7 +785,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 10
      },
      "via": []
     }
@@ -920,10 +920,33 @@
      "via": []
     }
    ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "10:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "09:50",
+     "fn": [
+      "EI3622"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "BHD-GLA",
  "schema": 1,
- "t": 1785278587,
- "v": "9fa1f0e67e518ecb8bd90b4d645fdcf3a54c41e8"
+ "t": 1785278643,
+ "v": "3cfe287bdf9334e078d3575ae42ef230983c7805"
 }
