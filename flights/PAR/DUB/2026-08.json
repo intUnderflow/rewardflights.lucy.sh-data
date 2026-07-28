@@ -1,104 +1,5 @@
 {
  "days": {
-  "26": {
-   "EI": [
-    {
-     "arr": "11:15",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "10:20",
-     "fn": [
-      "EI521"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "12:10",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "11:15",
-     "fn": [
-      "EI523"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "14:10",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:15",
-     "fn": [
-      "EI525"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "17:20",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:30",
-     "fn": [
-      "EI527"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
-     },
-     "via": []
-    },
-    {
-     "arr": "22:40",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "21:55",
-     "fn": [
-      "EI529"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
-     },
-     "via": []
-    }
-   ]
-  },
   "27": {
    "EI": [
     {
@@ -597,6 +498,6 @@
  },
  "route": "PAR-DUB",
  "schema": 1,
- "t": 1785223290,
- "v": "496ea77a5267e81083ea1b9ffe979245a21d2953"
+ "t": 1785223322,
+ "v": "d1af39edc7abf2723d32f922d2854dcc4ebbefd5"
 }
