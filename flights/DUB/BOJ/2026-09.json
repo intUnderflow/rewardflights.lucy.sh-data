@@ -69,29 +69,6 @@
     }
    ]
   },
-  "19": {
-   "EI": [
-    {
-     "arr": "22:30",
-     "avios": {
-      "M": 8500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:30",
-     "fn": [
-      "EI376"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
-    }
-   ]
-  },
   "22": {
    "EI": [
     {
@@ -187,6 +164,6 @@
  },
  "route": "DUB-BOJ",
  "schema": 1,
- "t": 1785254356,
- "v": "c7ccaba55cc2cd777f4e01b465bfcbc25fcbfc1d"
+ "t": 1785254385,
+ "v": "aa3a984f59d67e62b7e7eeb3df413f729e4edee7"
 }
