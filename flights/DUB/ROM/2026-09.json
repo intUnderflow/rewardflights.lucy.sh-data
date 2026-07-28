@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 19
      },
      "via": []
     },
@@ -42,29 +42,6 @@
     }
    ]
   },
-  "10": {
-   "EI": [
-    {
-     "arr": "19:55",
-     "avios": {
-      "M": 8500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "15:45",
-     "fn": [
-      "EI406"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 38
-     },
-     "via": []
-    }
-   ]
-  },
   "13": {
    "EI": [
     {
@@ -82,7 +59,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 12
      },
      "via": []
     }
@@ -128,7 +105,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     }
@@ -151,7 +128,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 16
      },
      "via": []
     }
@@ -174,7 +151,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 42
+      "M": 40
      },
      "via": []
     }
@@ -197,7 +174,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 35
      },
      "via": []
     }
@@ -220,30 +197,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
-     },
-     "via": []
-    }
-   ]
-  },
-  "25": {
-   "EI": [
-    {
-     "arr": "19:55",
-     "avios": {
-      "M": 8500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "15:45",
-     "fn": [
-      "EI406"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
+      "M": 13
      },
      "via": []
     }
@@ -285,7 +239,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 12
      },
      "via": []
     }
@@ -510,7 +464,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 43
+      "M": 42
      },
      "via": []
     }
@@ -519,6 +473,6 @@
  },
  "route": "DUB-ROM",
  "schema": 1,
- "t": 1785202735,
- "v": "3bbf4a04e6c8e00d79da346d5f4a067e55c01b95"
+ "t": 1785202798,
+ "v": "f23c732d90f4661ea1505df0675c830c6822c9f4"
 }
