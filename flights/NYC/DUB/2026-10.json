@@ -339,7 +339,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 4
      },
      "via": []
     }
@@ -592,7 +592,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 6
      },
      "via": []
     }
@@ -716,6 +716,6 @@
  },
  "route": "NYC-DUB",
  "schema": 1,
- "t": 1785240157,
- "v": "b4b793bcc35712ee2126774450bbfbf071bd70a8"
+ "t": 1785240187,
+ "v": "802c89be03e7d227cec8932d75bb652e097cb23a"
 }
