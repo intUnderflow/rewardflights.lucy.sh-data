@@ -40,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 41
+      "M": 40
      },
      "via": []
     }
@@ -86,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 8
      },
      "via": []
     },
@@ -128,7 +128,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 26
      },
      "via": []
     }
@@ -193,7 +193,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 25
      },
      "via": []
     }
@@ -239,7 +239,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 3
      },
      "via": []
     }
@@ -304,7 +304,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 20
      },
      "via": []
     },
@@ -453,7 +453,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 25
      },
      "via": []
     }
@@ -541,7 +541,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 34
      },
      "via": []
     },
@@ -611,6 +611,25 @@
   "27": {
    "EI": [
     {
+     "arr": "12:40",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "11:30",
+     "fn": [
+      "EI3192"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 17
+     },
+     "via": []
+    },
+    {
      "arr": "20:35",
      "avios": {
       "M": 4500
@@ -625,7 +644,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 21
      },
      "via": []
     }
@@ -634,6 +653,6 @@
  },
  "route": "DUB-LPL",
  "schema": 1,
- "t": 1785227428,
- "v": "7cdceaf71dde0e92d558c522b4b62e8e7431a525"
+ "t": 1785227460,
+ "v": "25d7764fdf43b236dc5f39305960fb8a0524a43d"
 }
