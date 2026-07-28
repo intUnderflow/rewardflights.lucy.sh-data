@@ -1,0 +1,54 @@
+{
+ "days": {
+  "18": {
+   "EI": [
+    {
+     "arr": "05:25",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:30",
+     "fn": [
+      "EI134"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 3
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "05:25",
+     "avios": {
+      "C": 60000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:30",
+     "fn": [
+      "EI134"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "C": 3
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BOS-SNN",
+ "schema": 1,
+ "t": 1785270980,
+ "v": "f61cac4557cc1df8d8c2e8bde965ed84e22476e8"
+}

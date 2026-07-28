@@ -1,0 +1,56 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "06:20",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "19:25",
+     "fn": [
+      "EI134"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 12
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "06:20",
+     "avios": {
+      "C": 50000,
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "19:25",
+     "fn": [
+      "EI134"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "C": 5,
+      "M": 16
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BOS-SNN",
+ "schema": 1,
+ "t": 1785270980,
+ "v": "f61cac4557cc1df8d8c2e8bde965ed84e22476e8"
+}
