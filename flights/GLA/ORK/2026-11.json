@@ -1,0 +1,54 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "18:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:20",
+     "fn": [
+      "EI3833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "18:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:20",
+     "fn": [
+      "EI3833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "GLA-ORK",
+ "schema": 1,
+ "t": 1785269782,
+ "v": "e0510e6a07e0a5c3536c282d07e2f5abbd9272ab"
+}
