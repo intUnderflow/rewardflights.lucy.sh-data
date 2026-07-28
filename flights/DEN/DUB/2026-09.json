@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 2
      },
      "via": []
     }
@@ -132,7 +132,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 7
      },
      "via": []
     }
@@ -201,7 +201,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 8
      },
      "via": []
     }
@@ -440,6 +440,6 @@
  },
  "route": "DEN-DUB",
  "schema": 1,
- "t": 1785200760,
- "v": "d0da0c161d4eade8c0cd3d8268f4e4b54e03268a"
+ "t": 1785200796,
+ "v": "d9150ed845038f223679dec9038bc693a49e20d6"
 }
