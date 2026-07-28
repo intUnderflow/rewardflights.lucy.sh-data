@@ -63,7 +63,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 7
      },
      "via": []
     }
@@ -86,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -132,7 +132,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -224,7 +224,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 15
      },
      "via": []
     }
@@ -247,7 +247,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 3
      },
      "via": []
     }
@@ -325,6 +325,6 @@
  },
  "route": "BHD-EMA",
  "schema": 1,
- "t": 1785278083,
- "v": "e15674659899174e8558c8e1c2795f0e1cee4132"
+ "t": 1785278140,
+ "v": "ae1cecf941c16202faa0fe6f6fd772de01f95375"
 }
