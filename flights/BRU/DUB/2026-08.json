@@ -3,25 +3,6 @@
   "26": {
    "EI": [
     {
-     "arr": "11:05",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "10:20",
-     "fn": [
-      "EI631"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
-     },
-     "via": []
-    },
-    {
      "arr": "22:05",
      "avios": {
       "M": 4500
@@ -36,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 37
+      "M": 36
      },
      "via": []
     }
@@ -120,7 +101,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 10
      },
      "via": []
     }
@@ -227,7 +208,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 26
      },
      "via": []
     }
@@ -236,6 +217,6 @@
  },
  "route": "BRU-DUB",
  "schema": 1,
- "t": 1785198453,
- "v": "ff4bb0312d7b79c137c9cb781a0109e429995f4c"
+ "t": 1785198490,
+ "v": "b9ada8a5c190da7a3462cd2d8175e7d9e6073562"
 }

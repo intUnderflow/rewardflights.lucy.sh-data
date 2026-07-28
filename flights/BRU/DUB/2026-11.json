@@ -60,10 +60,52 @@
      "via": []
     }
    ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "11:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:15",
+     "fn": [
+      "EI631"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "19:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:55",
+     "fn": [
+      "EI637"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "BRU-DUB",
  "schema": 1,
- "t": 1785198453,
- "v": "ff4bb0312d7b79c137c9cb781a0109e429995f4c"
+ "t": 1785198490,
+ "v": "b9ada8a5c190da7a3462cd2d8175e7d9e6073562"
 }

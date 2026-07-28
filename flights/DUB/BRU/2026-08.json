@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 16
      },
      "via": []
     }
@@ -41,25 +41,6 @@
      "rfs": false,
      "seats": {
       "M": 44
-     },
-     "via": []
-    },
-    {
-     "arr": "20:45",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:00",
-     "fn": [
-      "EI638"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
      },
      "via": []
     }
@@ -259,6 +240,6 @@
  },
  "route": "DUB-BRU",
  "schema": 1,
- "t": 1785198453,
- "v": "ff4bb0312d7b79c137c9cb781a0109e429995f4c"
+ "t": 1785198490,
+ "v": "b9ada8a5c190da7a3462cd2d8175e7d9e6073562"
 }
