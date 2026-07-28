@@ -1,18 +1,18 @@
 {
  "days": {
-  "01": {
+  "02": {
    "EI": [
     {
-     "arr": "19:50",
+     "arr": "16:20",
      "avios": {
-      "M": 6500
+      "M": 4000
      },
      "car": [
       "EI"
      ],
-     "dep": "18:00",
+     "dep": "15:20",
      "fn": [
-      "EI833"
+      "EI507"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -24,7 +24,7 @@
    ]
   }
  },
- "route": "PRG-ORK",
+ "route": "BOD-DUB",
  "schema": 1,
  "t": 1785197154,
  "v": "ff5dc99763799d79d025df0b8171e1d409f0a4b7"
