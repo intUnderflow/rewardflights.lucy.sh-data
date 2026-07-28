@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 23
      },
      "via": []
     }
@@ -109,7 +109,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 28
      },
      "via": []
     }
@@ -201,7 +201,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 33
      },
      "via": []
     }
@@ -247,7 +247,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 26
      },
      "via": []
     }
@@ -408,7 +408,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 29
      },
      "via": []
     }
@@ -555,6 +555,6 @@
  },
  "route": "LAX-DUB",
  "schema": 1,
- "t": 1785203802,
- "v": "0feaa3be680ebff3a57b1419b706131f8a04b81b"
+ "t": 1785203835,
+ "v": "98aefb20ddad4c42ab00b409537d26cb24c1764b"
 }

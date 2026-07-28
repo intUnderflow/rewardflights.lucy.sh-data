@@ -1,30 +1,5 @@
 {
  "days": {
-  "04": {
-   "EI": [
-    {
-     "arr": "14:30",
-     "avios": {
-      "C": 75000,
-      "M": 25000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:10",
-     "fn": [
-      "EI068"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "C": 1,
-      "M": 25
-     },
-     "via": []
-    }
-   ]
-  },
   "05": {
    "EI": [
     {
@@ -44,7 +19,7 @@
      "rfs": false,
      "seats": {
       "C": 1,
-      "M": 24
+      "M": 22
      },
      "via": []
     }
@@ -67,7 +42,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -90,7 +65,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 22
      },
      "via": []
     }
@@ -251,7 +226,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 18
      },
      "via": []
     }
@@ -274,7 +249,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 27
+      "M": 26
      },
      "via": []
     }
@@ -297,7 +272,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 23
      },
      "via": []
     }
@@ -352,6 +327,6 @@
  },
  "route": "LAX-DUB",
  "schema": 1,
- "t": 1785203802,
- "v": "0feaa3be680ebff3a57b1419b706131f8a04b81b"
+ "t": 1785203835,
+ "v": "98aefb20ddad4c42ab00b409537d26cb24c1764b"
 }

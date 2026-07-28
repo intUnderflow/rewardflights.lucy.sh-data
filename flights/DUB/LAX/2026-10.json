@@ -63,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     }
@@ -247,7 +247,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     }
@@ -413,10 +413,33 @@
      "via": []
     }
    ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "19:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:20",
+     "fn": [
+      "EI069"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 32
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-LAX",
  "schema": 1,
- "t": 1785203802,
- "v": "0feaa3be680ebff3a57b1419b706131f8a04b81b"
+ "t": 1785203835,
+ "v": "98aefb20ddad4c42ab00b409537d26cb24c1764b"
 }
