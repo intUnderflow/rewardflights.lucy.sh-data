@@ -1,0 +1,77 @@
+{
+ "days": {
+  "26": {
+   "EI": [
+    {
+     "arr": "16:05",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:15",
+     "fn": [
+      "EI101"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "16:05",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI101"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "16:05",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:15",
+     "fn": [
+      "EI101"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 5
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-NYC",
+ "schema": 1,
+ "t": 1785224434,
+ "v": "4f8eb3a85c6d6ab4f5456d38c83c8cd1a27f62d1"
+}
