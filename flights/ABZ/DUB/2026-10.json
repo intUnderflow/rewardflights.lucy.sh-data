@@ -247,7 +247,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     }
@@ -647,6 +647,6 @@
  },
  "route": "ABZ-DUB",
  "schema": 1,
- "t": 1785279808,
- "v": "0fa4a7a8c1669c1de33e9c39979d526a9c009ad8"
+ "t": 1785279865,
+ "v": "7646cb67345c38955e90d1f4128a6a822a68ad6e"
 }
