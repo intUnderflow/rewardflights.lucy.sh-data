@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 5
      },
      "via": []
     }
@@ -147,7 +147,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 5
      },
      "via": []
     },
@@ -313,6 +313,29 @@
     }
    ]
   },
+  "14": {
+   "EI": [
+    {
+     "arr": "20:50",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "19:55",
+     "fn": [
+      "EI3659"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
   "15": {
    "EI": [
     {
@@ -456,7 +479,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 12
      },
      "via": []
     }
@@ -563,7 +586,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 17
      },
      "via": []
     }
@@ -797,6 +820,6 @@
  },
  "route": "EDI-BHD",
  "schema": 1,
- "t": 1785234246,
- "v": "33835ef7f74a0b99d8bddee49550b4a7704d9a9b"
+ "t": 1785234360,
+ "v": "62c86af45e171ee70f7315317f192121aeb349cb"
 }
