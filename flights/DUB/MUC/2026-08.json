@@ -1,47 +1,5 @@
 {
  "days": {
-  "26": {
-   "EI": [
-    {
-     "arr": "10:45",
-     "avios": {
-      "M": 7500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "07:15",
-     "fn": [
-      "EI352"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
-     },
-     "via": []
-    },
-    {
-     "arr": "19:50",
-     "avios": {
-      "M": 7500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:25",
-     "fn": [
-      "EI356"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
-     },
-     "via": []
-    }
-   ]
-  },
   "27": {
    "EI": [
     {
@@ -198,6 +156,6 @@
  },
  "route": "DUB-MUC",
  "schema": 1,
- "t": 1785210477,
- "v": "8415e17da9f8eb92001eec5220bfc18abd4d89a1"
+ "t": 1785210558,
+ "v": "e026ada0afba16e95c2c7a854c0d54b1afb797f6"
 }
