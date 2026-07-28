@@ -1,0 +1,73 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "09:55",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "08:45",
+     "fn": [
+      "EI3351"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "20:55",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:40",
+     "fn": [
+      "EI3353"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "09:55",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "08:45",
+     "fn": [
+      "EI3351"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "NCL-DUB",
+ "schema": 1,
+ "t": 1785229234,
+ "v": "02b04563f670afadce9dbc57cc13da3778391996"
+}
