@@ -295,7 +295,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "C": 5
+      "C": 3
      },
      "via": []
     }
@@ -342,29 +342,6 @@
      "rfs": false,
      "seats": {
       "C": 1
-     },
-     "via": []
-    }
-   ]
-  },
-  "21": {
-   "EI": [
-    {
-     "arr": "16:30",
-     "avios": {
-      "C": 50000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "14:10",
-     "fn": [
-      "EI131"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "C": 2
      },
      "via": []
     }
@@ -540,6 +517,6 @@
  },
  "route": "DUB-BDL",
  "schema": 1,
- "t": 1785281405,
- "v": "0ca48d7c8e72865f610a0ae954ae7fe84eb81d83"
+ "t": 1785281462,
+ "v": "a8d2915c7520cf9f79eef4965d4662aa963846aa"
 }
