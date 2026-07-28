@@ -40,7 +40,30 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  },
+  "24": {
+   "EI": [
+    {
+     "arr": "10:45",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "09:20",
+     "fn": [
+      "EI3243"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 9
      },
      "via": []
     }
@@ -86,7 +109,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 6
      },
      "via": []
     }
@@ -118,6 +141,6 @@
  },
  "route": "ABZ-DUB",
  "schema": 1,
- "t": 1785236323,
- "v": "febc628e7f39b509cd32ea7e10ea0c898b75db41"
+ "t": 1785236375,
+ "v": "78a3d16a7b8974211d7e6e77d32cec7e55881b71"
 }
