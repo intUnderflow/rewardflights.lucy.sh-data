@@ -972,7 +972,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     }
@@ -1172,6 +1172,6 @@
  },
  "route": "IOM-DUB",
  "schema": 1,
- "t": 1785226064,
- "v": "5d7d8ce8330009299165dd467832022dc92e69ce"
+ "t": 1785226094,
+ "v": "4c6f43a9abb1cd04ebafc231e8046dc3e2b912c7"
 }

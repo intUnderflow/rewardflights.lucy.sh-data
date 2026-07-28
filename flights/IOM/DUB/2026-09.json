@@ -87,25 +87,6 @@
   "03": {
    "EI": [
     {
-     "arr": "13:05",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "12:15",
-     "fn": [
-      "EI3213"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 9
-     },
-     "via": []
-    },
-    {
      "arr": "18:10",
      "avios": {
       "M": 4000
@@ -609,7 +590,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 23
      },
      "via": []
     },
@@ -1010,7 +991,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 27
      },
      "via": []
     }
@@ -1052,7 +1033,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     }
@@ -1168,6 +1149,6 @@
  },
  "route": "IOM-DUB",
  "schema": 1,
- "t": 1785226064,
- "v": "5d7d8ce8330009299165dd467832022dc92e69ce"
+ "t": 1785226094,
+ "v": "4c6f43a9abb1cd04ebafc231e8046dc3e2b912c7"
 }
