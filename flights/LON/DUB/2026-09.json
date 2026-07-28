@@ -756,6 +756,25 @@
      "via": []
     },
     {
+     "arr": "11:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "09:50",
+     "fn": [
+      "EI155"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
      "arr": "13:30",
      "avios": {
       "M": 4000
@@ -2953,7 +2972,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     },
@@ -5699,7 +5718,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 5
      },
      "via": []
     },
@@ -7020,6 +7039,6 @@
  },
  "route": "LON-DUB",
  "schema": 1,
- "t": 1785204305,
- "v": "ce0058388c65d2631ba86cfadd1e11382c15ab81"
+ "t": 1785204367,
+ "v": "2333cebc6e7e4ed280fdaed4aeac24c22c4361fd"
 }
