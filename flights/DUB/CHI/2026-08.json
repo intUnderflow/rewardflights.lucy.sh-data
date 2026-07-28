@@ -110,25 +110,6 @@
   "06": {
    "EI": [
     {
-     "arr": "14:00",
-     "avios": {
-      "C": 60000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "11:35",
-     "fn": [
-      "EI123"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "C": 1
-     },
-     "via": []
-    },
-    {
      "arr": "19:15",
      "avios": {
       "C": 60000
@@ -166,7 +147,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 1
+      "C": 2
      },
      "via": []
     },
@@ -185,7 +166,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 2
+      "C": 4
      },
      "via": []
     }
@@ -231,7 +212,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     }
@@ -300,7 +281,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 30
      },
      "via": []
     },
@@ -621,7 +602,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 30
      },
      "via": []
     },
@@ -672,6 +653,6 @@
  },
  "route": "DUB-CHI",
  "schema": 1,
- "t": 1785212170,
- "v": "4d2911b8d2dfd403c4f7ef18290ec13075d7b6b9"
+ "t": 1785212200,
+ "v": "2440e7eea62bfbd70021eed545f926d48df4a088"
 }
