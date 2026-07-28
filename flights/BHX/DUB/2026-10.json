@@ -215,7 +215,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 1
      },
      "via": []
     },
@@ -394,7 +394,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 15
      },
      "via": []
     }
@@ -417,7 +417,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 49
+      "M": 48
      },
      "via": []
     },
@@ -756,7 +756,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 49
+      "M": 10
      },
      "via": []
     },
@@ -855,7 +855,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 47
+      "M": 48
      },
      "via": []
     },
@@ -2353,25 +2353,6 @@
      "via": []
     },
     {
-     "arr": "14:35",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI3267"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
      "arr": "14:25",
      "avios": {
       "M": 4000
@@ -2387,6 +2368,25 @@
      "rfs": false,
      "seats": {
       "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "14:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI3267"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
      },
      "via": []
     },
@@ -2768,6 +2768,6 @@
  },
  "route": "BHX-DUB",
  "schema": 1,
- "t": 1785281946,
- "v": "757f178a7e79a67beed6b12166ccea9cff69810c"
+ "t": 1785281976,
+ "v": "b379d2174e19d3274c0f65d04e2c4945411a92b3"
 }

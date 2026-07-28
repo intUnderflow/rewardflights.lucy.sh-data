@@ -17,49 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 33
-     },
-     "via": []
-    },
-    {
-     "arr": "19:55",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:50",
-     "fn": [
-      "EI276"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
-    }
-   ]
-  },
-  "04": {
-   "EI": [
-    {
-     "arr": "07:40",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "06:30",
-     "fn": [
-      "EI262"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 25
+      "M": 27
      },
      "via": []
     }
@@ -82,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 17
      },
      "via": []
     }
@@ -105,7 +63,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 15
      },
      "via": []
     }
@@ -128,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 38
+      "M": 35
      },
      "via": []
     }
@@ -151,30 +109,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 46
-     },
-     "via": []
-    }
-   ]
-  },
-  "10": {
-   "EI": [
-    {
-     "arr": "19:55",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:50",
-     "fn": [
-      "EI276"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 9
+      "M": 38
      },
      "via": []
     }
@@ -285,26 +220,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 34
-     },
-     "via": []
-    },
-    {
-     "arr": "16:05",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "14:45",
-     "fn": [
-      "EI3272"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
+      "M": 35
      },
      "via": []
     }
@@ -327,7 +243,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 30
      },
      "via": []
     }
@@ -350,7 +266,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 32
+      "M": 33
      },
      "via": []
     },
@@ -369,7 +285,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     },
@@ -388,7 +304,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 7
      },
      "via": []
     },
@@ -430,7 +346,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 27
      },
      "via": []
     },
@@ -468,7 +384,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 8
      },
      "via": []
     },
@@ -510,7 +426,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 37
      },
      "via": []
     },
@@ -548,7 +464,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 4
      },
      "via": []
     }
@@ -594,7 +510,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 38
      },
      "via": []
     },
@@ -674,26 +590,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 35
-     },
-     "via": []
-    },
-    {
-     "arr": "16:05",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "14:45",
-     "fn": [
-      "EI3272"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 18
+      "M": 34
      },
      "via": []
     }
@@ -716,7 +613,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 34
      },
      "via": []
     },
@@ -758,7 +655,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 28
      },
      "via": []
     },
@@ -935,6 +832,6 @@
  },
  "route": "DUB-BHX",
  "schema": 1,
- "t": 1785281946,
- "v": "757f178a7e79a67beed6b12166ccea9cff69810c"
+ "t": 1785281976,
+ "v": "b379d2174e19d3274c0f65d04e2c4945411a92b3"
 }
