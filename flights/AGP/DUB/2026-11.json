@@ -1,53 +1,49 @@
 {
  "days": {
-  "01": {
+  "03": {
    "EI": [
     {
-     "arr": "15:20",
+     "arr": "14:15",
      "avios": {
-      "M": 6500
+      "M": 8500
      },
      "car": [
       "EI"
      ],
-     "dep": "14:00",
+     "dep": "12:00",
      "fn": [
-      "EI685"
+      "EI583"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 2
      },
      "via": []
-    }
-   ]
-  },
-  "02": {
-   "EI": [
+    },
     {
-     "arr": "12:10",
+     "arr": "22:05",
      "avios": {
-      "M": 6500
+      "M": 8500
      },
      "car": [
       "EI"
      ],
-     "dep": "10:50",
+     "dep": "19:55",
      "fn": [
-      "EI681"
+      "EI587"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 37
+      "M": 4
      },
      "via": []
     }
    ]
   }
  },
- "route": "GVA-DUB",
+ "route": "AGP-DUB",
  "schema": 1,
  "t": 1785280408,
  "v": "5315a32b7dfdc3aa33ab0fc0185865d5394dfb4d"
