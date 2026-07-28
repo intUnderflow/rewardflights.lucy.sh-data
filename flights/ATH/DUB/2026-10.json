@@ -1,0 +1,100 @@
+{
+ "days": {
+  "10": {
+   "EI": [
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI441"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "17": {
+   "EI": [
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI441"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "24": {
+   "EI": [
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI441"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "25": {
+   "EI": [
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI441"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "ATH-DUB",
+ "schema": 1,
+ "t": 1785280942,
+ "v": "fc78474ee3f1f28608f6ed4d2ff1808fe4036491"
+}
