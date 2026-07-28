@@ -159,10 +159,90 @@
      "via": []
     }
    ]
+  },
+  "03": {
+   "EI": [
+    {
+     "arr": "10:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "09:35",
+     "fn": [
+      "EI603"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 44
+     },
+     "via": []
+    },
+    {
+     "arr": "14:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI605"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 42
+     },
+     "via": []
+    },
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:40",
+     "fn": [
+      "EI609"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 44
+     },
+     "via": []
+    },
+    {
+     "arr": "21:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:35",
+     "fn": [
+      "EI611"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 42
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "AMS-DUB",
  "schema": 1,
- "t": 1785281002,
- "v": "0d063ecd9a19c038feef60a5fd2638fdabacec16"
+ "t": 1785281033,
+ "v": "4b1fb6711b9a1c3165350671216c79dd10b19f69"
 }
