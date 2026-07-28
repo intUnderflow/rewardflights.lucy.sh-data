@@ -63,7 +63,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 2
+      "C": 3
      },
      "via": []
     }
@@ -86,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     }
@@ -270,7 +270,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 21
      },
      "via": []
     }
@@ -279,6 +279,6 @@
  },
  "route": "CLE-DUB",
  "schema": 1,
- "t": 1785239036,
- "v": "4ffc5adee8cf9f0583436d1bc9a4fa3d81fa5bb8"
+ "t": 1785239063,
+ "v": "8314082341c9a4aca44d850545f5030d8c35c728"
 }
