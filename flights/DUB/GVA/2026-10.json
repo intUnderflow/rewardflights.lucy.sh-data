@@ -82,7 +82,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 47
+      "M": 46
      },
      "via": []
     }
@@ -128,7 +128,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 39
+      "M": 37
      },
      "via": []
     }
@@ -507,7 +507,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 50
+      "M": 47
      },
      "via": []
     }
@@ -623,10 +623,33 @@
      "via": []
     }
    ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "10:10",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:55",
+     "fn": [
+      "EI680"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-GVA",
  "schema": 1,
- "t": 1785201628,
- "v": "4132dedc478f2fe9d7b890e47cb1c998813b6f1c"
+ "t": 1785201664,
+ "v": "f44b2ee24fd9e2f207230b403e5574f3175693c2"
 }

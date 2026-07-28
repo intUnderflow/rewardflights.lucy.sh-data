@@ -254,7 +254,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 18
      },
      "via": []
     }
@@ -277,7 +277,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 21
      },
      "via": []
     }
@@ -342,7 +342,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 34
      },
      "via": []
     }
@@ -365,7 +365,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 44
+      "M": 43
      },
      "via": []
     },
@@ -384,7 +384,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 24
      },
      "via": []
     }
@@ -468,7 +468,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 18
      },
      "via": []
     }
@@ -537,7 +537,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 11
      },
      "via": []
     }
@@ -644,7 +644,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     },
@@ -705,7 +705,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 32
+      "M": 29
      },
      "via": []
     }
@@ -881,7 +881,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 38
+      "M": 36
      },
      "via": []
     },
@@ -923,7 +923,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 38
+      "M": 35
      },
      "via": []
     },
@@ -942,7 +942,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 28
+      "M": 26
      },
      "via": []
     }
@@ -965,7 +965,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 28
      },
      "via": []
     }
@@ -974,6 +974,6 @@
  },
  "route": "GVA-DUB",
  "schema": 1,
- "t": 1785201628,
- "v": "4132dedc478f2fe9d7b890e47cb1c998813b6f1c"
+ "t": 1785201664,
+ "v": "f44b2ee24fd9e2f207230b403e5574f3175693c2"
 }
