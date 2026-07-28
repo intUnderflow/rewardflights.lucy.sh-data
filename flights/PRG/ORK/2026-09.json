@@ -1,0 +1,192 @@
+{
+ "days": {
+  "03": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:55",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 34
+     },
+     "via": []
+    }
+   ]
+  },
+  "07": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:50",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 26
+     },
+     "via": []
+    }
+   ]
+  },
+  "10": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:55",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 32
+     },
+     "via": []
+    }
+   ]
+  },
+  "14": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:50",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "17": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:55",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 22
+     },
+     "via": []
+    }
+   ]
+  },
+  "21": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:50",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 33
+     },
+     "via": []
+    }
+   ]
+  },
+  "24": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:55",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "23:35",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:50",
+     "fn": [
+      "EI833"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "PRG-ORK",
+ "schema": 1,
+ "t": 1785270395,
+ "v": "aefd21a6af86d4b39d898b03a90933a14b8b6761"
+}
