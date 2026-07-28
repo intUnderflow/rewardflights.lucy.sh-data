@@ -40,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 5
      },
      "via": []
     },
@@ -59,7 +59,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 6
      },
      "via": []
     }
@@ -121,25 +121,6 @@
      "rfs": false,
      "seats": {
       "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "19:35",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:10",
-     "fn": [
-      "EI173"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
      },
      "via": []
     }
@@ -702,7 +683,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 8
      },
      "via": []
     },
@@ -740,7 +721,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     },
@@ -1232,6 +1213,6 @@
  },
  "route": "LON-DUB",
  "schema": 1,
- "t": 1785262901,
- "v": "c8593f79b6dad1ae6be716ad844d2aa42dbf042d"
+ "t": 1785262986,
+ "v": "f659550b5fa31ed465e762637bab279f61b71497"
 }
