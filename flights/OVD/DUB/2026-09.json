@@ -1,0 +1,192 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 16
+     },
+     "via": []
+    }
+   ]
+  },
+  "08": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
+     },
+     "via": []
+    }
+   ]
+  },
+  "12": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "15": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 16
+     },
+     "via": []
+    }
+   ]
+  },
+  "19": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "22": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "23:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "22:20",
+     "fn": [
+      "EI741"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 22
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "OVD-DUB",
+ "schema": 1,
+ "t": 1785247352,
+ "v": "5a26b85c90a2b1b545e8b234df2048b135dcded2"
+}
