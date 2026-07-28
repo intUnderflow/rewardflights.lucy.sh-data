@@ -101,7 +101,6 @@
     {
      "arr": "18:55",
      "avios": {
-      "C": 50000,
       "M": 13000
      },
      "car": [
@@ -114,8 +113,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "C": 2,
-      "M": 4
+      "M": 5
      },
      "via": []
     }
@@ -138,7 +136,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     }
@@ -375,7 +373,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "C": 3,
+      "C": 1,
       "M": 11
      },
      "via": []
@@ -433,6 +431,6 @@
  },
  "route": "DUB-PHL",
  "schema": 1,
- "t": 1785213451,
- "v": "d5103d7da60202fee6fa387b6b19b5e28e55d297"
+ "t": 1785213481,
+ "v": "9e6212c40b8027c0f0ae122ea81a58ab40352350"
 }
