@@ -1,0 +1,54 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:50",
+     "fn": [
+      "EI883"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:50",
+     "fn": [
+      "EI883"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "AGP-ORK",
+ "schema": 1,
+ "t": 1785268646,
+ "v": "9070f8041b7a0f23adbeb5b14658e1827fb0dfda"
+}
