@@ -17,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 12
      },
      "via": []
     }
@@ -174,7 +174,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 11
      },
      "via": []
     }
@@ -197,7 +197,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 10
      },
      "via": []
     }
@@ -258,7 +258,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 8
      },
      "via": []
     }
@@ -304,7 +304,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 27
      },
      "via": []
     }
@@ -327,7 +327,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 11
      },
      "via": []
     }
@@ -397,25 +397,6 @@
      "rfs": false,
      "seats": {
       "M": 24
-     },
-     "via": []
-    },
-    {
-     "arr": "16:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "14:40",
-     "fn": [
-      "EI3286"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 21
      },
      "via": []
     }
@@ -751,7 +732,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 38
      },
      "via": []
     }
@@ -774,7 +755,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 31
      },
      "via": []
     },
@@ -793,7 +774,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 28
+      "M": 38
      },
      "via": []
     },
@@ -812,7 +793,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 30
      },
      "via": []
     }
@@ -919,7 +900,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 23
      },
      "via": []
     },
@@ -993,6 +974,6 @@
  },
  "route": "DUB-BRS",
  "schema": 1,
- "t": 1785222812,
- "v": "1d9005f38ac88761cc13cf97e01f61696a21dc7f"
+ "t": 1785222841,
+ "v": "276d7f194172504fdcc81057e81b4a45a309180c"
 }
