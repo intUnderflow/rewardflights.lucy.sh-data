@@ -36,7 +36,49 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
+      "M": 24
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "04:55",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "17:05",
+     "fn": [
+      "EI116"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
       "M": 25
+     },
+     "via": []
+    },
+    {
+     "arr": "08:50",
+     "avios": {
+      "M": 13000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "21:00",
+     "fn": [
+      "EI118"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 28
      },
      "via": []
     }
@@ -45,6 +87,6 @@
  },
  "route": "WAS-DUB",
  "schema": 1,
- "t": 1785202175,
- "v": "aaf6985a72d5582ec011a394fdffdf86aeb487d2"
+ "t": 1785202209,
+ "v": "474d299f311073bc19c2f7ac1b0ac5360f940274"
 }
