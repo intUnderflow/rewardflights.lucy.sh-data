@@ -143,7 +143,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 41
+      "M": 36
      },
      "via": []
     }
@@ -315,7 +315,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 21
      },
      "via": []
     }
@@ -357,7 +357,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 52
+      "M": 8
      },
      "via": []
     }
@@ -571,7 +571,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 23
+      "M": 21
      },
      "via": []
     }
@@ -916,10 +916,33 @@
      "via": []
     }
    ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "10:50",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:05",
+     "fn": [
+      "EI562"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-BCN",
  "schema": 1,
- "t": 1785281551,
- "v": "39d69c41bb00e3866b58acd75dcbd399a684bc1d"
+ "t": 1785281608,
+ "v": "c3c8d1a849602408e5bd04bff5ef4aeebc26262e"
 }
