@@ -1,0 +1,31 @@
+{
+ "days": {
+  "30": {
+   "EI": [
+    {
+     "arr": "18:00",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:50",
+     "fn": [
+      "EI743"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "SCQ-DUB",
+ "schema": 1,
+ "t": 1785265328,
+ "v": "ca7c622ad5765dd3715e738ca09236d01d05dc35"
+}
