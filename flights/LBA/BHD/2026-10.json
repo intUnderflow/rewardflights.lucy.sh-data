@@ -1198,7 +1198,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     },
@@ -1880,7 +1880,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     },
@@ -1960,7 +1960,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     },
@@ -2312,6 +2312,6 @@
  },
  "route": "LBA-BHD",
  "schema": 1,
- "t": 1785235737,
- "v": "23e76b7b68e6f94bed1e864aa8ad8276c3956f03"
+ "t": 1785235766,
+ "v": "0da3428ae432e48d7988f17f98e7d4d0a9dfb621"
 }
