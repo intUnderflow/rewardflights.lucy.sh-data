@@ -63,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 12
      },
      "via": []
     }
@@ -345,29 +345,6 @@
     }
    ]
   },
-  "25": {
-   "EI": [
-    {
-     "arr": "11:30",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "10:15",
-     "fn": [
-      "EI3620"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    }
-   ]
-  },
   "26": {
    "EI": [
     {
@@ -385,7 +362,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 10
      },
      "via": []
     }
@@ -486,6 +463,6 @@
  },
  "route": "BHD-CWL",
  "schema": 1,
- "t": 1785248720,
- "v": "0aa0b2e00c52ae311c4120e68d8b0d2e135d361e"
+ "t": 1785248748,
+ "v": "8ef87e45b8fea93a8236e38d8bc364939a007ce2"
 }
