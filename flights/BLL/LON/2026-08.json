@@ -19,10 +19,30 @@
      "via": []
     }
    ]
+  },
+  "23": {
+   "BA": [
+    {
+     "arr": "21:55",
+     "car": [
+      "BA"
+     ],
+     "dep": "21:10",
+     "fn": [
+      "BA0809"
+     ],
+     "peak": null,
+     "rfs": true,
+     "seats": {
+      "C": 1
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "BLL-LON",
  "schema": 1,
- "t": 1785309597,
- "v": "b78ba4fbed244acaa375e7cdbcaf958bf7f34b8d"
+ "t": 1785309628,
+ "v": "34d4f281d41676bd8f83dccf14f4ae52b5b6ebaa"
 }
