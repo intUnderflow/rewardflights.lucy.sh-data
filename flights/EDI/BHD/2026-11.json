@@ -159,10 +159,90 @@
      "via": []
     }
    ]
+  },
+  "03": {
+   "EI": [
+    {
+     "arr": "09:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "08:25",
+     "fn": [
+      "EI3651"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    },
+    {
+     "arr": "15:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "14:05",
+     "fn": [
+      "EI3653"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "18:05",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "17:10",
+     "fn": [
+      "EI3657"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    },
+    {
+     "arr": "20:55",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "20:00",
+     "fn": [
+      "EI3659"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "EDI-BHD",
  "schema": 1,
- "t": 1785291866,
- "v": "49d0a63237ff1474aad1fac960d2a62eaa09e8b7"
+ "t": 1785291923,
+ "v": "da0ea1f8110af323e10b1bb07f5caa9feff90585"
 }
