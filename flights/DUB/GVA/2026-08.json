@@ -1,0 +1,176 @@
+{
+ "days": {
+  "28": {
+   "EI": [
+    {
+     "arr": "09:25",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:10",
+     "fn": [
+      "EI680"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "16:15",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI684"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "09:30",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:15",
+     "fn": [
+      "EI680"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    },
+    {
+     "arr": "16:15",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI684"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "09:30",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:15",
+     "fn": [
+      "EI680"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "16:15",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI684"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "31": {
+   "EI": [
+    {
+     "arr": "09:15",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:00",
+     "fn": [
+      "EI680"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "16:15",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI684"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-GVA",
+ "schema": 1,
+ "t": 1785347652,
+ "v": "e067c2b31fac07771243765588ef68b04c3fbcad"
+}
