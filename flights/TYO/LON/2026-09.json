@@ -1,0 +1,42 @@
+{
+ "days": {
+  "29": {
+   "BA": [
+    {
+     "arr": "15:45",
+     "car": [
+      "BA"
+     ],
+     "dep": "08:55",
+     "fn": [
+      "BA0008"
+     ],
+     "peak": "off-peak",
+     "rfs": true,
+     "seats": {},
+     "via": []
+    },
+    {
+     "arr": "19:50",
+     "car": [
+      "BA"
+     ],
+     "dep": "13:05",
+     "fn": [
+      "BA0006"
+     ],
+     "peak": "off-peak",
+     "rfs": true,
+     "seats": {
+      "W": 2
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "TYO-LON",
+ "schema": 1,
+ "t": 1785303382,
+ "v": "a24cd0c744c0cc809fb296cd42495e7682d97986"
+}
