@@ -1,36 +1,42 @@
 {
  "days": {
-  "29": {
+  "08": {
    "BA": [
     {
-     "arr": "15:45",
+     "arr": "19:20",
      "car": [
       "BA"
      ],
-     "dep": "08:55",
-     "fn": [
-      "BA0008"
-     ],
-     "peak": "off-peak",
-     "rfs": true,
-     "seats": {},
-     "via": []
-    },
-    {
-     "arr": "19:50",
-     "car": [
-      "BA"
-     ],
-     "dep": "13:05",
+     "dep": "13:15",
      "fn": [
       "BA0006"
      ],
      "peak": "off-peak",
      "rfs": true,
      "seats": {
-      "W": 2
+      "W": 3
      },
      "via": []
+    },
+    {
+     "arr": "06:15",
+     "car": [
+      "QR",
+      "BA"
+     ],
+     "dep": "16:55",
+     "fn": [
+      "QR0809",
+      "BA0126"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "W": 2
+     },
+     "via": [
+      "DOH"
+     ]
     }
    ]
   }
