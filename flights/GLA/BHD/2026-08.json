@@ -1,28 +1,5 @@
 {
  "days": {
-  "07": {
-   "EI": [
-    {
-     "arr": "14:40",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "13:45",
-     "fn": [
-      "EI3629"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
-     },
-     "via": []
-    }
-   ]
-  },
   "08": {
    "EI": [
     {
@@ -40,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 26
      },
      "via": []
     }
@@ -63,7 +40,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 32
      },
      "via": []
     }
@@ -86,7 +63,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     }
@@ -109,7 +86,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 20
      },
      "via": []
     }
@@ -201,7 +178,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 18
      },
      "via": []
     }
@@ -247,7 +224,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 23
      },
      "via": []
     },
@@ -271,33 +248,10 @@
      "via": []
     }
    ]
-  },
-  "31": {
-   "EI": [
-    {
-     "arr": "14:55",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:05",
-     "fn": [
-      "EI3629"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    }
-   ]
   }
  },
  "route": "GLA-BHD",
  "schema": 1,
- "t": 1785336236,
- "v": "cad263ed46267dcbb6c037287be8a4c6d3702b98"
+ "t": 1785336266,
+ "v": "9705ff06eb213625f2279edd0a8ea225adfe1f44"
 }
