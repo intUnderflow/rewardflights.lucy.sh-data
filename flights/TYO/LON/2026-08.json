@@ -1,6 +1,6 @@
 {
  "days": {
-  "29": {
+  "27": {
    "BA": [
     {
      "arr": "15:45",
@@ -11,9 +11,11 @@
      "fn": [
       "BA0008"
      ],
-     "peak": "off-peak",
+     "peak": null,
      "rfs": true,
-     "seats": {},
+     "seats": {
+      "W": 1
+     },
      "via": []
     },
     {
@@ -25,10 +27,10 @@
      "fn": [
       "BA0006"
      ],
-     "peak": "off-peak",
+     "peak": null,
      "rfs": true,
      "seats": {
-      "W": 2
+      "C": 2
      },
      "via": []
     }
