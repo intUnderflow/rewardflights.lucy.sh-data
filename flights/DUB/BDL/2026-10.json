@@ -287,7 +287,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "C": 2,
+      "C": 1,
       "M": 5
      },
      "via": []
@@ -593,6 +593,6 @@
  },
  "route": "DUB-BDL",
  "schema": 1,
- "t": 1785339388,
- "v": "8d165cb84605b1e96ecc3977ea0b4cb632cdbbf5"
+ "t": 1785339417,
+ "v": "a62f7f7f89f508413aea0e9c631d253b0b9f12c3"
 }
