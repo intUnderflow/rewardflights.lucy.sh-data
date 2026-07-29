@@ -63,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     }
@@ -132,7 +132,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     }
@@ -155,7 +155,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     }
@@ -385,7 +385,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 6
      },
      "via": []
     }
@@ -463,6 +463,6 @@
  },
  "route": "BHD-CWL",
  "schema": 1,
- "t": 1785335136,
- "v": "2fa65b2b51626c829e5a27cad0e2c7c083e4493d"
+ "t": 1785335167,
+ "v": "493f7e4413421d129fae09ef3b7f2c1be81fa6b3"
 }
