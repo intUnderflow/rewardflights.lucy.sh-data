@@ -1,21 +1,7 @@
 {
  "days": {
-  "29": {
+  "30": {
    "BA": [
-    {
-     "arr": "15:45",
-     "car": [
-      "BA"
-     ],
-     "dep": "08:55",
-     "fn": [
-      "BA0008"
-     ],
-     "peak": "off-peak",
-     "rfs": true,
-     "seats": {},
-     "via": []
-    },
     {
      "arr": "19:50",
      "car": [
@@ -25,11 +11,9 @@
      "fn": [
       "BA0006"
      ],
-     "peak": "off-peak",
+     "peak": null,
      "rfs": true,
-     "seats": {
-      "W": 2
-     },
+     "seats": {},
      "via": []
     }
    ]
