@@ -380,7 +380,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 1
      },
      "via": []
     },
@@ -1058,6 +1058,6 @@
  },
  "route": "GLA-BHD",
  "schema": 1,
- "t": 1785366769,
- "v": "366e690ace1699f69df56cdce557ea20db5f5417"
+ "t": 1785366797,
+ "v": "09e09265f5803bfdaa8c327186b1e0c08328320c"
 }
