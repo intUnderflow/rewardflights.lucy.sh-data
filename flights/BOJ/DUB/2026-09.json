@@ -1,0 +1,31 @@
+{
+ "days": {
+  "29": {
+   "EI": [
+    {
+     "arr": "01:35",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "23:25",
+     "fn": [
+      "EI377"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BOJ-DUB",
+ "schema": 1,
+ "t": 1785341161,
+ "v": "95b3bc3d1a1a586d76fb609a50efd2553eac9356"
+}
