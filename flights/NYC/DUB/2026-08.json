@@ -1,0 +1,31 @@
+{
+ "days": {
+  "31": {
+   "EI": [
+    {
+     "arr": "05:15",
+     "avios": {
+      "M": 20000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "17:35",
+     "fn": [
+      "EI100"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 12
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "NYC-DUB",
+ "schema": 1,
+ "t": 1785384467,
+ "v": "75e2b3169315e0e02ad00ccb8ccf0545cc8bb64b"
+}
