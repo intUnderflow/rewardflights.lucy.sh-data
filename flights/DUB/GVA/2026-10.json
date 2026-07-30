@@ -461,7 +461,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 32
+      "M": 8
      },
      "via": []
     }
@@ -646,10 +646,33 @@
      "via": []
     }
    ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "10:10",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:55",
+     "fn": [
+      "EI680"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-GVA",
  "schema": 1,
- "t": 1785388070,
- "v": "f1c73bfda76d60866326f6d16404a7e02d5da53c"
+ "t": 1785388124,
+ "v": "7389ca92cc3702b11a889ae40f8407ad7262677c"
 }
