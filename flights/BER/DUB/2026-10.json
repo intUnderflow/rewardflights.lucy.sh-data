@@ -204,7 +204,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 8
      },
      "via": []
     }
@@ -269,7 +269,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 15
      },
      "via": []
     },
@@ -395,7 +395,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 29
      },
      "via": []
     }
@@ -479,7 +479,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 28
+      "M": 8
      },
      "via": []
     }
@@ -521,7 +521,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 48
+      "M": 46
      },
      "via": []
     }
@@ -544,7 +544,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 13
      },
      "via": []
     },
@@ -689,7 +689,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 36
+      "M": 8
      },
      "via": []
     }
@@ -1229,6 +1229,6 @@
  },
  "route": "BER-DUB",
  "schema": 1,
- "t": 1785440874,
- "v": "bd948d4d7f9dff09a845cfeb62ad5ead01a236c1"
+ "t": 1785440904,
+ "v": "4e429a31703ecef9e8369900ed967353d969ccf9"
 }
