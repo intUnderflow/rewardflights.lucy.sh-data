@@ -1,28 +1,5 @@
 {
  "days": {
-  "06": {
-   "EI": [
-    {
-     "arr": "08:35",
-     "avios": {
-      "M": 20000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:35",
-     "fn": [
-      "EI076"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 16
-     },
-     "via": []
-    }
-   ]
-  },
   "08": {
    "EI": [
     {
@@ -224,7 +201,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 20
      },
      "via": []
     }
@@ -270,7 +247,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 20
      },
      "via": []
     }
@@ -302,6 +279,6 @@
  },
  "route": "BNA-DUB",
  "schema": 1,
- "t": 1785375025,
- "v": "0a2613edb0f11a58ca7e68d68a917568cecc89c0"
+ "t": 1785375052,
+ "v": "e08c880d34a2a672f1dad2b08c2490c7ced19da6"
 }
