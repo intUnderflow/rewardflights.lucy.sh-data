@@ -1,30 +1,30 @@
 {
  "days": {
-  "03": {
+  "04": {
    "EI": [
     {
-     "arr": "14:10",
+     "arr": "13:10",
      "avios": {
-      "M": 6500
+      "M": 8500
      },
      "car": [
       "EI"
      ],
-     "dep": "11:10",
+     "dep": "10:55",
      "fn": [
-      "EI493"
+      "EI673"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 50
      },
      "via": []
     }
    ]
   }
  },
- "route": "FAO-DUB",
+ "route": "BUD-DUB",
  "schema": 1,
  "t": 1785378565,
  "v": "7a5f5f7654d28f4cb99fc7c6ea8faa808824628b"

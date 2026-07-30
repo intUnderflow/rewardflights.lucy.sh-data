@@ -63,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 3
      },
      "via": []
     }
@@ -137,10 +137,102 @@
      "via": []
     }
    ]
+  },
+  "26": {
+   "EI": [
+    {
+     "arr": "11:50",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:40",
+     "fn": [
+      "EI672"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 47
+     },
+     "via": []
+    }
+   ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "11:50",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:40",
+     "fn": [
+      "EI672"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "11:50",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:40",
+     "fn": [
+      "EI672"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 30
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "11:50",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:40",
+     "fn": [
+      "EI672"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 40
+     },
+     "via": []
+    }
+   ]
   }
  },
  "route": "DUB-BUD",
  "schema": 1,
- "t": 1785378536,
- "v": "16cf5e1ff3c014ada74819bcedd3f50ba5e95e5b"
+ "t": 1785378565,
+ "v": "7a5f5f7654d28f4cb99fc7c6ea8faa808824628b"
 }
