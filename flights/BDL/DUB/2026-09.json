@@ -1,28 +1,5 @@
 {
  "days": {
-  "27": {
-   "EI": [
-    {
-     "arr": "05:15",
-     "avios": {
-      "M": 13000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "18:00",
-     "fn": [
-      "EI130"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
-     },
-     "via": []
-    }
-   ]
-  },
   "28": {
    "EI": [
     {
@@ -86,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 1
      },
      "via": []
     }
@@ -95,6 +72,6 @@
  },
  "route": "BDL-DUB",
  "schema": 1,
- "t": 1785372658,
- "v": "fbc9b3b3b946c79513fbf9bb9b3155f70a4f6b90"
+ "t": 1785372686,
+ "v": "7a71188d4851dc6712e4c401dabb3a2b0b251037"
 }
