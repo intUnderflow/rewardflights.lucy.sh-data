@@ -1,0 +1,115 @@
+{
+ "days": {
+  "29": {
+   "EI": [
+    {
+     "arr": "12:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:55",
+     "fn": [
+      "EI651"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "12:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:55",
+     "fn": [
+      "EI651"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "21:45",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:40",
+     "fn": [
+      "EI657"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 5
+     },
+     "via": []
+    }
+   ]
+  },
+  "31": {
+   "EI": [
+    {
+     "arr": "12:10",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:55",
+     "fn": [
+      "EI651"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "21:45",
+     "avios": {
+      "M": 7500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:40",
+     "fn": [
+      "EI657"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "FRA-DUB",
+ "schema": 1,
+ "t": 1785386926,
+ "v": "c9cc9a4eeb991f76cd1e9186d51ccd0a6f1826a7"
+}
