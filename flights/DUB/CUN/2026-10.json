@@ -1,0 +1,31 @@
+{
+ "days": {
+  "24": {
+   "EI": [
+    {
+     "arr": "19:05",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:15",
+     "fn": [
+      "EI143"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-CUN",
+ "schema": 1,
+ "t": 1785381533,
+ "v": "8fa73fc800ac5d23a6efd850ae6263f010578da9"
+}
