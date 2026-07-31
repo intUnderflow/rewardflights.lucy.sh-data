@@ -1,53 +1,53 @@
 {
  "days": {
-  "05": {
+  "23": {
    "EI": [
     {
-     "arr": "16:05",
+     "arr": "20:40",
      "avios": {
-      "M": 4000
+      "M": 4500
      },
      "car": [
-      "E1"
+      "EA"
      ],
-     "dep": "14:35",
+     "dep": "19:15",
      "fn": [
-      "EI3692"
+      "EI3331"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 1
      },
      "via": []
     }
    ]
   },
-  "12": {
+  "27": {
    "EI": [
     {
-     "arr": "16:05",
+     "arr": "20:40",
      "avios": {
-      "M": 4000
+      "M": 4500
      },
      "car": [
-      "E1"
+      "EA"
      ],
-     "dep": "14:35",
+     "dep": "19:15",
      "fn": [
-      "EI3692"
+      "EI3331"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 8
      },
      "via": []
     }
    ]
   }
  },
- "route": "BHD-EXT",
+ "route": "EXT-DUB",
  "schema": 1,
  "t": 1785501206,
  "v": "5eaf895e82f029e2151fc313b29b799c593e9a13"

@@ -1,320 +1,23 @@
 {
  "days": {
-  "01": {
+  "02": {
    "EI": [
-    {
-     "arr": "10:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "09:35",
-     "fn": [
-      "EI603"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI605"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
-     },
-     "via": []
-    },
     {
      "arr": "17:20",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "16:40",
+     "dep": "16:00",
      "fn": [
-      "EI609"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "21:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:35",
-     "fn": [
-      "EI611"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    }
-   ]
-  },
-  "02": {
-   "EI": [
-    {
-     "arr": "10:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "09:35",
-     "fn": [
-      "EI603"
+      "EI3331"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
       "M": 7
-     },
-     "via": []
-    },
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI605"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
-     "arr": "17:20",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:40",
-     "fn": [
-      "EI609"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 60
-     },
-     "via": []
-    },
-    {
-     "arr": "21:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:35",
-     "fn": [
-      "EI611"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 60
-     },
-     "via": []
-    }
-   ]
-  },
-  "03": {
-   "EI": [
-    {
-     "arr": "10:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "09:35",
-     "fn": [
-      "EI603"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 54
-     },
-     "via": []
-    },
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI605"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 52
-     },
-     "via": []
-    },
-    {
-     "arr": "17:20",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:40",
-     "fn": [
-      "EI609"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 54
-     },
-     "via": []
-    },
-    {
-     "arr": "21:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:35",
-     "fn": [
-      "EI611"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 51
-     },
-     "via": []
-    }
-   ]
-  },
-  "04": {
-   "EI": [
-    {
-     "arr": "10:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "09:35",
-     "fn": [
-      "EI603"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    },
-    {
-     "arr": "14:00",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI605"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 45
-     },
-     "via": []
-    },
-    {
-     "arr": "17:20",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "16:40",
-     "fn": [
-      "EI609"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 52
-     },
-     "via": []
-    },
-    {
-     "arr": "21:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "20:35",
-     "fn": [
-      "EI611"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 45
      },
      "via": []
     }
@@ -323,85 +26,534 @@
   "05": {
    "EI": [
     {
-     "arr": "10:15",
+     "arr": "18:50",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "09:35",
+     "dep": "17:30",
      "fn": [
-      "EI603"
+      "EI3331"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 5
      },
      "via": []
-    },
+    }
+   ]
+  },
+  "06": {
+   "EI": [
     {
-     "arr": "14:00",
+     "arr": "20:40",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "13:20",
+     "dep": "19:15",
      "fn": [
-      "EI605"
+      "EI3331"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 11
      },
      "via": []
-    },
+    }
+   ]
+  },
+  "07": {
+   "EI": [
     {
      "arr": "17:20",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "16:40",
+     "dep": "16:00",
      "fn": [
-      "EI609"
+      "EI3331"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 50
+      "M": 8
      },
      "via": []
-    },
+    }
+   ]
+  },
+  "08": {
+   "EI": [
     {
-     "arr": "21:15",
+     "arr": "17:20",
      "avios": {
       "M": 4000
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "20:35",
+     "dep": "16:00",
      "fn": [
-      "EI611"
+      "EI3331"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 45
+      "M": 7
+     },
+     "via": []
+    }
+   ]
+  },
+  "09": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 5
+     },
+     "via": []
+    }
+   ]
+  },
+  "10": {
+   "EI": [
+    {
+     "arr": "20:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:15",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 12
+     },
+     "via": []
+    }
+   ]
+  },
+  "12": {
+   "EI": [
+    {
+     "arr": "18:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:30",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "13": {
+   "EI": [
+    {
+     "arr": "20:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:15",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "15": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "16": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 13
+     },
+     "via": []
+    }
+   ]
+  },
+  "17": {
+   "EI": [
+    {
+     "arr": "20:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:15",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 10
+     },
+     "via": []
+    }
+   ]
+  },
+  "18": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "19": {
+   "EI": [
+    {
+     "arr": "18:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:30",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "20": {
+   "EI": [
+    {
+     "arr": "20:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:15",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 9
+     },
+     "via": []
+    }
+   ]
+  },
+  "21": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 9
+     },
+     "via": []
+    }
+   ]
+  },
+  "22": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
+     },
+     "via": []
+    }
+   ]
+  },
+  "23": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 17
+     },
+     "via": []
+    }
+   ]
+  },
+  "24": {
+   "EI": [
+    {
+     "arr": "20:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:15",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 17
+     },
+     "via": []
+    }
+   ]
+  },
+  "25": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 10
+     },
+     "via": []
+    }
+   ]
+  },
+  "27": {
+   "EI": [
+    {
+     "arr": "20:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "19:15",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 20
+     },
+     "via": []
+    }
+   ]
+  },
+  "28": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 10
+     },
+     "via": []
+    }
+   ]
+  },
+  "30": {
+   "EI": [
+    {
+     "arr": "17:20",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "16:00",
+     "fn": [
+      "EI3331"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
      },
      "via": []
     }
    ]
   }
  },
- "route": "AMS-DUB",
+ "route": "EXT-DUB",
  "schema": 1,
  "t": 1785501206,
  "v": "5eaf895e82f029e2151fc313b29b799c593e9a13"
