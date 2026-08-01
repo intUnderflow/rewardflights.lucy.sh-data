@@ -4,7 +4,7 @@
  "counts": {
   "airlines": 2,
   "places": 199,
-  "routeDates": 83531,
+  "routeDates": 83530,
   "routes": 414
  },
  "epoch": "2026-01-01",
@@ -14,6 +14,6 @@
   "note": "Derived from github.com/intUnderflow/rewardflights. Availability facts provided as-is, with no warranty and no guarantee of accuracy or bookability.",
   "repo": "https://github.com/intUnderflow/rewardflights"
  },
- "t": 1785625136,
- "v": "4b45168e2510fbe502c63893d7aec147e50d2736"
+ "t": 1785625162,
+ "v": "11b5713c1838d1457b080adcf2de800a3092ccc7"
 }
