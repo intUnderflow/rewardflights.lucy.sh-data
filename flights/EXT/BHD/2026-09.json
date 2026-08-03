@@ -1,30 +1,30 @@
 {
  "days": {
-  "30": {
+  "12": {
    "EI": [
     {
-     "arr": "13:20",
+     "arr": "18:05",
      "avios": {
-      "M": 4500
+      "M": 4000
      },
      "car": [
       "E1"
      ],
-     "dep": "12:00",
+     "dep": "16:35",
      "fn": [
-      "EI3621"
+      "EI3693"
      ],
-     "peak": "peak",
+     "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 26
      },
      "via": []
     }
    ]
   }
  },
- "route": "CWL-BHD",
+ "route": "EXT-BHD",
  "schema": 1,
  "t": 1785725865,
  "v": "4e640fbff7c71369f122a4056f16fbb94b8324ab"
