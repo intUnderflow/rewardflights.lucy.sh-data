@@ -1,64 +1,18 @@
 {
  "days": {
-  "03": {
+  "01": {
    "EI": [
     {
-     "arr": "16:05",
+     "arr": "07:50",
      "avios": {
       "M": 4000
      },
      "car": [
-      "E1"
+      "EA"
      ],
-     "dep": "14:35",
+     "dep": "06:40",
      "fn": [
-      "EI3692"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
-     },
-     "via": []
-    }
-   ]
-  },
-  "10": {
-   "EI": [
-    {
-     "arr": "16:05",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:35",
-     "fn": [
-      "EI3692"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
-     },
-     "via": []
-    }
-   ]
-  },
-  "17": {
-   "EI": [
-    {
-     "arr": "16:05",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:35",
-     "fn": [
-      "EI3692"
+      "EI3220"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -66,22 +20,75 @@
       "M": 1
      },
      "via": []
-    }
-   ]
-  },
-  "24": {
-   "EI": [
+    },
     {
-     "arr": "16:05",
+     "arr": "11:30",
      "avios": {
       "M": 4000
      },
      "car": [
-      "E1"
+      "EA"
      ],
-     "dep": "14:35",
+     "dep": "10:20",
      "fn": [
-      "EI3692"
+      "EI3222"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "12:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "11:30",
+     "fn": [
+      "EI3224"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "15:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "14:05",
+     "fn": [
+      "EI3226"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "16:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "15:30",
+     "fn": [
+      "EI3228"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -93,7 +100,7 @@
    ]
   }
  },
- "route": "BHD-EXT",
+ "route": "DUB-GLA",
  "schema": 1,
  "t": 1785728794,
  "v": "5d03cdd19f175525f50e2e668e9b3a4b052d1a46"
