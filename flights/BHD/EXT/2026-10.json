@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 1
      },
      "via": []
     }
@@ -40,7 +40,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 1
      },
      "via": []
     }
@@ -95,6 +95,6 @@
  },
  "route": "BHD-EXT",
  "schema": 1,
- "t": 1785797593,
- "v": "4db0acdaa803adf5583740b2918237c4a80cbd93"
+ "t": 1785798110,
+ "v": "84b4a74b3a977b33e9f9399c132b8429d68abce1"
 }
