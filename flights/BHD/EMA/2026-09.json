@@ -40,7 +40,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 20
      },
      "via": []
     }
@@ -63,7 +63,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 32
      },
      "via": []
     }
@@ -86,30 +86,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
-     },
-     "via": []
-    }
-   ]
-  },
-  "05": {
-   "EI": [
-    {
-     "arr": "08:10",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "06:55",
-     "fn": [
-      "EI3680"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 4
+      "M": 14
      },
      "via": []
     }
@@ -178,7 +155,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 31
      },
      "via": []
     }
@@ -224,7 +201,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 25
      },
      "via": []
     }
@@ -247,30 +224,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 6
-     },
-     "via": []
-    }
-   ]
-  },
-  "12": {
-   "EI": [
-    {
-     "arr": "08:10",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "06:55",
-     "fn": [
-      "EI3680"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
+      "M": 5
      },
      "via": []
     }
@@ -293,7 +247,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     }
@@ -362,7 +316,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 34
      },
      "via": []
     }
@@ -408,7 +362,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
+      "M": 2
      },
      "via": []
     }
@@ -693,6 +647,6 @@
  },
  "route": "BHD-EMA",
  "schema": 1,
- "t": 1785797101,
- "v": "8658bf373871bdbfea6a10747554d92698cf9f54"
+ "t": 1785797593,
+ "v": "4db0acdaa803adf5583740b2918237c4a80cbd93"
 }
