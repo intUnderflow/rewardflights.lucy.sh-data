@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 4
      },
      "via": []
     }
@@ -86,7 +86,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 6
      },
      "via": []
     }
@@ -132,7 +132,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 6
      },
      "via": []
     }
@@ -201,7 +201,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 8
      },
      "via": []
     }
@@ -293,30 +293,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 3
-     },
-     "via": []
-    }
-   ]
-  },
-  "25": {
-   "EI": [
-    {
-     "arr": "11:30",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "10:15",
-     "fn": [
-      "EI3620"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
+      "M": 2
      },
      "via": []
     }
@@ -417,6 +394,6 @@
  },
  "route": "BHD-CWL",
  "schema": 1,
- "t": 1785739377,
- "v": "a367167a066ddc55bb8a32064d5e1a2ea1b941ff"
+ "t": 1785796631,
+ "v": "3c173956e94500b821255446b51ce2a2b55f535d"
 }
