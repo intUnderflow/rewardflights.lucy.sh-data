@@ -1,0 +1,54 @@
+{
+ "days": {
+  "04": {
+   "EI": [
+    {
+     "arr": "20:45",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:45",
+     "fn": [
+      "EI757"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "06": {
+   "EI": [
+    {
+     "arr": "20:45",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:45",
+     "fn": [
+      "EI757"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "SVQ-DUB",
+ "schema": 1,
+ "t": 1785736552,
+ "v": "b289d0103aa07c0e7eafb65b62eea65544b248f0"
+}
