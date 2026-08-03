@@ -1,0 +1,69 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "08:40",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "07:00",
+     "fn": [
+      "EI3300"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 10
+     },
+     "via": []
+    },
+    {
+     "arr": "16:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "14:45",
+     "fn": [
+      "EI3304"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "19:30",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "17:50",
+     "fn": [
+      "EI3308"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-SOU",
+ "schema": 1,
+ "t": 1785736045,
+ "v": "4e551022017625bfd6a08f75d708df63c3cbad0a"
+}
