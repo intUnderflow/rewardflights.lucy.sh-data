@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "18:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:20",
+     "fn": [
+      "EI069"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 31
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-LAX",
+ "schema": 1,
+ "t": 1785733055,
+ "v": "a47486b0ceba9a64b5c2024b8a37990b9b4c5ea6"
+}

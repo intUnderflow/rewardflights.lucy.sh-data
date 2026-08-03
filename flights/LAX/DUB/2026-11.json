@@ -1,0 +1,146 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "14:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:15",
+     "fn": [
+      "EI068"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "14:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:15",
+     "fn": [
+      "EI068"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "04": {
+   "EI": [
+    {
+     "arr": "14:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:15",
+     "fn": [
+      "EI068"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 30
+     },
+     "via": []
+    }
+   ]
+  },
+  "06": {
+   "EI": [
+    {
+     "arr": "14:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:15",
+     "fn": [
+      "EI068"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 32
+     },
+     "via": []
+    }
+   ]
+  },
+  "07": {
+   "EI": [
+    {
+     "arr": "14:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:15",
+     "fn": [
+      "EI068"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  },
+  "08": {
+   "EI": [
+    {
+     "arr": "14:30",
+     "avios": {
+      "M": 16250
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:15",
+     "fn": [
+      "EI068"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 28
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "LAX-DUB",
+ "schema": 1,
+ "t": 1785733055,
+ "v": "a47486b0ceba9a64b5c2024b8a37990b9b4c5ea6"
+}
