@@ -1,99 +1,91 @@
 {
  "days": {
-  "03": {
+  "01": {
    "EI": [
     {
-     "arr": "18:05",
+     "arr": "12:00",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "E1"
+      "EI"
      ],
-     "dep": "16:35",
+     "dep": "10:45",
      "fn": [
-      "EI3693"
+      "EI651"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "21:10",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "20:00",
+     "fn": [
+      "EI657"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
      },
      "via": []
     }
    ]
   },
-  "10": {
+  "02": {
    "EI": [
     {
-     "arr": "18:05",
+     "arr": "12:00",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "E1"
+      "EI"
      ],
-     "dep": "16:35",
+     "dep": "10:45",
      "fn": [
-      "EI3693"
+      "EI651"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 8
      },
      "via": []
-    }
-   ]
-  },
-  "17": {
-   "EI": [
+    },
     {
-     "arr": "18:05",
+     "arr": "21:10",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "E1"
+      "EI"
      ],
-     "dep": "16:35",
+     "dep": "20:00",
      "fn": [
-      "EI3693"
+      "EI657"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
-     },
-     "via": []
-    }
-   ]
-  },
-  "24": {
-   "EI": [
-    {
-     "arr": "18:05",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "16:35",
-     "fn": [
-      "EI3693"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
+      "M": 51
      },
      "via": []
     }
    ]
   }
  },
- "route": "EXT-BHD",
+ "route": "FRA-DUB",
  "schema": 1,
  "t": 1785728303,
  "v": "7ca975d23c5d5d6ea58ae5251ec6897dc94e4f2f"
