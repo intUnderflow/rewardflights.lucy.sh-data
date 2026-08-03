@@ -1,0 +1,69 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "08:05",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "06:40",
+     "fn": [
+      "EI3390"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "16:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "15:00",
+     "fn": [
+      "EI3392"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "18:00",
+     "fn": [
+      "EI3394"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-LBA",
+ "schema": 1,
+ "t": 1785733565,
+ "v": "7355fa919e913d45391dc9e278dae6600204f4c6"
+}
