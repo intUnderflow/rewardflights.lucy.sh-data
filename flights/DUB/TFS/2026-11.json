@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "18:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:55",
+     "fn": [
+      "EI764"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-TFS",
+ "schema": 1,
+ "t": 1785736967,
+ "v": "77ae6c73392432cde25b9e013f9e1f0d6c0dca66"
+}
