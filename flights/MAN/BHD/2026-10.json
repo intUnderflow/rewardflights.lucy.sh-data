@@ -55,7 +55,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 33
      },
      "via": []
     },
@@ -97,26 +97,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
-     },
-     "via": []
-    },
-    {
-     "arr": "13:50",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "12:40",
-     "fn": [
-      "EI3613"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
+      "M": 17
      },
      "via": []
     },
@@ -1236,7 +1217,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 1
      },
      "via": []
     },
@@ -1255,7 +1236,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 18
      },
      "via": []
     },
@@ -2116,7 +2097,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     },
@@ -2356,7 +2337,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 3
      },
      "via": []
     },
@@ -2483,6 +2464,6 @@
  },
  "route": "MAN-BHD",
  "schema": 1,
- "t": 1785799403,
- "v": "30530720b31d08366854cd2a6c94886867964d13"
+ "t": 1785799929,
+ "v": "7d92f04d40b0eaf1f7debc65c28b494cf0a94347"
 }

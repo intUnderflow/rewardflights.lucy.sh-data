@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 35
+      "M": 34
      },
      "via": []
     },
@@ -276,7 +276,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 10
      },
      "via": []
     },
@@ -375,7 +375,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 20
      },
      "via": []
     },
@@ -455,7 +455,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 31
+      "M": 29
      },
      "via": []
     },
@@ -1415,7 +1415,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 11
      },
      "via": []
     },
@@ -2483,6 +2483,6 @@
  },
  "route": "BHD-MAN",
  "schema": 1,
- "t": 1785799403,
- "v": "30530720b31d08366854cd2a6c94886867964d13"
+ "t": 1785799929,
+ "v": "7d92f04d40b0eaf1f7debc65c28b494cf0a94347"
 }
