@@ -3,35 +3,54 @@
   "01": {
    "EI": [
     {
-     "arr": "08:00",
+     "arr": "08:05",
      "avios": {
       "M": 4000
      },
      "car": [
       "E1"
      ],
-     "dep": "06:50",
+     "dep": "07:00",
      "fn": [
-      "EI3670"
+      "EI3610"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 12
      },
      "via": []
     },
     {
-     "arr": "11:25",
+     "arr": "12:10",
      "avios": {
       "M": 4000
      },
      "car": [
       "E1"
      ],
-     "dep": "10:20",
+     "dep": "11:05",
      "fn": [
-      "EI3672"
+      "EI3612"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    },
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "14:25",
+     "fn": [
+      "EI3614"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -41,35 +60,16 @@
      "via": []
     },
     {
-     "arr": "16:00",
+     "arr": "19:25",
      "avios": {
       "M": 4000
      },
      "car": [
       "E1"
      ],
-     "dep": "14:50",
+     "dep": "18:20",
      "fn": [
-      "EI3676"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
-     "arr": "19:15",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "18:05",
-     "fn": [
-      "EI3678"
+      "EI3618"
      ],
      "peak": "off-peak",
      "rfs": false,
@@ -81,7 +81,7 @@
    ]
   }
  },
- "route": "BHD-LBA",
+ "route": "BHD-MAN",
  "schema": 1,
  "t": 1785727222,
  "v": "db0236ad9dd80fb8d901b31e24151aef78cc0291"
