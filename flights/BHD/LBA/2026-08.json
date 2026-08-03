@@ -1,51 +1,5 @@
 {
  "days": {
-  "09": {
-   "EI": [
-    {
-     "arr": "08:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "06:50",
-     "fn": [
-      "EI3670"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 22
-     },
-     "via": []
-    }
-   ]
-  },
-  "10": {
-   "EI": [
-    {
-     "arr": "08:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "06:50",
-     "fn": [
-      "EI3670"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
-     },
-     "via": []
-    }
-   ]
-  },
   "11": {
    "EI": [
     {
@@ -63,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 8
      },
      "via": []
     }
@@ -87,25 +41,6 @@
      "rfs": false,
      "seats": {
       "M": 10
-     },
-     "via": []
-    },
-    {
-     "arr": "11:25",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "10:20",
-     "fn": [
-      "EI3672"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 7
      },
      "via": []
     }
@@ -174,7 +109,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 9
+      "M": 7
      },
      "via": []
     },
@@ -193,7 +128,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 4
      },
      "via": []
     }
@@ -239,7 +174,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 9
      },
      "via": []
     }
@@ -323,7 +258,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 6
+      "M": 1
      },
      "via": []
     }
@@ -392,45 +327,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 29
-     },
-     "via": []
-    },
-    {
-     "arr": "11:25",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "10:20",
-     "fn": [
-      "EI3672"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
-     },
-     "via": []
-    },
-    {
-     "arr": "16:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:50",
-     "fn": [
-      "EI3676"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 5
+      "M": 26
      },
      "via": []
     }
@@ -476,7 +373,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 12
      },
      "via": []
     }
@@ -499,7 +396,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 24
      },
      "via": []
     },
@@ -537,7 +434,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 12
      },
      "via": []
     },
@@ -556,7 +453,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 2
+      "M": 1
      },
      "via": []
     }
@@ -598,26 +495,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 12
-     },
-     "via": []
-    },
-    {
-     "arr": "16:00",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:50",
-     "fn": [
-      "EI3676"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 12
+      "M": 9
      },
      "via": []
     }
@@ -640,7 +518,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 16
+      "M": 13
      },
      "via": []
     }
@@ -711,6 +589,29 @@
     }
    ]
   },
+  "30": {
+   "EI": [
+    {
+     "arr": "08:00",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "06:50",
+     "fn": [
+      "EI3670"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 13
+     },
+     "via": []
+    }
+   ]
+  },
   "31": {
    "EI": [
     {
@@ -737,6 +638,6 @@
  },
  "route": "BHD-LBA",
  "schema": 1,
- "t": 1785798110,
- "v": "84b4a74b3a977b33e9f9399c132b8429d68abce1"
+ "t": 1785799403,
+ "v": "30530720b31d08366854cd2a6c94886867964d13"
 }

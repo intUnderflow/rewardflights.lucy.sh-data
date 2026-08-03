@@ -55,7 +55,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 12
+      "M": 11
      },
      "via": []
     },
@@ -74,7 +74,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 18
+      "M": 13
      },
      "via": []
     }
@@ -116,7 +116,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     },
@@ -196,7 +196,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 17
      },
      "via": []
     },
@@ -215,7 +215,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 21
      },
      "via": []
     }
@@ -318,7 +318,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 23
      },
      "via": []
     },
@@ -497,7 +497,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 22
+      "M": 13
      },
      "via": []
     },
@@ -596,7 +596,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 17
+      "M": 16
      },
      "via": []
     },
@@ -1179,7 +1179,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 1
      },
      "via": []
     },
@@ -1259,7 +1259,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 22
      },
      "via": []
     },
@@ -1320,7 +1320,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 10
+      "M": 1
      },
      "via": []
     },
@@ -1419,7 +1419,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 19
      },
      "via": []
     },
@@ -1800,7 +1800,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 14
      },
      "via": []
     },
@@ -2082,7 +2082,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 1
      },
      "via": []
     },
@@ -2312,6 +2312,6 @@
  },
  "route": "BHD-LBA",
  "schema": 1,
- "t": 1785798110,
- "v": "84b4a74b3a977b33e9f9399c132b8429d68abce1"
+ "t": 1785799403,
+ "v": "30530720b31d08366854cd2a6c94886867964d13"
 }
