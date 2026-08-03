@@ -1,9 +1,9 @@
 {
  "days": {
-  "01": {
+  "16": {
    "EI": [
     {
-     "arr": "13:15",
+     "arr": "13:00",
      "avios": {
       "M": 6500
      },
@@ -12,19 +12,19 @@
      ],
      "dep": "10:00",
      "fn": [
-      "EI684"
+      "EI392"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 20
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-GVA",
+ "route": "DUB-HAM",
  "schema": 1,
  "t": 1785729640,
  "v": "43a6235155601d08f60e07fe9eafcfcca80e4f70"
