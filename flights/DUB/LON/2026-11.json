@@ -1,0 +1,221 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "08:05",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:40",
+     "fn": [
+      "EI152"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    },
+    {
+     "arr": "09:05",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:35",
+     "fn": [
+      "EI154"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "10:10",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "08:45",
+     "fn": [
+      "EI156"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    },
+    {
+     "arr": "11:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "10:00",
+     "fn": [
+      "EI158"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 6
+     },
+     "via": []
+    },
+    {
+     "arr": "13:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "12:05",
+     "fn": [
+      "EI164"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "14:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:05",
+     "fn": [
+      "EI166"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    },
+    {
+     "arr": "15:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:15",
+     "fn": [
+      "EI168"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "16:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:30",
+     "fn": [
+      "EI172"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    },
+    {
+     "arr": "17:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "16:30",
+     "fn": [
+      "EI174"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 7
+     },
+     "via": []
+    },
+    {
+     "arr": "19:50",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "18:30",
+     "fn": [
+      "EI178"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "21:05",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "19:45",
+     "fn": [
+      "EI184"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-LON",
+ "schema": 1,
+ "t": 1785734104,
+ "v": "3253c32972dfbb76e26bbc3100bdddd029ec96fd"
+}
