@@ -1,0 +1,73 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:10",
+     "fn": [
+      "EI586"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "11:20",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "07:10",
+     "fn": [
+      "EI582"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    },
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:10",
+     "fn": [
+      "EI586"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 3
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-AGP",
+ "schema": 1,
+ "t": 1785803007,
+ "v": "b7748ce0356060c4ab6b7fb7de29651f13c835f6"
+}
