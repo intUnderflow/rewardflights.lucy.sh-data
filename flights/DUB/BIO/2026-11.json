@@ -1,0 +1,31 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "15:15",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "12:05",
+     "fn": [
+      "EI748"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-BIO",
+ "schema": 1,
+ "t": 1785807394,
+ "v": "aefdb71a7b50b0799fdeb5c0e6951a086438a137"
+}

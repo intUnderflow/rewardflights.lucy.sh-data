@@ -1,0 +1,54 @@
+{
+ "days": {
+  "22": {
+   "EI": [
+    {
+     "arr": "17:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:20",
+     "fn": [
+      "EI748"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "29": {
+   "EI": [
+    {
+     "arr": "17:25",
+     "avios": {
+      "M": 6500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:20",
+     "fn": [
+      "EI748"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-BIO",
+ "schema": 1,
+ "t": 1785807394,
+ "v": "aefdb71a7b50b0799fdeb5c0e6951a086438a137"
+}
