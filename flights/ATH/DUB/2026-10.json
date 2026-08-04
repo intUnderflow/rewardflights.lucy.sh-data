@@ -1,0 +1,54 @@
+{
+ "days": {
+  "10": {
+   "EI": [
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI441"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    }
+   ]
+  },
+  "17": {
+   "EI": [
+    {
+     "arr": "15:30",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:00",
+     "fn": [
+      "EI441"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "ATH-DUB",
+ "schema": 1,
+ "t": 1785804619,
+ "v": "cc698c60ac0bec1a9e2c7239ceadf3709be960c7"
+}
