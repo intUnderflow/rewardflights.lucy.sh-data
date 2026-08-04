@@ -17,7 +17,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 26
      },
      "via": []
     }
@@ -105,7 +105,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 14
+      "M": 13
      },
      "via": []
     },
@@ -147,7 +147,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 46
+      "M": 45
      },
      "via": []
     },
@@ -189,7 +189,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 28
      },
      "via": []
     },
@@ -231,7 +231,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 26
+      "M": 25
      },
      "via": []
     }
@@ -426,7 +426,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 41
+      "M": 39
      },
      "via": []
     },
@@ -491,7 +491,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 49
+      "M": 45
      },
      "via": []
     }
@@ -537,7 +537,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 18
      },
      "via": []
     },
@@ -621,7 +621,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 52
+      "M": 51
      },
      "via": []
     },
@@ -663,7 +663,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 48
+      "M": 46
      },
      "via": []
     },
@@ -705,7 +705,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 27
      },
      "via": []
     }
@@ -774,7 +774,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 38
+      "M": 36
      },
      "via": []
     },
@@ -816,7 +816,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 51
+      "M": 50
      },
      "via": []
     },
@@ -951,6 +951,6 @@
  },
  "route": "DUB-GVA",
  "schema": 1,
- "t": 1785810308,
- "v": "30b7155dba61c96642d4719222a43e0fa8c4db02"
+ "t": 1785810334,
+ "v": "4a80c06eebabbd06e4221fbca81251a7dcff5594"
 }
