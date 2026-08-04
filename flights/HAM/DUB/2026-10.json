@@ -1,28 +1,5 @@
 {
  "days": {
-  "02": {
-   "EI": [
-    {
-     "arr": "14:50",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:40",
-     "fn": [
-      "EI393"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 2
-     },
-     "via": []
-    }
-   ]
-  },
   "03": {
    "EI": [
     {
@@ -132,7 +109,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 19
      },
      "via": []
     }
@@ -647,6 +624,6 @@
  },
  "route": "HAM-DUB",
  "schema": 1,
- "t": 1785810334,
- "v": "4a80c06eebabbd06e4221fbca81251a7dcff5594"
+ "t": 1785810892,
+ "v": "b8ee49d038bb43f75ed1bc2ea4b730ef292b0c2b"
 }
