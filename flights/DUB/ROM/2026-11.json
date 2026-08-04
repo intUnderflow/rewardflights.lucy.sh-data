@@ -1,0 +1,92 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "10:40",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:25",
+     "fn": [
+      "EI402"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "19:35",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:30",
+     "fn": [
+      "EI406"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "10:40",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:25",
+     "fn": [
+      "EI402"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
+     "arr": "19:35",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "15:30",
+     "fn": [
+      "EI406"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 45
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-ROM",
+ "schema": 1,
+ "t": 1785808578,
+ "v": "c923634963fdd429391d20de30203cb02f72039d"
+}
