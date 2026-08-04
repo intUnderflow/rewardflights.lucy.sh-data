@@ -357,25 +357,6 @@
      "via": []
     },
     {
-     "arr": "14:25",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI267"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 8
-     },
-     "via": []
-    },
-    {
      "arr": "14:35",
      "avios": {
       "M": 4000
@@ -391,6 +372,25 @@
      "rfs": false,
      "seats": {
       "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "14:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI267"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 8
      },
      "via": []
     },
@@ -475,25 +475,6 @@
      "via": []
     },
     {
-     "arr": "14:35",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI3267"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
      "arr": "14:25",
      "avios": {
       "M": 4000
@@ -509,6 +490,25 @@
      "rfs": false,
      "seats": {
       "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "14:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI3267"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
      },
      "via": []
     },
@@ -928,25 +928,6 @@
      "via": []
     },
     {
-     "arr": "14:35",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "13:20",
-     "fn": [
-      "EI3267"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
-     },
-     "via": []
-    },
-    {
      "arr": "14:25",
      "avios": {
       "M": 4000
@@ -962,6 +943,25 @@
      "rfs": false,
      "seats": {
       "M": 8
+     },
+     "via": []
+    },
+    {
+     "arr": "14:35",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "EA"
+     ],
+     "dep": "13:20",
+     "fn": [
+      "EI3267"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
      },
      "via": []
     },
@@ -1008,6 +1008,6 @@
  },
  "route": "BHX-DUB",
  "schema": 1,
- "t": 1785878011,
- "v": "b4850921882c568a6642bf159dfdd5ab8d680d9c"
+ "t": 1785878518,
+ "v": "9ef7c69466937935d4e9629a6ec8c5f4de160a1d"
 }
