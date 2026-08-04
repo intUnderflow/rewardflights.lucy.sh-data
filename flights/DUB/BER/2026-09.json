@@ -40,7 +40,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 21
      },
      "via": []
     },
@@ -185,7 +185,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 4
      },
      "via": []
     }
@@ -208,7 +208,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 29
+      "M": 27
      },
      "via": []
     },
@@ -311,7 +311,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 30
+      "M": 29
      },
      "via": []
     }
@@ -502,7 +502,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 42
+      "M": 41
      },
      "via": []
     },
@@ -563,7 +563,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 4
      },
      "via": []
     }
@@ -777,7 +777,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 34
+      "M": 36
      },
      "via": []
     },
@@ -819,7 +819,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 32
      },
      "via": []
     },
@@ -861,7 +861,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 37
+      "M": 38
      },
      "via": []
     },
@@ -880,7 +880,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 21
      },
      "via": []
     }
@@ -987,7 +987,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 50
+      "M": 49
      },
      "via": []
     },
@@ -1048,7 +1048,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 47
+      "M": 46
      },
      "via": []
     }
@@ -1071,7 +1071,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 33
+      "M": 32
      },
      "via": []
     },
@@ -1090,7 +1090,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 45
+      "M": 43
      },
      "via": []
     }
@@ -1099,6 +1099,6 @@
  },
  "route": "DUB-BER",
  "schema": 1,
- "t": 1785877460,
- "v": "331d05516f867097eacdb45c0de5ca56ccbd1a52"
+ "t": 1785878011,
+ "v": "b4850921882c568a6642bf159dfdd5ab8d680d9c"
 }
