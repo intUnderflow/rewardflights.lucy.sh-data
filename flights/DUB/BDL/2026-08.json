@@ -1,34 +1,10 @@
 {
  "days": {
-  "05": {
-   "EI": [
-    {
-     "arr": "16:30",
-     "avios": {
-      "C": 60000
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "14:10",
-     "fn": [
-      "EI131"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "C": 2
-     },
-     "via": []
-    }
-   ]
-  },
   "06": {
    "EI": [
     {
      "arr": "16:30",
      "avios": {
-      "C": 60000,
       "M": 20000
      },
      "car": [
@@ -41,7 +17,6 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 3,
       "M": 13
      },
      "via": []
@@ -341,7 +316,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "C": 3
+      "C": 2
      },
      "via": []
     }
@@ -467,6 +442,6 @@
  },
  "route": "DUB-BDL",
  "schema": 1,
- "t": 1785876911,
- "v": "632ae486edac21a38f94ce031e465c7ccb71188d"
+ "t": 1785877460,
+ "v": "331d05516f867097eacdb45c0de5ca56ccbd1a52"
 }
