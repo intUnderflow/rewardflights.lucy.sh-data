@@ -3,9 +3,9 @@
  "changes": "changes/recent.json",
  "counts": {
   "airlines": 2,
-  "places": 204,
-  "routeDates": 84702,
-  "routes": 448
+  "places": 203,
+  "routeDates": 84434,
+  "routes": 444
  },
  "epoch": "2026-01-01",
  "mode": "bundle",
@@ -14,6 +14,6 @@
   "note": "Derived from github.com/intUnderflow/rewardflights. Availability facts provided as-is, with no warranty and no guarantee of accuracy or bookability.",
   "repo": "https://github.com/intUnderflow/rewardflights"
  },
- "t": 1785897289,
- "v": "fcf6de033a0f7e73b55728d09c4f2dabb5d1f86d"
+ "t": 1785927604,
+ "v": "9fb378f99cc090e3079bfdb9aade70ac23eacaa1"
 }
