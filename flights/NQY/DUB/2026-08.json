@@ -1,76 +1,76 @@
 {
  "days": {
-  "01": {
+  "21": {
    "EI": [
     {
-     "arr": "20:00",
+     "arr": "18:35",
      "avios": {
-      "M": 6500
+      "M": 4500
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "16:15",
+     "dep": "17:25",
      "fn": [
-      "EI548"
+      "EI3931"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 1
      },
      "via": []
     }
    ]
   },
-  "02": {
+  "30": {
    "EI": [
     {
-     "arr": "18:40",
+     "arr": "13:55",
      "avios": {
-      "M": 6500
+      "M": 4500
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "15:00",
+     "dep": "12:40",
      "fn": [
-      "EI546"
+      "EI3931"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 16
      },
      "via": []
     }
    ]
   },
-  "04": {
+  "31": {
    "EI": [
     {
-     "arr": "18:40",
+     "arr": "18:35",
      "avios": {
-      "M": 6500
+      "M": 4500
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "15:00",
+     "dep": "17:25",
      "fn": [
-      "EI546"
+      "EI3931"
      ],
-     "peak": "off-peak",
+     "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 1
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-NCE",
+ "route": "NQY-DUB",
  "schema": 1,
  "t": 1785981235,
  "v": "cbe76100fac9975ee7443a30b9b20a25cb8fe8e2"

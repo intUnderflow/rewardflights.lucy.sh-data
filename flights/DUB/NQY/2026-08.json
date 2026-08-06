@@ -1,30 +1,30 @@
 {
  "days": {
-  "25": {
+  "26": {
    "EI": [
     {
-     "arr": "10:55",
+     "arr": "16:55",
      "avios": {
-      "M": 7500
+      "M": 4500
      },
      "car": [
-      "EI"
+      "EA"
      ],
-     "dep": "07:10",
+     "dep": "15:40",
      "fn": [
-      "EI542"
+      "EI3930"
      ],
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 5
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-NCE",
+ "route": "DUB-NQY",
  "schema": 1,
  "t": 1785981235,
  "v": "cbe76100fac9975ee7443a30b9b20a25cb8fe8e2"
