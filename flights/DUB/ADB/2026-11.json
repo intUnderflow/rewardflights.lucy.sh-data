@@ -1,0 +1,31 @@
+{
+ "days": {
+  "02": {
+   "EI": [
+    {
+     "arr": "21:25",
+     "avios": {
+      "M": 8500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "14:00",
+     "fn": [
+      "EI798"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 4
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-ADB",
+ "schema": 1,
+ "t": 1786003982,
+ "v": "998b2fb43ff1eafe330264f5cbd874de062e95b8"
+}
