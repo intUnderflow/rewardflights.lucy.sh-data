@@ -1,30 +1,30 @@
 {
  "days": {
-  "26": {
+  "31": {
    "EI": [
     {
-     "arr": "16:55",
+     "arr": "15:20",
      "avios": {
-      "M": 4500
+      "M": 7500
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "15:40",
+     "dep": "14:00",
      "fn": [
-      "EI3930"
+      "EI627"
      ],
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 4
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-NQY",
+ "route": "OSL-DUB",
  "schema": 1,
  "t": 1785982882,
  "v": "76b78566f28fd770275e8741bace0bac51f27adf"

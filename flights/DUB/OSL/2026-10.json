@@ -3,44 +3,21 @@
   "01": {
    "EI": [
     {
-     "arr": "08:50",
+     "arr": "13:40",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "07:20",
+     "dep": "10:30",
      "fn": [
-      "EI3242"
+      "EI626"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
-     },
-     "via": []
-    }
-   ]
-  },
-  "02": {
-   "EI": [
-    {
-     "arr": "08:50",
-     "avios": {
-      "M": 4000
-     },
-     "car": [
-      "EA"
-     ],
-     "dep": "07:20",
-     "fn": [
-      "EI3242"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 1
+      "M": 4
      },
      "via": []
     }
@@ -49,51 +26,51 @@
   "03": {
    "EI": [
     {
-     "arr": "16:20",
+     "arr": "12:55",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "14:45",
+     "dep": "09:45",
      "fn": [
-      "EI3242"
+      "EI626"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 4
      },
      "via": []
     }
    ]
   },
-  "04": {
+  "05": {
    "EI": [
     {
-     "arr": "16:20",
+     "arr": "13:20",
      "avios": {
-      "M": 4000
+      "M": 6500
      },
      "car": [
-      "EA"
+      "EI"
      ],
-     "dep": "14:45",
+     "dep": "10:10",
      "fn": [
-      "EI3242"
+      "EI626"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 2
      },
      "via": []
     }
    ]
   }
  },
- "route": "DUB-ABZ",
+ "route": "DUB-OSL",
  "schema": 1,
  "t": 1785982882,
  "v": "76b78566f28fd770275e8741bace0bac51f27adf"
