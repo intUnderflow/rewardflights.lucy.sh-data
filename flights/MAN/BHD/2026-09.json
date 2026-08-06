@@ -337,7 +337,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 24
+      "M": 29
      },
      "via": []
     },
@@ -356,7 +356,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 13
+      "M": 18
      },
      "via": []
     },
@@ -375,7 +375,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 30
      },
      "via": []
     },
@@ -394,7 +394,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 20
+      "M": 25
      },
      "via": []
     }
@@ -535,7 +535,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 21
+      "M": 22
      },
      "via": []
     },
@@ -897,7 +897,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 15
+      "M": 16
      },
      "via": []
     },
@@ -1221,7 +1221,7 @@
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 25
+      "M": 26
      },
      "via": []
     },
@@ -1828,6 +1828,25 @@
   "25": {
    "EI": [
     {
+     "arr": "09:45",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "08:40",
+     "fn": [
+      "EI3611"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 2
+     },
+     "via": []
+    },
+    {
      "arr": "17:20",
      "avios": {
       "M": 4000
@@ -2251,6 +2270,6 @@
  },
  "route": "MAN-BHD",
  "schema": 1,
- "t": 1786001420,
- "v": "717b241745b8cc5e409c56b2001a61d4a940a863"
+ "t": 1786001558,
+ "v": "f9e3c078be2947cea3bbacf5e7f4fb65a9854321"
 }

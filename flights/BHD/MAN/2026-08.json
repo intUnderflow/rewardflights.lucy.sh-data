@@ -1,66 +1,5 @@
 {
  "days": {
-  "12": {
-   "EI": [
-    {
-     "arr": "08:05",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "07:00",
-     "fn": [
-      "EI3610"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 6
-     },
-     "via": []
-    },
-    {
-     "arr": "12:10",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "11:05",
-     "fn": [
-      "EI3612"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 16
-     },
-     "via": []
-    },
-    {
-     "arr": "15:30",
-     "avios": {
-      "M": 4500
-     },
-     "car": [
-      "E1"
-     ],
-     "dep": "14:25",
-     "fn": [
-      "EI3614"
-     ],
-     "peak": "peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
-     },
-     "via": []
-    }
-   ]
-  },
   "13": {
    "EI": [
     {
@@ -78,7 +17,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 11
+      "M": 21
      },
      "via": []
     }
@@ -185,7 +124,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 7
      },
      "via": []
     },
@@ -204,7 +143,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 7
+      "M": 8
      },
      "via": []
     }
@@ -307,7 +246,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 8
+      "M": 9
      },
      "via": []
     },
@@ -349,7 +288,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 19
+      "M": 9
      },
      "via": []
     },
@@ -368,7 +307,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 7
      },
      "via": []
     }
@@ -433,7 +372,7 @@
      "peak": "peak",
      "rfs": false,
      "seats": {
-      "M": 5
+      "M": 6
      },
      "via": []
     }
@@ -751,6 +690,6 @@
  },
  "route": "BHD-MAN",
  "schema": 1,
- "t": 1786001420,
- "v": "717b241745b8cc5e409c56b2001a61d4a940a863"
+ "t": 1786001558,
+ "v": "f9e3c078be2947cea3bbacf5e7f4fb65a9854321"
 }
