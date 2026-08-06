@@ -1,0 +1,31 @@
+{
+ "days": {
+  "31": {
+   "EI": [
+    {
+     "arr": "08:55",
+     "avios": {
+      "M": 4500
+     },
+     "car": [
+      "EI"
+     ],
+     "dep": "06:15",
+     "fn": [
+      "EI602"
+     ],
+     "peak": "peak",
+     "rfs": false,
+     "seats": {
+      "M": 27
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "DUB-AMS",
+ "schema": 1,
+ "t": 1786005890,
+ "v": "be95135c117ac022dc2eb5ce26858ad627d9fd57"
+}
