@@ -1,0 +1,290 @@
+{
+ "days": {
+  "01": {
+   "EI": [
+    {
+     "arr": "08:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "06:50",
+     "fn": [
+      "EI3670"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 25
+     },
+     "via": []
+    },
+    {
+     "arr": "11:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "10:20",
+     "fn": [
+      "EI3672"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "16:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "14:50",
+     "fn": [
+      "EI3676"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    },
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "18:05",
+     "fn": [
+      "EI3678"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 1
+     },
+     "via": []
+    }
+   ]
+  },
+  "02": {
+   "EI": [
+    {
+     "arr": "08:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "06:50",
+     "fn": [
+      "EI3670"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 24
+     },
+     "via": []
+    },
+    {
+     "arr": "11:25",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "10:20",
+     "fn": [
+      "EI3672"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 25
+     },
+     "via": []
+    },
+    {
+     "arr": "16:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "14:50",
+     "fn": [
+      "EI3676"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
+     },
+     "via": []
+    },
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "18:05",
+     "fn": [
+      "EI3678"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 21
+     },
+     "via": []
+    }
+   ]
+  },
+  "03": {
+   "EI": [
+    {
+     "arr": "08:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "06:50",
+     "fn": [
+      "EI3670"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
+     },
+     "via": []
+    },
+    {
+     "arr": "16:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "14:50",
+     "fn": [
+      "EI3676"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
+     },
+     "via": []
+    },
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "18:05",
+     "fn": [
+      "EI3678"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 22
+     },
+     "via": []
+    }
+   ]
+  },
+  "04": {
+   "EI": [
+    {
+     "arr": "08:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "06:50",
+     "fn": [
+      "EI3670"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 24
+     },
+     "via": []
+    },
+    {
+     "arr": "16:00",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "14:50",
+     "fn": [
+      "EI3676"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 23
+     },
+     "via": []
+    },
+    {
+     "arr": "19:15",
+     "avios": {
+      "M": 4000
+     },
+     "car": [
+      "E1"
+     ],
+     "dep": "18:05",
+     "fn": [
+      "EI3678"
+     ],
+     "peak": "off-peak",
+     "rfs": false,
+     "seats": {
+      "M": 21
+     },
+     "via": []
+    }
+   ]
+  }
+ },
+ "route": "BHD-LBA",
+ "schema": 1,
+ "t": 1786000999,
+ "v": "b83ce6aa4b26e496bb2d8b62c543cd3dee21755e"
+}
