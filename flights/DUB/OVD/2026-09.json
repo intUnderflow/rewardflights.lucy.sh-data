@@ -1,145 +1,122 @@
 {
  "days": {
-  "01": {
+  "15": {
    "EI": [
     {
-     "arr": "22:25",
+     "arr": "21:40",
      "avios": {
       "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "20:40",
+     "dep": "18:25",
      "fn": [
-      "EI549"
+      "EI740"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 1
+      "M": 26
      },
      "via": []
     }
    ]
   },
-  "02": {
+  "19": {
    "EI": [
     {
-     "arr": "21:00",
+     "arr": "21:40",
      "avios": {
       "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "19:20",
+     "dep": "18:25",
      "fn": [
-      "EI547"
+      "EI740"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 27
      },
      "via": []
     }
    ]
   },
-  "04": {
+  "22": {
    "EI": [
     {
-     "arr": "21:00",
+     "arr": "21:40",
      "avios": {
       "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "19:20",
+     "dep": "18:25",
      "fn": [
-      "EI547"
+      "EI740"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 24
      },
      "via": []
     }
    ]
   },
-  "06": {
+  "26": {
    "EI": [
     {
-     "arr": "21:00",
+     "arr": "21:40",
      "avios": {
       "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "19:20",
+     "dep": "18:25",
      "fn": [
-      "EI547"
+      "EI740"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
+      "M": 26
      },
      "via": []
     }
    ]
   },
-  "08": {
+  "29": {
    "EI": [
     {
-     "arr": "22:25",
+     "arr": "21:40",
      "avios": {
       "M": 6500
      },
      "car": [
       "EI"
      ],
-     "dep": "20:40",
+     "dep": "18:25",
      "fn": [
-      "EI549"
+      "EI740"
      ],
      "peak": "off-peak",
      "rfs": false,
      "seats": {
-      "M": 4
-     },
-     "via": []
-    }
-   ]
-  },
-  "09": {
-   "EI": [
-    {
-     "arr": "21:00",
-     "avios": {
-      "M": 6500
-     },
-     "car": [
-      "EI"
-     ],
-     "dep": "19:20",
-     "fn": [
-      "EI547"
-     ],
-     "peak": "off-peak",
-     "rfs": false,
-     "seats": {
-      "M": 3
+      "M": 41
      },
      "via": []
     }
    ]
   }
  },
- "route": "NCE-DUB",
+ "route": "DUB-OVD",
  "schema": 1,
  "t": 1785983454,
  "v": "567c61f5022c1657a76fbeb981a7b32f9ea5a148"
